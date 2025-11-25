@@ -1,0 +1,14 @@
+C:\WizLaptop\School\Code\after decimal counter\bin\Debug\net8.0\after decimal counter.exe
+C:\WizLaptop\School\Code\after decimal counter\bin\Debug\net8.0\after decimal counter.deps.json
+C:\WizLaptop\School\Code\after decimal counter\bin\Debug\net8.0\after decimal counter.runtimeconfig.json
+C:\WizLaptop\School\Code\after decimal counter\bin\Debug\net8.0\after decimal counter.dll
+C:\WizLaptop\School\Code\after decimal counter\bin\Debug\net8.0\after decimal counter.pdb
+C:\WizLaptop\School\Code\after decimal counter\obj\Debug\net8.0\after decimal counter.GeneratedMSBuildEditorConfig.editorconfig
+C:\WizLaptop\School\Code\after decimal counter\obj\Debug\net8.0\after decimal counter.AssemblyInfoInputs.cache
+C:\WizLaptop\School\Code\after decimal counter\obj\Debug\net8.0\after decimal counter.AssemblyInfo.cs
+C:\WizLaptop\School\Code\after decimal counter\obj\Debug\net8.0\after decimal counter.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\Code\after decimal counter\obj\Debug\net8.0\after decimal counter.dll
+C:\WizLaptop\School\Code\after decimal counter\obj\Debug\net8.0\refint\after decimal counter.dll
+C:\WizLaptop\School\Code\after decimal counter\obj\Debug\net8.0\after decimal counter.pdb
+C:\WizLaptop\School\Code\after decimal counter\obj\Debug\net8.0\after decimal counter.genruntimeconfig.cache
+C:\WizLaptop\School\Code\after decimal counter\obj\Debug\net8.0\ref\after decimal counter.dll

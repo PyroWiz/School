@@ -1,0 +1,7 @@
+C:\WizLaptop\School\OOP\hw1\bin\Debug\hw1.exe.config
+C:\WizLaptop\School\OOP\hw1\bin\Debug\hw1.exe
+C:\WizLaptop\School\OOP\hw1\bin\Debug\hw1.pdb
+C:\WizLaptop\School\OOP\hw1\obj\Debug\hw1.csproj.AssemblyReference.cache
+C:\WizLaptop\School\OOP\hw1\obj\Debug\hw1.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\OOP\hw1\obj\Debug\hw1.exe
+C:\WizLaptop\School\OOP\hw1\obj\Debug\hw1.pdb

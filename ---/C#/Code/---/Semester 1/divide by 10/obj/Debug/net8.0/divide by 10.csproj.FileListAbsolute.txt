@@ -1,0 +1,14 @@
+C:\WizLaptop\School\Code\divide by 10\bin\Debug\net8.0\divide by 10.exe
+C:\WizLaptop\School\Code\divide by 10\bin\Debug\net8.0\divide by 10.deps.json
+C:\WizLaptop\School\Code\divide by 10\bin\Debug\net8.0\divide by 10.runtimeconfig.json
+C:\WizLaptop\School\Code\divide by 10\bin\Debug\net8.0\divide by 10.dll
+C:\WizLaptop\School\Code\divide by 10\bin\Debug\net8.0\divide by 10.pdb
+C:\WizLaptop\School\Code\divide by 10\obj\Debug\net8.0\divide by 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\WizLaptop\School\Code\divide by 10\obj\Debug\net8.0\divide by 10.AssemblyInfoInputs.cache
+C:\WizLaptop\School\Code\divide by 10\obj\Debug\net8.0\divide by 10.AssemblyInfo.cs
+C:\WizLaptop\School\Code\divide by 10\obj\Debug\net8.0\divide by 10.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\Code\divide by 10\obj\Debug\net8.0\divide by 10.dll
+C:\WizLaptop\School\Code\divide by 10\obj\Debug\net8.0\refint\divide by 10.dll
+C:\WizLaptop\School\Code\divide by 10\obj\Debug\net8.0\divide by 10.pdb
+C:\WizLaptop\School\Code\divide by 10\obj\Debug\net8.0\divide by 10.genruntimeconfig.cache
+C:\WizLaptop\School\Code\divide by 10\obj\Debug\net8.0\ref\divide by 10.dll

@@ -1,0 +1,14 @@
+C:\WizLaptop\School\Code\SchoolBuses\bin\Debug\net8.0\SchoolBuses.exe
+C:\WizLaptop\School\Code\SchoolBuses\bin\Debug\net8.0\SchoolBuses.deps.json
+C:\WizLaptop\School\Code\SchoolBuses\bin\Debug\net8.0\SchoolBuses.runtimeconfig.json
+C:\WizLaptop\School\Code\SchoolBuses\bin\Debug\net8.0\SchoolBuses.dll
+C:\WizLaptop\School\Code\SchoolBuses\bin\Debug\net8.0\SchoolBuses.pdb
+C:\WizLaptop\School\Code\SchoolBuses\obj\Debug\net8.0\SchoolBuses.GeneratedMSBuildEditorConfig.editorconfig
+C:\WizLaptop\School\Code\SchoolBuses\obj\Debug\net8.0\SchoolBuses.AssemblyInfoInputs.cache
+C:\WizLaptop\School\Code\SchoolBuses\obj\Debug\net8.0\SchoolBuses.AssemblyInfo.cs
+C:\WizLaptop\School\Code\SchoolBuses\obj\Debug\net8.0\SchoolBuses.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\Code\SchoolBuses\obj\Debug\net8.0\SchoolBuses.dll
+C:\WizLaptop\School\Code\SchoolBuses\obj\Debug\net8.0\refint\SchoolBuses.dll
+C:\WizLaptop\School\Code\SchoolBuses\obj\Debug\net8.0\SchoolBuses.pdb
+C:\WizLaptop\School\Code\SchoolBuses\obj\Debug\net8.0\SchoolBuses.genruntimeconfig.cache
+C:\WizLaptop\School\Code\SchoolBuses\obj\Debug\net8.0\ref\SchoolBuses.dll

@@ -1,0 +1,7 @@
+G:\Other computers\My Laptop\School\C#\Code\Mahat Study\1\bin\Debug\12.exe.config
+G:\Other computers\My Laptop\School\C#\Code\Mahat Study\1\bin\Debug\12.exe
+G:\Other computers\My Laptop\School\C#\Code\Mahat Study\1\bin\Debug\12.pdb
+G:\Other computers\My Laptop\School\C#\Code\Mahat Study\1\obj\Debug\12.csproj.AssemblyReference.cache
+G:\Other computers\My Laptop\School\C#\Code\Mahat Study\1\obj\Debug\12.csproj.CoreCompileInputs.cache
+G:\Other computers\My Laptop\School\C#\Code\Mahat Study\1\obj\Debug\12.exe
+G:\Other computers\My Laptop\School\C#\Code\Mahat Study\1\obj\Debug\12.pdb

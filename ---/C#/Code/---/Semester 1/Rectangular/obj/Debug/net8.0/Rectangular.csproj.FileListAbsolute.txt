@@ -1,0 +1,14 @@
+C:\WizLaptop\School\Code\Rectangular\bin\Debug\net8.0\Rectangular.exe
+C:\WizLaptop\School\Code\Rectangular\bin\Debug\net8.0\Rectangular.deps.json
+C:\WizLaptop\School\Code\Rectangular\bin\Debug\net8.0\Rectangular.runtimeconfig.json
+C:\WizLaptop\School\Code\Rectangular\bin\Debug\net8.0\Rectangular.dll
+C:\WizLaptop\School\Code\Rectangular\bin\Debug\net8.0\Rectangular.pdb
+C:\WizLaptop\School\Code\Rectangular\obj\Debug\net8.0\Rectangular.GeneratedMSBuildEditorConfig.editorconfig
+C:\WizLaptop\School\Code\Rectangular\obj\Debug\net8.0\Rectangular.AssemblyInfoInputs.cache
+C:\WizLaptop\School\Code\Rectangular\obj\Debug\net8.0\Rectangular.AssemblyInfo.cs
+C:\WizLaptop\School\Code\Rectangular\obj\Debug\net8.0\Rectangular.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\Code\Rectangular\obj\Debug\net8.0\Rectangular.dll
+C:\WizLaptop\School\Code\Rectangular\obj\Debug\net8.0\refint\Rectangular.dll
+C:\WizLaptop\School\Code\Rectangular\obj\Debug\net8.0\Rectangular.pdb
+C:\WizLaptop\School\Code\Rectangular\obj\Debug\net8.0\Rectangular.genruntimeconfig.cache
+C:\WizLaptop\School\Code\Rectangular\obj\Debug\net8.0\ref\Rectangular.dll

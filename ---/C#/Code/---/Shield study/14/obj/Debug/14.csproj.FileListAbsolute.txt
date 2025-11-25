@@ -1,0 +1,7 @@
+G:\Other computers\My Laptop\School\C#\Code\Shield study\14\obj\Debug\14.csproj.AssemblyReference.cache
+G:\Other computers\My Laptop\School\C#\Code\Shield study\14\obj\Debug\14.csproj.CoreCompileInputs.cache
+G:\Other computers\My Laptop\School\C#\Code\Shield study\14\bin\Debug\14.exe.config
+G:\Other computers\My Laptop\School\C#\Code\Shield study\14\bin\Debug\14.exe
+G:\Other computers\My Laptop\School\C#\Code\Shield study\14\bin\Debug\14.pdb
+G:\Other computers\My Laptop\School\C#\Code\Shield study\14\obj\Debug\14.exe
+G:\Other computers\My Laptop\School\C#\Code\Shield study\14\obj\Debug\14.pdb

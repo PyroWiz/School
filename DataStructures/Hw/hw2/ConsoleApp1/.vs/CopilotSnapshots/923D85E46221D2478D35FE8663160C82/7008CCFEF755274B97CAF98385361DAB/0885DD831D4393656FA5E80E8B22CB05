@@ -1,0 +1,16 @@
+﻿namespace ConsoleApp1
+{
+    public class Exs
+    {
+        void Ex1()
+        {
+            One(10, 0);
+            int One(int n, int multi)
+            {
+                if (n == 0) { return multi; }
+                if (n % 2 != 0) { multi *= n; }
+                One(n - 1, multi);
+            }
+        }
+    }
+}

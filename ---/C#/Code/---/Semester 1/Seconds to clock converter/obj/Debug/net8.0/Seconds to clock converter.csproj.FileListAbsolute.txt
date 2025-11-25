@@ -1,0 +1,14 @@
+C:\WizLaptop\School\Code\Seconds to clock converter\bin\Debug\net8.0\Seconds to clock converter.exe
+C:\WizLaptop\School\Code\Seconds to clock converter\bin\Debug\net8.0\Seconds to clock converter.deps.json
+C:\WizLaptop\School\Code\Seconds to clock converter\bin\Debug\net8.0\Seconds to clock converter.runtimeconfig.json
+C:\WizLaptop\School\Code\Seconds to clock converter\bin\Debug\net8.0\Seconds to clock converter.dll
+C:\WizLaptop\School\Code\Seconds to clock converter\bin\Debug\net8.0\Seconds to clock converter.pdb
+C:\WizLaptop\School\Code\Seconds to clock converter\obj\Debug\net8.0\Seconds to clock converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\WizLaptop\School\Code\Seconds to clock converter\obj\Debug\net8.0\Seconds to clock converter.AssemblyInfoInputs.cache
+C:\WizLaptop\School\Code\Seconds to clock converter\obj\Debug\net8.0\Seconds to clock converter.AssemblyInfo.cs
+C:\WizLaptop\School\Code\Seconds to clock converter\obj\Debug\net8.0\Seconds to clock converter.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\Code\Seconds to clock converter\obj\Debug\net8.0\Seconds to clock converter.dll
+C:\WizLaptop\School\Code\Seconds to clock converter\obj\Debug\net8.0\refint\Seconds to clock converter.dll
+C:\WizLaptop\School\Code\Seconds to clock converter\obj\Debug\net8.0\Seconds to clock converter.pdb
+C:\WizLaptop\School\Code\Seconds to clock converter\obj\Debug\net8.0\Seconds to clock converter.genruntimeconfig.cache
+C:\WizLaptop\School\Code\Seconds to clock converter\obj\Debug\net8.0\ref\Seconds to clock converter.dll

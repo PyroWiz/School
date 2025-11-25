@@ -1,0 +1,14 @@
+C:\WizLaptop\School\Advanced C#\Homework\Regex\regex1\bin\Debug\net8.0\regex1.exe
+C:\WizLaptop\School\Advanced C#\Homework\Regex\regex1\bin\Debug\net8.0\regex1.deps.json
+C:\WizLaptop\School\Advanced C#\Homework\Regex\regex1\bin\Debug\net8.0\regex1.runtimeconfig.json
+C:\WizLaptop\School\Advanced C#\Homework\Regex\regex1\bin\Debug\net8.0\regex1.dll
+C:\WizLaptop\School\Advanced C#\Homework\Regex\regex1\bin\Debug\net8.0\regex1.pdb
+C:\WizLaptop\School\Advanced C#\Homework\Regex\regex1\obj\Debug\net8.0\regex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\WizLaptop\School\Advanced C#\Homework\Regex\regex1\obj\Debug\net8.0\regex1.AssemblyInfoInputs.cache
+C:\WizLaptop\School\Advanced C#\Homework\Regex\regex1\obj\Debug\net8.0\regex1.AssemblyInfo.cs
+C:\WizLaptop\School\Advanced C#\Homework\Regex\regex1\obj\Debug\net8.0\regex1.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\Advanced C#\Homework\Regex\regex1\obj\Debug\net8.0\regex1.dll
+C:\WizLaptop\School\Advanced C#\Homework\Regex\regex1\obj\Debug\net8.0\refint\regex1.dll
+C:\WizLaptop\School\Advanced C#\Homework\Regex\regex1\obj\Debug\net8.0\regex1.pdb
+C:\WizLaptop\School\Advanced C#\Homework\Regex\regex1\obj\Debug\net8.0\regex1.genruntimeconfig.cache
+C:\WizLaptop\School\Advanced C#\Homework\Regex\regex1\obj\Debug\net8.0\ref\regex1.dll

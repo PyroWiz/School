@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2da+funcs class", "2da+funcs class.csproj", "{7FDDA1CD-03AE-4390-AEFA-75FFCC4520AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FDDA1CD-03AE-4390-AEFA-75FFCC4520AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FDDA1CD-03AE-4390-AEFA-75FFCC4520AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FDDA1CD-03AE-4390-AEFA-75FFCC4520AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FDDA1CD-03AE-4390-AEFA-75FFCC4520AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AACEB26D-E3FF-4E00-8413-5B98FE6FE0A8}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\WizLaptop\School\C#\Code\arrays final\8\bin\Debug\8.exe.config
+C:\WizLaptop\School\C#\Code\arrays final\8\bin\Debug\8.exe
+C:\WizLaptop\School\C#\Code\arrays final\8\bin\Debug\8.pdb
+C:\WizLaptop\School\C#\Code\arrays final\8\obj\Debug\8.csproj.AssemblyReference.cache
+C:\WizLaptop\School\C#\Code\arrays final\8\obj\Debug\8.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\C#\Code\arrays final\8\obj\Debug\8.exe
+C:\WizLaptop\School\C#\Code\arrays final\8\obj\Debug\8.pdb
+G:\Other computers\My Laptop\School\C#\Code\arrays final\8\bin\Debug\8.exe.config
+G:\Other computers\My Laptop\School\C#\Code\arrays final\8\bin\Debug\8.exe
+G:\Other computers\My Laptop\School\C#\Code\arrays final\8\bin\Debug\8.pdb
+G:\Other computers\My Laptop\School\C#\Code\arrays final\8\obj\Debug\8.csproj.AssemblyReference.cache
+G:\Other computers\My Laptop\School\C#\Code\arrays final\8\obj\Debug\8.csproj.CoreCompileInputs.cache
+G:\Other computers\My Laptop\School\C#\Code\arrays final\8\obj\Debug\8.exe
+G:\Other computers\My Laptop\School\C#\Code\arrays final\8\obj\Debug\8.pdb

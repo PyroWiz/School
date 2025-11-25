@@ -1,0 +1,14 @@
+C:\WizLaptop\School\Code\a & b list\bin\Debug\net8.0\a & b list.exe
+C:\WizLaptop\School\Code\a & b list\bin\Debug\net8.0\a & b list.deps.json
+C:\WizLaptop\School\Code\a & b list\bin\Debug\net8.0\a & b list.runtimeconfig.json
+C:\WizLaptop\School\Code\a & b list\bin\Debug\net8.0\a & b list.dll
+C:\WizLaptop\School\Code\a & b list\bin\Debug\net8.0\a & b list.pdb
+C:\WizLaptop\School\Code\a & b list\obj\Debug\net8.0\a & b list.GeneratedMSBuildEditorConfig.editorconfig
+C:\WizLaptop\School\Code\a & b list\obj\Debug\net8.0\a & b list.AssemblyInfoInputs.cache
+C:\WizLaptop\School\Code\a & b list\obj\Debug\net8.0\a & b list.AssemblyInfo.cs
+C:\WizLaptop\School\Code\a & b list\obj\Debug\net8.0\a & b list.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\Code\a & b list\obj\Debug\net8.0\a & b list.dll
+C:\WizLaptop\School\Code\a & b list\obj\Debug\net8.0\refint\a & b list.dll
+C:\WizLaptop\School\Code\a & b list\obj\Debug\net8.0\a & b list.pdb
+C:\WizLaptop\School\Code\a & b list\obj\Debug\net8.0\a & b list.genruntimeconfig.cache
+C:\WizLaptop\School\Code\a & b list\obj\Debug\net8.0\ref\a & b list.dll

@@ -1,0 +1,56 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace _1
+{
+    internal class Person
+    {
+        // Fields
+        private static int howMany;
+        private string name;
+        private char gender;
+        private double age;
+        private Person partner;
+        private Person[] kids;
+
+        // Properties
+        public static int HowMany
+        {
+            get { return howMany; }
+            set { howMany = value; }
+        }
+
+        public string Name
+        {
+            get { return name; }
+            set { name = value; }
+        }
+
+        public char Gender
+        {
+            get { return gender; }
+            set { gender = value; }
+        }
+
+        public double Age
+        {
+            get { return age; }
+            set { age = value; }
+        }
+
+        public Person Partner
+        {
+            get { return partner; }
+            set { partner = value; }
+        }
+
+        public Person[] Kids
+        {
+            get { return kids; }
+            set { kids = value; }
+        }
+    }
+}

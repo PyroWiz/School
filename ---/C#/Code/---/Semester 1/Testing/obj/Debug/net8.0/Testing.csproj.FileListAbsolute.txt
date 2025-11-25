@@ -1,0 +1,14 @@
+C:\WizLaptop\School\Code\Testing\bin\Debug\net8.0\Testing.exe
+C:\WizLaptop\School\Code\Testing\bin\Debug\net8.0\Testing.deps.json
+C:\WizLaptop\School\Code\Testing\bin\Debug\net8.0\Testing.runtimeconfig.json
+C:\WizLaptop\School\Code\Testing\bin\Debug\net8.0\Testing.dll
+C:\WizLaptop\School\Code\Testing\bin\Debug\net8.0\Testing.pdb
+C:\WizLaptop\School\Code\Testing\obj\Debug\net8.0\Testing.GeneratedMSBuildEditorConfig.editorconfig
+C:\WizLaptop\School\Code\Testing\obj\Debug\net8.0\Testing.AssemblyInfoInputs.cache
+C:\WizLaptop\School\Code\Testing\obj\Debug\net8.0\Testing.AssemblyInfo.cs
+C:\WizLaptop\School\Code\Testing\obj\Debug\net8.0\Testing.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\Code\Testing\obj\Debug\net8.0\Testing.dll
+C:\WizLaptop\School\Code\Testing\obj\Debug\net8.0\refint\Testing.dll
+C:\WizLaptop\School\Code\Testing\obj\Debug\net8.0\Testing.pdb
+C:\WizLaptop\School\Code\Testing\obj\Debug\net8.0\Testing.genruntimeconfig.cache
+C:\WizLaptop\School\Code\Testing\obj\Debug\net8.0\ref\Testing.dll

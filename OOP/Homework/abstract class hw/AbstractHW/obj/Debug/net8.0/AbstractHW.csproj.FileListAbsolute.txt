@@ -1,0 +1,14 @@
+C:\WizLaptop\School\OOP\Homework\abstract class hw\AbstractHW\bin\Debug\net8.0\AbstractHW.exe
+C:\WizLaptop\School\OOP\Homework\abstract class hw\AbstractHW\bin\Debug\net8.0\AbstractHW.deps.json
+C:\WizLaptop\School\OOP\Homework\abstract class hw\AbstractHW\bin\Debug\net8.0\AbstractHW.runtimeconfig.json
+C:\WizLaptop\School\OOP\Homework\abstract class hw\AbstractHW\bin\Debug\net8.0\AbstractHW.dll
+C:\WizLaptop\School\OOP\Homework\abstract class hw\AbstractHW\bin\Debug\net8.0\AbstractHW.pdb
+C:\WizLaptop\School\OOP\Homework\abstract class hw\AbstractHW\obj\Debug\net8.0\AbstractHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\WizLaptop\School\OOP\Homework\abstract class hw\AbstractHW\obj\Debug\net8.0\AbstractHW.AssemblyInfoInputs.cache
+C:\WizLaptop\School\OOP\Homework\abstract class hw\AbstractHW\obj\Debug\net8.0\AbstractHW.AssemblyInfo.cs
+C:\WizLaptop\School\OOP\Homework\abstract class hw\AbstractHW\obj\Debug\net8.0\AbstractHW.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\OOP\Homework\abstract class hw\AbstractHW\obj\Debug\net8.0\AbstractHW.dll
+C:\WizLaptop\School\OOP\Homework\abstract class hw\AbstractHW\obj\Debug\net8.0\refint\AbstractHW.dll
+C:\WizLaptop\School\OOP\Homework\abstract class hw\AbstractHW\obj\Debug\net8.0\AbstractHW.pdb
+C:\WizLaptop\School\OOP\Homework\abstract class hw\AbstractHW\obj\Debug\net8.0\AbstractHW.genruntimeconfig.cache
+C:\WizLaptop\School\OOP\Homework\abstract class hw\AbstractHW\obj\Debug\net8.0\ref\AbstractHW.dll

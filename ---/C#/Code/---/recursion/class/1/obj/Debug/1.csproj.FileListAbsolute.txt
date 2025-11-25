@@ -1,0 +1,14 @@
+C:\WizLaptop\School\C#\Code\recursion\class\1\bin\Debug\1.exe.config
+C:\WizLaptop\School\C#\Code\recursion\class\1\bin\Debug\1.exe
+C:\WizLaptop\School\C#\Code\recursion\class\1\bin\Debug\1.pdb
+C:\WizLaptop\School\C#\Code\recursion\class\1\obj\Debug\1.csproj.AssemblyReference.cache
+C:\WizLaptop\School\C#\Code\recursion\class\1\obj\Debug\1.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\C#\Code\recursion\class\1\obj\Debug\1.exe
+C:\WizLaptop\School\C#\Code\recursion\class\1\obj\Debug\1.pdb
+G:\Other computers\My Laptop\School\C#\Code\recursion\class\1\bin\Debug\1.exe.config
+G:\Other computers\My Laptop\School\C#\Code\recursion\class\1\bin\Debug\1.exe
+G:\Other computers\My Laptop\School\C#\Code\recursion\class\1\bin\Debug\1.pdb
+G:\Other computers\My Laptop\School\C#\Code\recursion\class\1\obj\Debug\1.csproj.AssemblyReference.cache
+G:\Other computers\My Laptop\School\C#\Code\recursion\class\1\obj\Debug\1.csproj.CoreCompileInputs.cache
+G:\Other computers\My Laptop\School\C#\Code\recursion\class\1\obj\Debug\1.exe
+G:\Other computers\My Laptop\School\C#\Code\recursion\class\1\obj\Debug\1.pdb

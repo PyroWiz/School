@@ -1,0 +1,14 @@
+C:\WizLaptop\School\Code\Common denominator\obj\Debug\net8.0\Common denominator.GeneratedMSBuildEditorConfig.editorconfig
+C:\WizLaptop\School\Code\Common denominator\obj\Debug\net8.0\Common denominator.AssemblyInfoInputs.cache
+C:\WizLaptop\School\Code\Common denominator\obj\Debug\net8.0\Common denominator.AssemblyInfo.cs
+C:\WizLaptop\School\Code\Common denominator\obj\Debug\net8.0\Common denominator.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\Code\Common denominator\bin\Debug\net8.0\Common denominator.exe
+C:\WizLaptop\School\Code\Common denominator\bin\Debug\net8.0\Common denominator.deps.json
+C:\WizLaptop\School\Code\Common denominator\bin\Debug\net8.0\Common denominator.runtimeconfig.json
+C:\WizLaptop\School\Code\Common denominator\bin\Debug\net8.0\Common denominator.dll
+C:\WizLaptop\School\Code\Common denominator\bin\Debug\net8.0\Common denominator.pdb
+C:\WizLaptop\School\Code\Common denominator\obj\Debug\net8.0\Common denominator.dll
+C:\WizLaptop\School\Code\Common denominator\obj\Debug\net8.0\refint\Common denominator.dll
+C:\WizLaptop\School\Code\Common denominator\obj\Debug\net8.0\Common denominator.pdb
+C:\WizLaptop\School\Code\Common denominator\obj\Debug\net8.0\Common denominator.genruntimeconfig.cache
+C:\WizLaptop\School\Code\Common denominator\obj\Debug\net8.0\ref\Common denominator.dll

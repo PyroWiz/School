@@ -1,0 +1,14 @@
+C:\WizLaptop\School\Code\clothing shop\bin\Debug\net8.0\clothing shop.exe
+C:\WizLaptop\School\Code\clothing shop\bin\Debug\net8.0\clothing shop.deps.json
+C:\WizLaptop\School\Code\clothing shop\bin\Debug\net8.0\clothing shop.runtimeconfig.json
+C:\WizLaptop\School\Code\clothing shop\bin\Debug\net8.0\clothing shop.dll
+C:\WizLaptop\School\Code\clothing shop\bin\Debug\net8.0\clothing shop.pdb
+C:\WizLaptop\School\Code\clothing shop\obj\Debug\net8.0\clothing shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\WizLaptop\School\Code\clothing shop\obj\Debug\net8.0\clothing shop.AssemblyInfoInputs.cache
+C:\WizLaptop\School\Code\clothing shop\obj\Debug\net8.0\clothing shop.AssemblyInfo.cs
+C:\WizLaptop\School\Code\clothing shop\obj\Debug\net8.0\clothing shop.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\Code\clothing shop\obj\Debug\net8.0\clothing shop.dll
+C:\WizLaptop\School\Code\clothing shop\obj\Debug\net8.0\refint\clothing shop.dll
+C:\WizLaptop\School\Code\clothing shop\obj\Debug\net8.0\clothing shop.pdb
+C:\WizLaptop\School\Code\clothing shop\obj\Debug\net8.0\clothing shop.genruntimeconfig.cache
+C:\WizLaptop\School\Code\clothing shop\obj\Debug\net8.0\ref\clothing shop.dll

@@ -1,0 +1,14 @@
+C:\WizLaptop\School\C#\Code\Random numbers\3\bin\Debug\net8.0\3.exe
+C:\WizLaptop\School\C#\Code\Random numbers\3\bin\Debug\net8.0\3.deps.json
+C:\WizLaptop\School\C#\Code\Random numbers\3\bin\Debug\net8.0\3.runtimeconfig.json
+C:\WizLaptop\School\C#\Code\Random numbers\3\bin\Debug\net8.0\3.dll
+C:\WizLaptop\School\C#\Code\Random numbers\3\bin\Debug\net8.0\3.pdb
+C:\WizLaptop\School\C#\Code\Random numbers\3\obj\Debug\net8.0\3.GeneratedMSBuildEditorConfig.editorconfig
+C:\WizLaptop\School\C#\Code\Random numbers\3\obj\Debug\net8.0\3.AssemblyInfoInputs.cache
+C:\WizLaptop\School\C#\Code\Random numbers\3\obj\Debug\net8.0\3.AssemblyInfo.cs
+C:\WizLaptop\School\C#\Code\Random numbers\3\obj\Debug\net8.0\3.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\C#\Code\Random numbers\3\obj\Debug\net8.0\3.dll
+C:\WizLaptop\School\C#\Code\Random numbers\3\obj\Debug\net8.0\refint\3.dll
+C:\WizLaptop\School\C#\Code\Random numbers\3\obj\Debug\net8.0\3.pdb
+C:\WizLaptop\School\C#\Code\Random numbers\3\obj\Debug\net8.0\3.genruntimeconfig.cache
+C:\WizLaptop\School\C#\Code\Random numbers\3\obj\Debug\net8.0\ref\3.dll

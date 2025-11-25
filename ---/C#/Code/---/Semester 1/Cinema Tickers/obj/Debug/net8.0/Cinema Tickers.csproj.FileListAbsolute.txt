@@ -1,0 +1,14 @@
+C:\WizLaptop\School\Code\Cinema Tickers\bin\Debug\net8.0\Cinema Tickers.exe
+C:\WizLaptop\School\Code\Cinema Tickers\bin\Debug\net8.0\Cinema Tickers.deps.json
+C:\WizLaptop\School\Code\Cinema Tickers\bin\Debug\net8.0\Cinema Tickers.runtimeconfig.json
+C:\WizLaptop\School\Code\Cinema Tickers\bin\Debug\net8.0\Cinema Tickers.dll
+C:\WizLaptop\School\Code\Cinema Tickers\bin\Debug\net8.0\Cinema Tickers.pdb
+C:\WizLaptop\School\Code\Cinema Tickers\obj\Debug\net8.0\Cinema Tickers.GeneratedMSBuildEditorConfig.editorconfig
+C:\WizLaptop\School\Code\Cinema Tickers\obj\Debug\net8.0\Cinema Tickers.AssemblyInfoInputs.cache
+C:\WizLaptop\School\Code\Cinema Tickers\obj\Debug\net8.0\Cinema Tickers.AssemblyInfo.cs
+C:\WizLaptop\School\Code\Cinema Tickers\obj\Debug\net8.0\Cinema Tickers.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\Code\Cinema Tickers\obj\Debug\net8.0\Cinema Tickers.dll
+C:\WizLaptop\School\Code\Cinema Tickers\obj\Debug\net8.0\refint\Cinema Tickers.dll
+C:\WizLaptop\School\Code\Cinema Tickers\obj\Debug\net8.0\Cinema Tickers.pdb
+C:\WizLaptop\School\Code\Cinema Tickers\obj\Debug\net8.0\Cinema Tickers.genruntimeconfig.cache
+C:\WizLaptop\School\Code\Cinema Tickers\obj\Debug\net8.0\ref\Cinema Tickers.dll

@@ -1,0 +1,14 @@
+C:\WizLaptop\School\Code\Alien clock calculator\bin\Debug\net8.0\Alien clock calculator.exe
+C:\WizLaptop\School\Code\Alien clock calculator\bin\Debug\net8.0\Alien clock calculator.deps.json
+C:\WizLaptop\School\Code\Alien clock calculator\bin\Debug\net8.0\Alien clock calculator.runtimeconfig.json
+C:\WizLaptop\School\Code\Alien clock calculator\bin\Debug\net8.0\Alien clock calculator.dll
+C:\WizLaptop\School\Code\Alien clock calculator\bin\Debug\net8.0\Alien clock calculator.pdb
+C:\WizLaptop\School\Code\Alien clock calculator\obj\Debug\net8.0\Alien clock calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\WizLaptop\School\Code\Alien clock calculator\obj\Debug\net8.0\Alien clock calculator.AssemblyInfoInputs.cache
+C:\WizLaptop\School\Code\Alien clock calculator\obj\Debug\net8.0\Alien clock calculator.AssemblyInfo.cs
+C:\WizLaptop\School\Code\Alien clock calculator\obj\Debug\net8.0\Alien clock calculator.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\Code\Alien clock calculator\obj\Debug\net8.0\Alien clock calculator.dll
+C:\WizLaptop\School\Code\Alien clock calculator\obj\Debug\net8.0\refint\Alien clock calculator.dll
+C:\WizLaptop\School\Code\Alien clock calculator\obj\Debug\net8.0\Alien clock calculator.pdb
+C:\WizLaptop\School\Code\Alien clock calculator\obj\Debug\net8.0\Alien clock calculator.genruntimeconfig.cache
+C:\WizLaptop\School\Code\Alien clock calculator\obj\Debug\net8.0\ref\Alien clock calculator.dll

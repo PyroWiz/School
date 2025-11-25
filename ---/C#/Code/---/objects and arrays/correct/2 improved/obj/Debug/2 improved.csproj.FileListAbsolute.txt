@@ -1,0 +1,14 @@
+G:\Other computers\My Laptop\School\C#\Code\objects and arrays\2 improved\bin\Debug\2 improved.exe.config
+G:\Other computers\My Laptop\School\C#\Code\objects and arrays\2 improved\bin\Debug\2 improved.exe
+G:\Other computers\My Laptop\School\C#\Code\objects and arrays\2 improved\bin\Debug\2 improved.pdb
+G:\Other computers\My Laptop\School\C#\Code\objects and arrays\2 improved\obj\Debug\2 improved.csproj.AssemblyReference.cache
+G:\Other computers\My Laptop\School\C#\Code\objects and arrays\2 improved\obj\Debug\2 improved.csproj.CoreCompileInputs.cache
+G:\Other computers\My Laptop\School\C#\Code\objects and arrays\2 improved\obj\Debug\2 improved.exe
+G:\Other computers\My Laptop\School\C#\Code\objects and arrays\2 improved\obj\Debug\2 improved.pdb
+C:\WizLaptop\School\C#\Code\---\objects and arrays\correct\2 improved\bin\Debug\2 improved.exe.config
+C:\WizLaptop\School\C#\Code\---\objects and arrays\correct\2 improved\bin\Debug\2 improved.exe
+C:\WizLaptop\School\C#\Code\---\objects and arrays\correct\2 improved\bin\Debug\2 improved.pdb
+C:\WizLaptop\School\C#\Code\---\objects and arrays\correct\2 improved\obj\Debug\2 improved.csproj.AssemblyReference.cache
+C:\WizLaptop\School\C#\Code\---\objects and arrays\correct\2 improved\obj\Debug\2 improved.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\C#\Code\---\objects and arrays\correct\2 improved\obj\Debug\2 improved.exe
+C:\WizLaptop\School\C#\Code\---\objects and arrays\correct\2 improved\obj\Debug\2 improved.pdb

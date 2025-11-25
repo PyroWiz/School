@@ -1,0 +1,14 @@
+C:\WizLaptop\School\Code\average calculator using do while\bin\Debug\net8.0\average calculator using do while.exe
+C:\WizLaptop\School\Code\average calculator using do while\bin\Debug\net8.0\average calculator using do while.deps.json
+C:\WizLaptop\School\Code\average calculator using do while\bin\Debug\net8.0\average calculator using do while.runtimeconfig.json
+C:\WizLaptop\School\Code\average calculator using do while\bin\Debug\net8.0\average calculator using do while.dll
+C:\WizLaptop\School\Code\average calculator using do while\bin\Debug\net8.0\average calculator using do while.pdb
+C:\WizLaptop\School\Code\average calculator using do while\obj\Debug\net8.0\average calculator using do while.GeneratedMSBuildEditorConfig.editorconfig
+C:\WizLaptop\School\Code\average calculator using do while\obj\Debug\net8.0\average calculator using do while.AssemblyInfoInputs.cache
+C:\WizLaptop\School\Code\average calculator using do while\obj\Debug\net8.0\average calculator using do while.AssemblyInfo.cs
+C:\WizLaptop\School\Code\average calculator using do while\obj\Debug\net8.0\average calculator using do while.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\Code\average calculator using do while\obj\Debug\net8.0\average calculator using do while.dll
+C:\WizLaptop\School\Code\average calculator using do while\obj\Debug\net8.0\refint\average calculator using do while.dll
+C:\WizLaptop\School\Code\average calculator using do while\obj\Debug\net8.0\average calculator using do while.pdb
+C:\WizLaptop\School\Code\average calculator using do while\obj\Debug\net8.0\average calculator using do while.genruntimeconfig.cache
+C:\WizLaptop\School\Code\average calculator using do while\obj\Debug\net8.0\ref\average calculator using do while.dll

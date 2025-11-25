@@ -1,0 +1,14 @@
+C:\WizLaptop\School\DataStructures\Hw\arrayrecursion\arrayrecursion\bin\Debug\net8.0\arrayrecursion.exe
+C:\WizLaptop\School\DataStructures\Hw\arrayrecursion\arrayrecursion\bin\Debug\net8.0\arrayrecursion.deps.json
+C:\WizLaptop\School\DataStructures\Hw\arrayrecursion\arrayrecursion\bin\Debug\net8.0\arrayrecursion.runtimeconfig.json
+C:\WizLaptop\School\DataStructures\Hw\arrayrecursion\arrayrecursion\bin\Debug\net8.0\arrayrecursion.dll
+C:\WizLaptop\School\DataStructures\Hw\arrayrecursion\arrayrecursion\bin\Debug\net8.0\arrayrecursion.pdb
+C:\WizLaptop\School\DataStructures\Hw\arrayrecursion\arrayrecursion\obj\Debug\net8.0\arrayrecursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\WizLaptop\School\DataStructures\Hw\arrayrecursion\arrayrecursion\obj\Debug\net8.0\arrayrecursion.AssemblyInfoInputs.cache
+C:\WizLaptop\School\DataStructures\Hw\arrayrecursion\arrayrecursion\obj\Debug\net8.0\arrayrecursion.AssemblyInfo.cs
+C:\WizLaptop\School\DataStructures\Hw\arrayrecursion\arrayrecursion\obj\Debug\net8.0\arrayrecursion.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\DataStructures\Hw\arrayrecursion\arrayrecursion\obj\Debug\net8.0\arrayrecursion.dll
+C:\WizLaptop\School\DataStructures\Hw\arrayrecursion\arrayrecursion\obj\Debug\net8.0\refint\arrayrecursion.dll
+C:\WizLaptop\School\DataStructures\Hw\arrayrecursion\arrayrecursion\obj\Debug\net8.0\arrayrecursion.pdb
+C:\WizLaptop\School\DataStructures\Hw\arrayrecursion\arrayrecursion\obj\Debug\net8.0\arrayrecursion.genruntimeconfig.cache
+C:\WizLaptop\School\DataStructures\Hw\arrayrecursion\arrayrecursion\obj\Debug\net8.0\ref\arrayrecursion.dll

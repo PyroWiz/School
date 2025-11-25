@@ -1,0 +1,386 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+:root {
+  --cell-size: 30px;
+  --hit-color: #e67e22;
+  --miss-color: #3498db;
+  --sunk-color: #000;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  font-family: 'Roboto', sans-serif;
+  background: #b3e0ff; /* changed from #f0f2f5 to light blue */
+  color: #333;
+}
+header {
+  background: #2c3e50;
+  color: #fff;
+  padding: 16px;
+  text-align: center;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  padding: 20px;
+}
+.card {
+  flex: 1 1 300px;
+  max-width: 360px;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  padding: 20px;
+}
+.card h2 {
+  margin-bottom: 16px;
+  color: #2c3e50;
+}
+.form-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 12px;
+}
+.form-row label {
+  font-size: 0.95rem;
+  margin: 4px;
+}
+.form-row input,
+.form-row select {
+  padding: 6px 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+button#start {
+  width: 100%;
+  padding: 10px;
+  background: #2980b9;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+button#start:hover {
+  background: #1c5980;
+}
+.error {
+  color: #c0392b;
+  font-size: 0.9rem;
+  text-align: center;
+  margin-top: 10px;
+}
+
+/* GRID ON PAGE */
+.board {
+  display: grid;
+  grid-template-columns: repeat(var(--size), var(--cell-size));
+  gap: 4px;
+  background: #34495e;
+  padding: 10px;
+  border-radius: 6px;
+}
+
+/* CELLS */
+.cell {
+  width: var(--cell-size);
+  height: var(--cell-size);
+  background: #ecf0f1;
+  cursor: pointer;
+  border-radius: 2px;
+  transition: background 0.2s, transform 0.1s;
+}
+.cell:hover:not(.disabled) { transform: scale(1.1); }
+.cell.disabled { cursor: default; }
+.cell.miss { background: var(--miss-color); }
+.cell.hit  { background: var(--hit-color); }
+/* new sunk state */
+.cell.sunk { background: var(--sunk-color); }
+
+/* BOOM ANIMATION */
+@keyframes boom {
+  to { transform: scale(2); opacity: 0; }
+}
+.boom {
+  animation: boom 0.5s ease-out forwards;
+}
+
+/* STATS TABLE */
+.stats {
+  border-collapse: collapse;
+  width: auto;
+  font-size: 0.9rem;
+}
+.stats th,
+.stats td {
+  border: 1px solid #ddd;
+  padding: 8px 12px;
+  text-align: center;
+}
+.stats tbody tr:nth-child(odd) {
+  background: #f9f9f9;
+}
+
+/* RESPONSIVE: shrink cells on small screens */
+@media (max-width: 600px) {
+  :root { --cell-size: 24px; }
+}
+
+/* -------------------------------------------------
+   Allow the game card to expand so the board never clips
+   ------------------------------------------------- */
+   #game.card {
+    /* remove the 360px cap */
+    max-width: none;
+    /* size to its content (the grid) */
+    width: max-content;
+    /* don’t flex-shrink */
+    flex: 0 1 auto;
+  }
+  
+  /* Optional: keep the setup card narrow */
+  #setup.card {
+    max-width: 360px;
+  }
+  
+  /* Center the stats table within its card */
+.stats {
+  margin: 0 auto;
+}
+
+/* Center every header and cell (if not already) */
+.stats th,
+.stats td {
+  text-align: center;
+  vertical-align: middle;
+}
+
+/* Wizard and Fireball Styles */
+#wizard-container {
+  position: fixed;
+  left: 0; right: 0; bottom: 0;
+  width: 100vw;
+  height: 120px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  pointer-events: none;
+  z-index: 100;
+}
+#wizard {
+  height: 100px;
+  width: auto;
+  user-select: none;
+  pointer-events: none;
+}
+#fireball {
+  display: none;
+}
+.fireball {
+  position: fixed;
+  width: 32px;
+  height: 32px;
+  background: radial-gradient(circle at 60% 40%, #ff9800 60%, #e65100 100%);
+  border-radius: 50%;
+  box-shadow: 0 0 24px 8px #ff9800, 0 0 60px 20px #e6510044;
+  opacity: 1;
+  pointer-events: none;
+  z-index: 200;
+  transition: opacity 0.1s;
+}
+@keyframes fireball-move {
+  to {
+    transform: translate(var(--dx), var(--dy));
+    opacity: 1;
+  }
+}
+.fireball.animate {
+  animation: fireball-move 0.5s linear forwards;
+}
+
+/* FIRE ORIGIN EFFECT */
+.fire-origin {
+  position: fixed;
+  width: 32px;
+  height: 32px;
+  left: 0; top: 0;
+  pointer-events: none;
+  z-index: 201;
+  background: radial-gradient(circle at 60% 40%, #fff700 40%, #ff9800 70%, #e65100 100%);
+  box-shadow: 0 0 24px 8px #ff9800, 0 0 60px 20px #e6510044;
+  border-radius: 50%;
+  opacity: 0.7;
+  animation: fire-origin-burst 0.18s cubic-bezier(.7,0,.7,1) forwards;
+}
+@keyframes fire-origin-burst {
+  0% {
+    opacity: 0.7;
+    transform: scale(0.5) rotate(-10deg);
+    filter: blur(0px);
+  }
+  60% {
+    opacity: 0.5;
+    transform: scale(1.1) rotate(8deg);
+    filter: blur(1px);
+  }
+  100% {
+    opacity: 0;
+    transform: scale(1.5) rotate(-8deg);
+    filter: blur(2px);
+  }
+}
+
+/* Flex row for game area: stats left, board right */
+.game-flex-row {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 32px;
+  justify-content: center;
+}
+
+/* Make stats table more compact and left-aligned */
+#stats {
+  margin: 0;
+  min-width: 110px;
+  max-width: 140px;
+  align-self: flex-start;
+}
+
+/* Remove previous centering for stats table in game card */
+#game .stats {
+  margin: 0;
+}
+
+/* Responsive: stack vertically on small screens */
+@media (max-width: 700px) {
+  .game-flex-row {
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+  }
+  #stats {
+    align-self: center;
+    margin-bottom: 8px;
+  }
+}
+
+/* POWER-UP BAR AND BUTTONS */
+#powerup-bar {
+  position: fixed;
+  left: 24px;
+  bottom: 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+  z-index: 150;
+  pointer-events: auto;
+}
+.powerup-btn {
+  width: 48px;
+  height: 48px;
+  background: #fffbe6;
+  border: 2px solid #e1c340;
+  border-radius: 10px;
+  font-size: 2rem;
+  color: #e1c340;
+  box-shadow: 0 2px 8px #0002;
+  cursor: pointer;
+  transition: background 0.2s, border 0.2s, transform 0.1s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  user-select: none;
+}
+.powerup-btn:active {
+  background: #ffe066;
+  transform: scale(0.96);
+}
+.powerup-btn[disabled] {
+  background: #eee;
+  color: #aaa;
+  border: 2px solid #ccc;
+  cursor: not-allowed;
+}
+#powerup-lightning.active {
+  background: #fff700;
+  border-color: #ff9800;
+  color: #ff9800;
+  box-shadow: 0 0 12px 2px #ffe06699;
+}
+
+/* Lightning effect for power-up */
+.lightning-anim-global {
+  pointer-events: none;
+  position: fixed;
+  width: 44px;
+  height: 64px;
+  background: none;
+  z-index: 1000;
+  animation: lightning-bolt-zap 0.32s cubic-bezier(.7,0,.7,1) forwards;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.lightning-anim-global::before {
+  content: '';
+  display: block;
+  width: 100%;
+  height: 100%;
+  background: url('data:image/svg+xml;utf8,<svg width="44" height="64" viewBox="0 0 44 64" xmlns="http://www.w3.org/2000/svg"><polyline points="22,0 18,28 28,28 14,64 22,36 12,36 22,0" fill="none" stroke="%23fff700" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/><polyline points="22,0 18,28 28,28 14,64 22,36 12,36 22,0" fill="none" stroke="%23fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>') center/contain no-repeat;
+  filter: drop-shadow(0 0 16px #fff700) drop-shadow(0 0 32px #fff) drop-shadow(0 0 8px #ffe066);
+  opacity: 1;
+  animation: lightning-bolt-flash 0.32s linear;
+}
+@keyframes lightning-bolt-zap {
+  0% {
+    opacity: 0.9;
+    transform: scale(0.7) rotate(-8deg);
+    filter: blur(0px);
+  }
+  30% {
+    opacity: 1;
+    transform: scale(1.1) rotate(4deg);
+    filter: blur(0.5px);
+  }
+  60% {
+    opacity: 1;
+    transform: scale(1.05) rotate(-2deg);
+    filter: blur(0.2px);
+  }
+  80% {
+    opacity: 0.7;
+    filter: blur(1px);
+  }
+  100% {
+    opacity: 0;
+    transform: scale(1.2) rotate(6deg);
+    filter: blur(2px);
+  }
+}
+@keyframes lightning-bolt-flash {
+  0% {
+    opacity: 0.7;
+    filter: brightness(2) blur(0px);
+  }
+  20% {
+    opacity: 1;
+    filter: brightness(3) blur(0.5px);
+  }
+  60% {
+    opacity: 1;
+    filter: brightness(2.5) blur(0.2px);
+  }
+  80% {
+    opacity: 0.7;
+    filter: brightness(1.5) blur(1px);
+  }
+  100% {
+    opacity: 0;
+    filter: brightness(1) blur(2px);
+  }
+}

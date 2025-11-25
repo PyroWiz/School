@@ -1,0 +1,7 @@
+C:\WizPC\School\LocalC#\7\bin\Debug\7.exe.config
+C:\WizPC\School\LocalC#\7\bin\Debug\7.exe
+C:\WizPC\School\LocalC#\7\bin\Debug\7.pdb
+C:\WizPC\School\LocalC#\7\obj\Debug\7.csproj.AssemblyReference.cache
+C:\WizPC\School\LocalC#\7\obj\Debug\7.csproj.CoreCompileInputs.cache
+C:\WizPC\School\LocalC#\7\obj\Debug\7.exe
+C:\WizPC\School\LocalC#\7\obj\Debug\7.pdb

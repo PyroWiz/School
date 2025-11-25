@@ -1,0 +1,14 @@
+C:\WizPC\School\LocalCode\simu5 q3\bin\Debug\net8.0\simu5 q3.exe
+C:\WizPC\School\LocalCode\simu5 q3\bin\Debug\net8.0\simu5 q3.deps.json
+C:\WizPC\School\LocalCode\simu5 q3\bin\Debug\net8.0\simu5 q3.runtimeconfig.json
+C:\WizPC\School\LocalCode\simu5 q3\bin\Debug\net8.0\simu5 q3.dll
+C:\WizPC\School\LocalCode\simu5 q3\bin\Debug\net8.0\simu5 q3.pdb
+C:\WizPC\School\LocalCode\simu5 q3\obj\Debug\net8.0\simu5 q3.GeneratedMSBuildEditorConfig.editorconfig
+C:\WizPC\School\LocalCode\simu5 q3\obj\Debug\net8.0\simu5 q3.AssemblyInfoInputs.cache
+C:\WizPC\School\LocalCode\simu5 q3\obj\Debug\net8.0\simu5 q3.AssemblyInfo.cs
+C:\WizPC\School\LocalCode\simu5 q3\obj\Debug\net8.0\simu5 q3.csproj.CoreCompileInputs.cache
+C:\WizPC\School\LocalCode\simu5 q3\obj\Debug\net8.0\simu5 q3.dll
+C:\WizPC\School\LocalCode\simu5 q3\obj\Debug\net8.0\refint\simu5 q3.dll
+C:\WizPC\School\LocalCode\simu5 q3\obj\Debug\net8.0\simu5 q3.pdb
+C:\WizPC\School\LocalCode\simu5 q3\obj\Debug\net8.0\simu5 q3.genruntimeconfig.cache
+C:\WizPC\School\LocalCode\simu5 q3\obj\Debug\net8.0\ref\simu5 q3.dll

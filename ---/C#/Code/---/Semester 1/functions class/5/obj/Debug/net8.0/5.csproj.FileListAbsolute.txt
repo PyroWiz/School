@@ -1,0 +1,14 @@
+D:\CodePC\Functions\5\obj\Debug\net8.0\5.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodePC\Functions\5\obj\Debug\net8.0\5.AssemblyInfoInputs.cache
+D:\CodePC\Functions\5\obj\Debug\net8.0\5.AssemblyInfo.cs
+D:\CodePC\Functions\5\obj\Debug\net8.0\5.csproj.CoreCompileInputs.cache
+D:\CodePC\Functions\5\bin\Debug\net8.0\5.exe
+D:\CodePC\Functions\5\bin\Debug\net8.0\5.deps.json
+D:\CodePC\Functions\5\bin\Debug\net8.0\5.runtimeconfig.json
+D:\CodePC\Functions\5\bin\Debug\net8.0\5.dll
+D:\CodePC\Functions\5\bin\Debug\net8.0\5.pdb
+D:\CodePC\Functions\5\obj\Debug\net8.0\5.dll
+D:\CodePC\Functions\5\obj\Debug\net8.0\refint\5.dll
+D:\CodePC\Functions\5\obj\Debug\net8.0\5.pdb
+D:\CodePC\Functions\5\obj\Debug\net8.0\5.genruntimeconfig.cache
+D:\CodePC\Functions\5\obj\Debug\net8.0\ref\5.dll

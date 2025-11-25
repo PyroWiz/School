@@ -1,0 +1,7 @@
+G:\Other computers\My Laptop\School\C#\Code\arrays final\6\bin\Debug\6.exe.config
+G:\Other computers\My Laptop\School\C#\Code\arrays final\6\bin\Debug\6.exe
+G:\Other computers\My Laptop\School\C#\Code\arrays final\6\bin\Debug\6.pdb
+G:\Other computers\My Laptop\School\C#\Code\arrays final\6\obj\Debug\6.csproj.AssemblyReference.cache
+G:\Other computers\My Laptop\School\C#\Code\arrays final\6\obj\Debug\6.csproj.CoreCompileInputs.cache
+G:\Other computers\My Laptop\School\C#\Code\arrays final\6\obj\Debug\6.exe
+G:\Other computers\My Laptop\School\C#\Code\arrays final\6\obj\Debug\6.pdb

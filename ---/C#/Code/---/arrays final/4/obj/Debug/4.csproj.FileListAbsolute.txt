@@ -1,0 +1,7 @@
+C:\WizLaptop\School\C#\Code\arrays final\4\bin\Debug\4.exe.config
+C:\WizLaptop\School\C#\Code\arrays final\4\bin\Debug\4.exe
+C:\WizLaptop\School\C#\Code\arrays final\4\bin\Debug\4.pdb
+C:\WizLaptop\School\C#\Code\arrays final\4\obj\Debug\4.csproj.AssemblyReference.cache
+C:\WizLaptop\School\C#\Code\arrays final\4\obj\Debug\4.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\C#\Code\arrays final\4\obj\Debug\4.exe
+C:\WizLaptop\School\C#\Code\arrays final\4\obj\Debug\4.pdb

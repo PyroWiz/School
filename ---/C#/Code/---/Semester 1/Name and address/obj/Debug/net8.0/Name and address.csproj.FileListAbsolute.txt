@@ -1,0 +1,14 @@
+C:\WizLaptop\School\Code\Name and address\obj\Debug\net8.0\Name and address.GeneratedMSBuildEditorConfig.editorconfig
+C:\WizLaptop\School\Code\Name and address\obj\Debug\net8.0\Name and address.AssemblyInfoInputs.cache
+C:\WizLaptop\School\Code\Name and address\obj\Debug\net8.0\Name and address.AssemblyInfo.cs
+C:\WizLaptop\School\Code\Name and address\obj\Debug\net8.0\Name and address.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\Code\Name and address\bin\Debug\net8.0\Name and address.exe
+C:\WizLaptop\School\Code\Name and address\bin\Debug\net8.0\Name and address.deps.json
+C:\WizLaptop\School\Code\Name and address\bin\Debug\net8.0\Name and address.runtimeconfig.json
+C:\WizLaptop\School\Code\Name and address\bin\Debug\net8.0\Name and address.dll
+C:\WizLaptop\School\Code\Name and address\bin\Debug\net8.0\Name and address.pdb
+C:\WizLaptop\School\Code\Name and address\obj\Debug\net8.0\Name and address.dll
+C:\WizLaptop\School\Code\Name and address\obj\Debug\net8.0\refint\Name and address.dll
+C:\WizLaptop\School\Code\Name and address\obj\Debug\net8.0\Name and address.pdb
+C:\WizLaptop\School\Code\Name and address\obj\Debug\net8.0\Name and address.genruntimeconfig.cache
+C:\WizLaptop\School\Code\Name and address\obj\Debug\net8.0\ref\Name and address.dll

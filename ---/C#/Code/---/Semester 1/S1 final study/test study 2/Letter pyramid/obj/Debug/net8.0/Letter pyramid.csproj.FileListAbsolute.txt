@@ -1,0 +1,14 @@
+C:\WizLaptop\School\C#\Code\test study 2\Letter pyramid\bin\Debug\net8.0\Letter pyramid.exe
+C:\WizLaptop\School\C#\Code\test study 2\Letter pyramid\bin\Debug\net8.0\Letter pyramid.deps.json
+C:\WizLaptop\School\C#\Code\test study 2\Letter pyramid\bin\Debug\net8.0\Letter pyramid.runtimeconfig.json
+C:\WizLaptop\School\C#\Code\test study 2\Letter pyramid\bin\Debug\net8.0\Letter pyramid.dll
+C:\WizLaptop\School\C#\Code\test study 2\Letter pyramid\bin\Debug\net8.0\Letter pyramid.pdb
+C:\WizLaptop\School\C#\Code\test study 2\Letter pyramid\obj\Debug\net8.0\Letter pyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\WizLaptop\School\C#\Code\test study 2\Letter pyramid\obj\Debug\net8.0\Letter pyramid.AssemblyInfoInputs.cache
+C:\WizLaptop\School\C#\Code\test study 2\Letter pyramid\obj\Debug\net8.0\Letter pyramid.AssemblyInfo.cs
+C:\WizLaptop\School\C#\Code\test study 2\Letter pyramid\obj\Debug\net8.0\Letter pyramid.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\C#\Code\test study 2\Letter pyramid\obj\Debug\net8.0\Letter pyramid.dll
+C:\WizLaptop\School\C#\Code\test study 2\Letter pyramid\obj\Debug\net8.0\refint\Letter pyramid.dll
+C:\WizLaptop\School\C#\Code\test study 2\Letter pyramid\obj\Debug\net8.0\Letter pyramid.pdb
+C:\WizLaptop\School\C#\Code\test study 2\Letter pyramid\obj\Debug\net8.0\Letter pyramid.genruntimeconfig.cache
+C:\WizLaptop\School\C#\Code\test study 2\Letter pyramid\obj\Debug\net8.0\ref\Letter pyramid.dll

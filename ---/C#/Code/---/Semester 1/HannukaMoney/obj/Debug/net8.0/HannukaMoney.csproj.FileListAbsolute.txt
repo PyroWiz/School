@@ -1,0 +1,14 @@
+C:\WizLaptop\School\Code\HannukaMoney\bin\Debug\net8.0\HannukaMoney.exe
+C:\WizLaptop\School\Code\HannukaMoney\bin\Debug\net8.0\HannukaMoney.deps.json
+C:\WizLaptop\School\Code\HannukaMoney\bin\Debug\net8.0\HannukaMoney.runtimeconfig.json
+C:\WizLaptop\School\Code\HannukaMoney\bin\Debug\net8.0\HannukaMoney.dll
+C:\WizLaptop\School\Code\HannukaMoney\bin\Debug\net8.0\HannukaMoney.pdb
+C:\WizLaptop\School\Code\HannukaMoney\obj\Debug\net8.0\HannukaMoney.GeneratedMSBuildEditorConfig.editorconfig
+C:\WizLaptop\School\Code\HannukaMoney\obj\Debug\net8.0\HannukaMoney.AssemblyInfoInputs.cache
+C:\WizLaptop\School\Code\HannukaMoney\obj\Debug\net8.0\HannukaMoney.AssemblyInfo.cs
+C:\WizLaptop\School\Code\HannukaMoney\obj\Debug\net8.0\HannukaMoney.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\Code\HannukaMoney\obj\Debug\net8.0\HannukaMoney.dll
+C:\WizLaptop\School\Code\HannukaMoney\obj\Debug\net8.0\refint\HannukaMoney.dll
+C:\WizLaptop\School\Code\HannukaMoney\obj\Debug\net8.0\HannukaMoney.pdb
+C:\WizLaptop\School\Code\HannukaMoney\obj\Debug\net8.0\HannukaMoney.genruntimeconfig.cache
+C:\WizLaptop\School\Code\HannukaMoney\obj\Debug\net8.0\ref\HannukaMoney.dll

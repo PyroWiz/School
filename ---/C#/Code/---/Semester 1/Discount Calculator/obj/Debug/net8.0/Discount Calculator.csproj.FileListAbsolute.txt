@@ -1,0 +1,14 @@
+C:\WizLaptop\School\Code\Discount Calculator\obj\Debug\net8.0\Discount Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\WizLaptop\School\Code\Discount Calculator\obj\Debug\net8.0\Discount Calculator.AssemblyInfoInputs.cache
+C:\WizLaptop\School\Code\Discount Calculator\obj\Debug\net8.0\Discount Calculator.AssemblyInfo.cs
+C:\WizLaptop\School\Code\Discount Calculator\obj\Debug\net8.0\Discount Calculator.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\Code\Discount Calculator\bin\Debug\net8.0\Discount Calculator.exe
+C:\WizLaptop\School\Code\Discount Calculator\bin\Debug\net8.0\Discount Calculator.deps.json
+C:\WizLaptop\School\Code\Discount Calculator\bin\Debug\net8.0\Discount Calculator.runtimeconfig.json
+C:\WizLaptop\School\Code\Discount Calculator\bin\Debug\net8.0\Discount Calculator.dll
+C:\WizLaptop\School\Code\Discount Calculator\bin\Debug\net8.0\Discount Calculator.pdb
+C:\WizLaptop\School\Code\Discount Calculator\obj\Debug\net8.0\Discount Calculator.dll
+C:\WizLaptop\School\Code\Discount Calculator\obj\Debug\net8.0\refint\Discount Calculator.dll
+C:\WizLaptop\School\Code\Discount Calculator\obj\Debug\net8.0\Discount Calculator.pdb
+C:\WizLaptop\School\Code\Discount Calculator\obj\Debug\net8.0\Discount Calculator.genruntimeconfig.cache
+C:\WizLaptop\School\Code\Discount Calculator\obj\Debug\net8.0\ref\Discount Calculator.dll

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\WizLaptop\\School\\C#\\Code\\---\\objects and arrays\\2 improved\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D89D60C6-A99C-4616-BB51-BE817FCAB382}|2 improved.csproj|C:\\WizLaptop\\School\\C#\\Code\\---\\objects and arrays\\2 improved\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D89D60C6-A99C-4616-BB51-BE817FCAB382}|2 improved.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D89D60C6-A99C-4616-BB51-BE817FCAB382}|2 improved.csproj|C:\\WizLaptop\\School\\C#\\Code\\---\\objects and arrays\\2 improved\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D89D60C6-A99C-4616-BB51-BE817FCAB382}|2 improved.csproj|solutionrelative:game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D89D60C6-A99C-4616-BB51-BE817FCAB382}|2 improved.csproj|c:\\wizlaptop\\school\\c#\\code\\---\\objects and arrays\\2 improved\\gamelibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D89D60C6-A99C-4616-BB51-BE817FCAB382}|2 improved.csproj|solutionrelative:gamelibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 359,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\WizLaptop\\School\\C#\\Code\\---\\objects and arrays\\2 improved\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\WizLaptop\\School\\C#\\Code\\---\\objects and arrays\\2 improved\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T07:10:54.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\WizLaptop\\School\\C#\\Code\\---\\objects and arrays\\2 improved\\Game.cs",
+              "RelativeDocumentMoniker": "Game.cs",
+              "ToolTip": "C:\\WizLaptop\\School\\C#\\Code\\---\\objects and arrays\\2 improved\\Game.cs",
+              "RelativeToolTip": "Game.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T07:13:17.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameLibrary.cs",
+              "DocumentMoniker": "C:\\WizLaptop\\School\\C#\\Code\\---\\objects and arrays\\2 improved\\GameLibrary.cs",
+              "RelativeDocumentMoniker": "GameLibrary.cs",
+              "ToolTip": "C:\\WizLaptop\\School\\C#\\Code\\---\\objects and arrays\\2 improved\\GameLibrary.cs",
+              "RelativeToolTip": "GameLibrary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T07:15:54.751Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

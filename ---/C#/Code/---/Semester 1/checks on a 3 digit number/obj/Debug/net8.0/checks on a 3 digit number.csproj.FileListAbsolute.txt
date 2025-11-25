@@ -1,0 +1,14 @@
+C:\WizLaptop\School\Code\checks on a 3 digit number\bin\Debug\net8.0\checks on a 3 digit number.exe
+C:\WizLaptop\School\Code\checks on a 3 digit number\bin\Debug\net8.0\checks on a 3 digit number.deps.json
+C:\WizLaptop\School\Code\checks on a 3 digit number\bin\Debug\net8.0\checks on a 3 digit number.runtimeconfig.json
+C:\WizLaptop\School\Code\checks on a 3 digit number\bin\Debug\net8.0\checks on a 3 digit number.dll
+C:\WizLaptop\School\Code\checks on a 3 digit number\bin\Debug\net8.0\checks on a 3 digit number.pdb
+C:\WizLaptop\School\Code\checks on a 3 digit number\obj\Debug\net8.0\checks on a 3 digit number.GeneratedMSBuildEditorConfig.editorconfig
+C:\WizLaptop\School\Code\checks on a 3 digit number\obj\Debug\net8.0\checks on a 3 digit number.AssemblyInfoInputs.cache
+C:\WizLaptop\School\Code\checks on a 3 digit number\obj\Debug\net8.0\checks on a 3 digit number.AssemblyInfo.cs
+C:\WizLaptop\School\Code\checks on a 3 digit number\obj\Debug\net8.0\checks on a 3 digit number.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\Code\checks on a 3 digit number\obj\Debug\net8.0\checks on a 3 digit number.dll
+C:\WizLaptop\School\Code\checks on a 3 digit number\obj\Debug\net8.0\refint\checks on a 3 digit number.dll
+C:\WizLaptop\School\Code\checks on a 3 digit number\obj\Debug\net8.0\checks on a 3 digit number.pdb
+C:\WizLaptop\School\Code\checks on a 3 digit number\obj\Debug\net8.0\checks on a 3 digit number.genruntimeconfig.cache
+C:\WizLaptop\School\Code\checks on a 3 digit number\obj\Debug\net8.0\ref\checks on a 3 digit number.dll

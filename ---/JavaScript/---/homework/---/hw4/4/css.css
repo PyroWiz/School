@@ -1,0 +1,21 @@
+body {
+    background-color: #1d1e57;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+.field-group {
+    margin-bottom: 1em;
+    position: relative;
+}
+
+.message {
+    color: #c00;
+    font-size: 0.9em;
+    height: 1em;
+    /* reserve space */
+    margin-top: 0.3em;
+}

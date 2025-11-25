@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Cinema Tickers/1.0.0": {
+        "runtime": {
+          "Cinema Tickers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cinema Tickers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

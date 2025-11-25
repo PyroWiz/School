@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Simu3 part 3 q3/1.0.0": {
+        "runtime": {
+          "Simu3 part 3 q3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Simu3 part 3 q3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

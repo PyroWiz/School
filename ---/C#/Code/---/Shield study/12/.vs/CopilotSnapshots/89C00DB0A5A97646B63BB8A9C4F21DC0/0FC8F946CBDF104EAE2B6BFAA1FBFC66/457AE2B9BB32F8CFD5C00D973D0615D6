@@ -1,0 +1,32 @@
+﻿        static void Main(string[] args)
+        {
+            // Create a sample 2D array
+            int[,] array = new int[,]
+            {
+                { 5, 2, 9, 1 },
+                { 8, 3, 7, 4 },
+                { 6, 0, 2, 5 }
+            };
+
+            Console.WriteLine("Original array:");
+            PrintArray(array);
+
+            // Sort each row
+            int[,] sorted = Sort(array);
+
+            Console.WriteLine("\nSorted array (each row):");
+            PrintArray(sorted);
+        }
+
+        // Helper method to print a 2D array
+        static void PrintArray(int[,] arr)
+        {
+            for (int i = 0; i < arr.GetLength(0); i++)
+            {
+                for (int j = 0; j < arr.GetLength(1); j++)
+                {
+                    Console.Write(arr[i, j] + " ");
+                }
+                Console.WriteLine();
+            }
+        }

@@ -1,0 +1,14 @@
+C:\WizLaptop\School\C#\Code\test study 2\bigger digit number mixer\bin\Debug\net8.0\bigger digit number mixer.exe
+C:\WizLaptop\School\C#\Code\test study 2\bigger digit number mixer\bin\Debug\net8.0\bigger digit number mixer.deps.json
+C:\WizLaptop\School\C#\Code\test study 2\bigger digit number mixer\bin\Debug\net8.0\bigger digit number mixer.runtimeconfig.json
+C:\WizLaptop\School\C#\Code\test study 2\bigger digit number mixer\bin\Debug\net8.0\bigger digit number mixer.dll
+C:\WizLaptop\School\C#\Code\test study 2\bigger digit number mixer\bin\Debug\net8.0\bigger digit number mixer.pdb
+C:\WizLaptop\School\C#\Code\test study 2\bigger digit number mixer\obj\Debug\net8.0\bigger digit number mixer.GeneratedMSBuildEditorConfig.editorconfig
+C:\WizLaptop\School\C#\Code\test study 2\bigger digit number mixer\obj\Debug\net8.0\bigger digit number mixer.AssemblyInfoInputs.cache
+C:\WizLaptop\School\C#\Code\test study 2\bigger digit number mixer\obj\Debug\net8.0\bigger digit number mixer.AssemblyInfo.cs
+C:\WizLaptop\School\C#\Code\test study 2\bigger digit number mixer\obj\Debug\net8.0\bigger digit number mixer.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\C#\Code\test study 2\bigger digit number mixer\obj\Debug\net8.0\bigger digit number mixer.dll
+C:\WizLaptop\School\C#\Code\test study 2\bigger digit number mixer\obj\Debug\net8.0\refint\bigger digit number mixer.dll
+C:\WizLaptop\School\C#\Code\test study 2\bigger digit number mixer\obj\Debug\net8.0\bigger digit number mixer.pdb
+C:\WizLaptop\School\C#\Code\test study 2\bigger digit number mixer\obj\Debug\net8.0\bigger digit number mixer.genruntimeconfig.cache
+C:\WizLaptop\School\C#\Code\test study 2\bigger digit number mixer\obj\Debug\net8.0\ref\bigger digit number mixer.dll

@@ -1,0 +1,14 @@
+C:\WizLaptop\School\C#\Code\test study 2\simu b 3\bin\Debug\net8.0\simu b 3.exe
+C:\WizLaptop\School\C#\Code\test study 2\simu b 3\bin\Debug\net8.0\simu b 3.deps.json
+C:\WizLaptop\School\C#\Code\test study 2\simu b 3\bin\Debug\net8.0\simu b 3.runtimeconfig.json
+C:\WizLaptop\School\C#\Code\test study 2\simu b 3\bin\Debug\net8.0\simu b 3.dll
+C:\WizLaptop\School\C#\Code\test study 2\simu b 3\bin\Debug\net8.0\simu b 3.pdb
+C:\WizLaptop\School\C#\Code\test study 2\simu b 3\obj\Debug\net8.0\simu b 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\WizLaptop\School\C#\Code\test study 2\simu b 3\obj\Debug\net8.0\simu b 3.AssemblyInfoInputs.cache
+C:\WizLaptop\School\C#\Code\test study 2\simu b 3\obj\Debug\net8.0\simu b 3.AssemblyInfo.cs
+C:\WizLaptop\School\C#\Code\test study 2\simu b 3\obj\Debug\net8.0\simu b 3.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\C#\Code\test study 2\simu b 3\obj\Debug\net8.0\simu b 3.dll
+C:\WizLaptop\School\C#\Code\test study 2\simu b 3\obj\Debug\net8.0\refint\simu b 3.dll
+C:\WizLaptop\School\C#\Code\test study 2\simu b 3\obj\Debug\net8.0\simu b 3.pdb
+C:\WizLaptop\School\C#\Code\test study 2\simu b 3\obj\Debug\net8.0\simu b 3.genruntimeconfig.cache
+C:\WizLaptop\School\C#\Code\test study 2\simu b 3\obj\Debug\net8.0\ref\simu b 3.dll

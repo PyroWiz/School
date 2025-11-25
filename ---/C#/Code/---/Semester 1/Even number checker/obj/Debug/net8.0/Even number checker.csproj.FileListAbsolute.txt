@@ -1,0 +1,14 @@
+C:\WizLaptop\School\Code\Even number checker\bin\Debug\net8.0\Even number checker.exe
+C:\WizLaptop\School\Code\Even number checker\bin\Debug\net8.0\Even number checker.deps.json
+C:\WizLaptop\School\Code\Even number checker\bin\Debug\net8.0\Even number checker.runtimeconfig.json
+C:\WizLaptop\School\Code\Even number checker\bin\Debug\net8.0\Even number checker.dll
+C:\WizLaptop\School\Code\Even number checker\bin\Debug\net8.0\Even number checker.pdb
+C:\WizLaptop\School\Code\Even number checker\obj\Debug\net8.0\Even number checker.GeneratedMSBuildEditorConfig.editorconfig
+C:\WizLaptop\School\Code\Even number checker\obj\Debug\net8.0\Even number checker.AssemblyInfoInputs.cache
+C:\WizLaptop\School\Code\Even number checker\obj\Debug\net8.0\Even number checker.AssemblyInfo.cs
+C:\WizLaptop\School\Code\Even number checker\obj\Debug\net8.0\Even number checker.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\Code\Even number checker\obj\Debug\net8.0\Even number checker.dll
+C:\WizLaptop\School\Code\Even number checker\obj\Debug\net8.0\refint\Even number checker.dll
+C:\WizLaptop\School\Code\Even number checker\obj\Debug\net8.0\Even number checker.pdb
+C:\WizLaptop\School\Code\Even number checker\obj\Debug\net8.0\Even number checker.genruntimeconfig.cache
+C:\WizLaptop\School\Code\Even number checker\obj\Debug\net8.0\ref\Even number checker.dll

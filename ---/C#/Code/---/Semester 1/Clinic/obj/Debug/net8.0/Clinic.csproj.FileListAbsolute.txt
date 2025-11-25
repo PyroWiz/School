@@ -1,0 +1,14 @@
+C:\WizLaptop\School\Code\Clinic\bin\Debug\net8.0\Clinic.exe
+C:\WizLaptop\School\Code\Clinic\bin\Debug\net8.0\Clinic.deps.json
+C:\WizLaptop\School\Code\Clinic\bin\Debug\net8.0\Clinic.runtimeconfig.json
+C:\WizLaptop\School\Code\Clinic\bin\Debug\net8.0\Clinic.dll
+C:\WizLaptop\School\Code\Clinic\bin\Debug\net8.0\Clinic.pdb
+C:\WizLaptop\School\Code\Clinic\obj\Debug\net8.0\Clinic.GeneratedMSBuildEditorConfig.editorconfig
+C:\WizLaptop\School\Code\Clinic\obj\Debug\net8.0\Clinic.AssemblyInfoInputs.cache
+C:\WizLaptop\School\Code\Clinic\obj\Debug\net8.0\Clinic.AssemblyInfo.cs
+C:\WizLaptop\School\Code\Clinic\obj\Debug\net8.0\Clinic.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\Code\Clinic\obj\Debug\net8.0\Clinic.dll
+C:\WizLaptop\School\Code\Clinic\obj\Debug\net8.0\refint\Clinic.dll
+C:\WizLaptop\School\Code\Clinic\obj\Debug\net8.0\Clinic.pdb
+C:\WizLaptop\School\Code\Clinic\obj\Debug\net8.0\Clinic.genruntimeconfig.cache
+C:\WizLaptop\School\Code\Clinic\obj\Debug\net8.0\ref\Clinic.dll

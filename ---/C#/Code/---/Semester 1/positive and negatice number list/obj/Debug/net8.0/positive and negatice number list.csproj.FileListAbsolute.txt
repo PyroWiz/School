@@ -1,0 +1,14 @@
+C:\WizLaptop\School\Code\positive and negatice number list\bin\Debug\net8.0\positive and negatice number list.exe
+C:\WizLaptop\School\Code\positive and negatice number list\bin\Debug\net8.0\positive and negatice number list.deps.json
+C:\WizLaptop\School\Code\positive and negatice number list\bin\Debug\net8.0\positive and negatice number list.runtimeconfig.json
+C:\WizLaptop\School\Code\positive and negatice number list\bin\Debug\net8.0\positive and negatice number list.dll
+C:\WizLaptop\School\Code\positive and negatice number list\bin\Debug\net8.0\positive and negatice number list.pdb
+C:\WizLaptop\School\Code\positive and negatice number list\obj\Debug\net8.0\positive and negatice number list.GeneratedMSBuildEditorConfig.editorconfig
+C:\WizLaptop\School\Code\positive and negatice number list\obj\Debug\net8.0\positive and negatice number list.AssemblyInfoInputs.cache
+C:\WizLaptop\School\Code\positive and negatice number list\obj\Debug\net8.0\positive and negatice number list.AssemblyInfo.cs
+C:\WizLaptop\School\Code\positive and negatice number list\obj\Debug\net8.0\positive and negatice number list.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\Code\positive and negatice number list\obj\Debug\net8.0\positive and negatice number list.dll
+C:\WizLaptop\School\Code\positive and negatice number list\obj\Debug\net8.0\refint\positive and negatice number list.dll
+C:\WizLaptop\School\Code\positive and negatice number list\obj\Debug\net8.0\positive and negatice number list.pdb
+C:\WizLaptop\School\Code\positive and negatice number list\obj\Debug\net8.0\positive and negatice number list.genruntimeconfig.cache
+C:\WizLaptop\School\Code\positive and negatice number list\obj\Debug\net8.0\ref\positive and negatice number list.dll

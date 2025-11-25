@@ -1,0 +1,7 @@
+G:\Other computers\My Laptop\School\Code\Felindrom\obj\Debug\net8.0\Felindrom.GeneratedMSBuildEditorConfig.editorconfig
+G:\Other computers\My Laptop\School\Code\Felindrom\obj\Debug\net8.0\Felindrom.AssemblyInfoInputs.cache
+G:\Other computers\My Laptop\School\Code\Felindrom\obj\Debug\net8.0\Felindrom.AssemblyInfo.cs
+G:\Other computers\My Laptop\School\Code\Felindrom\obj\Debug\net8.0\Felindrom.csproj.CoreCompileInputs.cache
+G:\Other computers\My Laptop\School\Code\Felindrom\obj\Debug\net8.0\Felindrom.dll
+G:\Other computers\My Laptop\School\Code\Felindrom\obj\Debug\net8.0\refint\Felindrom.dll
+G:\Other computers\My Laptop\School\Code\Felindrom\obj\Debug\net8.0\Felindrom.pdb

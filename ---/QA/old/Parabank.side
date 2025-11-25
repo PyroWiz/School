@@ -1,0 +1,17 @@
+{
+  "id": "9b85fb18-175d-4cf2-9df3-075394602288",
+  "version": "2.0",
+  "name": "Parabank",
+  "url": "https://parabank.parasoft.com",
+  "tests": [],
+  "suites": [{
+    "id": "d74014cd-5004-4f94-b686-6068f6bc217c",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": []
+  }],
+  "urls": ["https://parabank.parasoft.com/"],
+  "plugins": []
+}

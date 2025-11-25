@@ -1,0 +1,14 @@
+C:\WizPC\School\LocalCode\Simu3 part 3 q4\bin\Debug\net8.0\Simu3 part 3 q4.exe
+C:\WizPC\School\LocalCode\Simu3 part 3 q4\bin\Debug\net8.0\Simu3 part 3 q4.deps.json
+C:\WizPC\School\LocalCode\Simu3 part 3 q4\bin\Debug\net8.0\Simu3 part 3 q4.runtimeconfig.json
+C:\WizPC\School\LocalCode\Simu3 part 3 q4\bin\Debug\net8.0\Simu3 part 3 q4.dll
+C:\WizPC\School\LocalCode\Simu3 part 3 q4\bin\Debug\net8.0\Simu3 part 3 q4.pdb
+C:\WizPC\School\LocalCode\Simu3 part 3 q4\obj\Debug\net8.0\Simu3 part 3 q4.GeneratedMSBuildEditorConfig.editorconfig
+C:\WizPC\School\LocalCode\Simu3 part 3 q4\obj\Debug\net8.0\Simu3 part 3 q4.AssemblyInfoInputs.cache
+C:\WizPC\School\LocalCode\Simu3 part 3 q4\obj\Debug\net8.0\Simu3 part 3 q4.AssemblyInfo.cs
+C:\WizPC\School\LocalCode\Simu3 part 3 q4\obj\Debug\net8.0\Simu3 part 3 q4.csproj.CoreCompileInputs.cache
+C:\WizPC\School\LocalCode\Simu3 part 3 q4\obj\Debug\net8.0\Simu3 part 3 q4.dll
+C:\WizPC\School\LocalCode\Simu3 part 3 q4\obj\Debug\net8.0\refint\Simu3 part 3 q4.dll
+C:\WizPC\School\LocalCode\Simu3 part 3 q4\obj\Debug\net8.0\Simu3 part 3 q4.pdb
+C:\WizPC\School\LocalCode\Simu3 part 3 q4\obj\Debug\net8.0\Simu3 part 3 q4.genruntimeconfig.cache
+C:\WizPC\School\LocalCode\Simu3 part 3 q4\obj\Debug\net8.0\ref\Simu3 part 3 q4.dll

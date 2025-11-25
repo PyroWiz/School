@@ -1,0 +1,14 @@
+C:\WizLaptop\Code\boss fight\bin\Debug\net8.0\boss fight.exe
+C:\WizLaptop\Code\boss fight\bin\Debug\net8.0\boss fight.deps.json
+C:\WizLaptop\Code\boss fight\bin\Debug\net8.0\boss fight.runtimeconfig.json
+C:\WizLaptop\Code\boss fight\bin\Debug\net8.0\boss fight.dll
+C:\WizLaptop\Code\boss fight\bin\Debug\net8.0\boss fight.pdb
+C:\WizLaptop\Code\boss fight\obj\Debug\net8.0\boss fight.GeneratedMSBuildEditorConfig.editorconfig
+C:\WizLaptop\Code\boss fight\obj\Debug\net8.0\boss fight.AssemblyInfoInputs.cache
+C:\WizLaptop\Code\boss fight\obj\Debug\net8.0\boss fight.AssemblyInfo.cs
+C:\WizLaptop\Code\boss fight\obj\Debug\net8.0\boss fight.csproj.CoreCompileInputs.cache
+C:\WizLaptop\Code\boss fight\obj\Debug\net8.0\boss fight.dll
+C:\WizLaptop\Code\boss fight\obj\Debug\net8.0\refint\boss fight.dll
+C:\WizLaptop\Code\boss fight\obj\Debug\net8.0\boss fight.pdb
+C:\WizLaptop\Code\boss fight\obj\Debug\net8.0\boss fight.genruntimeconfig.cache
+C:\WizLaptop\Code\boss fight\obj\Debug\net8.0\ref\boss fight.dll

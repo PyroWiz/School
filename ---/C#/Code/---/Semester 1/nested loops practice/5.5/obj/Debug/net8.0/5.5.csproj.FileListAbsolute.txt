@@ -1,0 +1,14 @@
+C:\WizLaptop\School\Code\nested loops practice\5.5\bin\Debug\net8.0\5.5.exe
+C:\WizLaptop\School\Code\nested loops practice\5.5\bin\Debug\net8.0\5.5.deps.json
+C:\WizLaptop\School\Code\nested loops practice\5.5\bin\Debug\net8.0\5.5.runtimeconfig.json
+C:\WizLaptop\School\Code\nested loops practice\5.5\bin\Debug\net8.0\5.5.dll
+C:\WizLaptop\School\Code\nested loops practice\5.5\bin\Debug\net8.0\5.5.pdb
+C:\WizLaptop\School\Code\nested loops practice\5.5\obj\Debug\net8.0\5.5.GeneratedMSBuildEditorConfig.editorconfig
+C:\WizLaptop\School\Code\nested loops practice\5.5\obj\Debug\net8.0\5.5.AssemblyInfoInputs.cache
+C:\WizLaptop\School\Code\nested loops practice\5.5\obj\Debug\net8.0\5.5.AssemblyInfo.cs
+C:\WizLaptop\School\Code\nested loops practice\5.5\obj\Debug\net8.0\5.5.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\Code\nested loops practice\5.5\obj\Debug\net8.0\5.5.dll
+C:\WizLaptop\School\Code\nested loops practice\5.5\obj\Debug\net8.0\refint\5.5.dll
+C:\WizLaptop\School\Code\nested loops practice\5.5\obj\Debug\net8.0\5.5.pdb
+C:\WizLaptop\School\Code\nested loops practice\5.5\obj\Debug\net8.0\5.5.genruntimeconfig.cache
+C:\WizLaptop\School\Code\nested loops practice\5.5\obj\Debug\net8.0\ref\5.5.dll

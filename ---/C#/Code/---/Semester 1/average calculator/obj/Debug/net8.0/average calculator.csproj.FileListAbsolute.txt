@@ -1,0 +1,14 @@
+C:\WizLaptop\School\Code\average calculator\bin\Debug\net8.0\average calculator.exe
+C:\WizLaptop\School\Code\average calculator\bin\Debug\net8.0\average calculator.deps.json
+C:\WizLaptop\School\Code\average calculator\bin\Debug\net8.0\average calculator.runtimeconfig.json
+C:\WizLaptop\School\Code\average calculator\bin\Debug\net8.0\average calculator.dll
+C:\WizLaptop\School\Code\average calculator\bin\Debug\net8.0\average calculator.pdb
+C:\WizLaptop\School\Code\average calculator\obj\Debug\net8.0\average calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\WizLaptop\School\Code\average calculator\obj\Debug\net8.0\average calculator.AssemblyInfoInputs.cache
+C:\WizLaptop\School\Code\average calculator\obj\Debug\net8.0\average calculator.AssemblyInfo.cs
+C:\WizLaptop\School\Code\average calculator\obj\Debug\net8.0\average calculator.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\Code\average calculator\obj\Debug\net8.0\average calculator.dll
+C:\WizLaptop\School\Code\average calculator\obj\Debug\net8.0\refint\average calculator.dll
+C:\WizLaptop\School\Code\average calculator\obj\Debug\net8.0\average calculator.pdb
+C:\WizLaptop\School\Code\average calculator\obj\Debug\net8.0\average calculator.genruntimeconfig.cache
+C:\WizLaptop\School\Code\average calculator\obj\Debug\net8.0\ref\average calculator.dll

@@ -1,0 +1,7 @@
+G:\Other computers\My Laptop\School\C#\Code\arrays final\9\bin\Debug\9.exe.config
+G:\Other computers\My Laptop\School\C#\Code\arrays final\9\bin\Debug\9.exe
+G:\Other computers\My Laptop\School\C#\Code\arrays final\9\bin\Debug\9.pdb
+G:\Other computers\My Laptop\School\C#\Code\arrays final\9\obj\Debug\9.csproj.AssemblyReference.cache
+G:\Other computers\My Laptop\School\C#\Code\arrays final\9\obj\Debug\9.csproj.CoreCompileInputs.cache
+G:\Other computers\My Laptop\School\C#\Code\arrays final\9\obj\Debug\9.exe
+G:\Other computers\My Laptop\School\C#\Code\arrays final\9\obj\Debug\9.pdb

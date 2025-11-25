@@ -1,0 +1,16 @@
+G:\Other computers\My Laptop\School\OOP\Final\TechStore\obj\Debug\TechStore.csproj.AssemblyReference.cache
+G:\Other computers\My Laptop\School\OOP\Final\TechStore\obj\Debug\TechStore.csproj.CoreCompileInputs.cache
+G:\Other computers\My Laptop\School\OOP\Final\TechStore\bin\Debug\TechStore.exe.config
+G:\Other computers\My Laptop\School\OOP\Final\TechStore\bin\Debug\TechStore.exe
+G:\Other computers\My Laptop\School\OOP\Final\TechStore\bin\Debug\TechStore.pdb
+G:\Other computers\My Laptop\School\OOP\Final\TechStore\obj\Debug\TechStore.exe
+G:\Other computers\My Laptop\School\OOP\Final\TechStore\obj\Debug\TechStore.pdb
+G:\Other computers\My Laptop\School\OOP\Final\TechStore\obj\Debug\TechStore.exe.config
+C:\WizLaptop\School\OOP\Final\TechStore\bin\Debug\TechStore.exe.config
+C:\WizLaptop\School\OOP\Final\TechStore\bin\Debug\TechStore.exe
+C:\WizLaptop\School\OOP\Final\TechStore\bin\Debug\TechStore.pdb
+C:\WizLaptop\School\OOP\Final\TechStore\obj\Debug\TechStore.csproj.AssemblyReference.cache
+C:\WizLaptop\School\OOP\Final\TechStore\obj\Debug\TechStore.exe.config
+C:\WizLaptop\School\OOP\Final\TechStore\obj\Debug\TechStore.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\OOP\Final\TechStore\obj\Debug\TechStore.exe
+C:\WizLaptop\School\OOP\Final\TechStore\obj\Debug\TechStore.pdb

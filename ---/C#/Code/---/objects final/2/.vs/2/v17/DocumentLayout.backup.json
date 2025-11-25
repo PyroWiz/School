@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Other computers\\My Laptop\\School\\C#\\Code\\objects final\\2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40F58523-FDC8-4C7D-86A6-6A3D7265DC28}|2.csproj|g:\\other computers\\my laptop\\school\\c#\\code\\objects final\\2\\fibunachi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F58523-FDC8-4C7D-86A6-6A3D7265DC28}|2.csproj|solutionrelative:fibunachi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F58523-FDC8-4C7D-86A6-6A3D7265DC28}|2.csproj|g:\\other computers\\my laptop\\school\\c#\\code\\objects final\\2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F58523-FDC8-4C7D-86A6-6A3D7265DC28}|2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 359,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Other computers\\My Laptop\\School\\C#\\Code\\objects final\\2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "G:\\Other computers\\My Laptop\\School\\C#\\Code\\objects final\\2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T12:50:33.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Fibunachi.cs",
+              "DocumentMoniker": "G:\\Other computers\\My Laptop\\School\\C#\\Code\\objects final\\2\\Fibunachi.cs",
+              "RelativeDocumentMoniker": "Fibunachi.cs",
+              "ToolTip": "G:\\Other computers\\My Laptop\\School\\C#\\Code\\objects final\\2\\Fibunachi.cs",
+              "RelativeToolTip": "Fibunachi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T12:56:55.357Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

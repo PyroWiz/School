@@ -1,0 +1,263 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\WizLaptop\\School\\OOP\\---\\Final\\TechStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF6B51D4-F20D-46AE-A950-971C1285B1E0}|TechStore.csproj|C:\\WizLaptop\\School\\OOP\\---\\Final\\TechStore\\ram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF6B51D4-F20D-46AE-A950-971C1285B1E0}|TechStore.csproj|solutionrelative:ram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF6B51D4-F20D-46AE-A950-971C1285B1E0}|TechStore.csproj|C:\\WizLaptop\\School\\OOP\\---\\Final\\TechStore\\hardware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF6B51D4-F20D-46AE-A950-971C1285B1E0}|TechStore.csproj|solutionrelative:hardware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF6B51D4-F20D-46AE-A950-971C1285B1E0}|TechStore.csproj|C:\\WizLaptop\\School\\OOP\\---\\Final\\TechStore\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF6B51D4-F20D-46AE-A950-971C1285B1E0}|TechStore.csproj|solutionrelative:products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF6B51D4-F20D-46AE-A950-971C1285B1E0}|TechStore.csproj|C:\\WizLaptop\\School\\OOP\\---\\Final\\TechStore\\mice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF6B51D4-F20D-46AE-A950-971C1285B1E0}|TechStore.csproj|solutionrelative:mice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF6B51D4-F20D-46AE-A950-971C1285B1E0}|TechStore.csproj|C:\\WizLaptop\\School\\OOP\\---\\Final\\TechStore\\supply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF6B51D4-F20D-46AE-A950-971C1285B1E0}|TechStore.csproj|solutionrelative:supply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF6B51D4-F20D-46AE-A950-971C1285B1E0}|TechStore.csproj|c:\\wizlaptop\\school\\oop\\---\\final\\techstore\\games.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF6B51D4-F20D-46AE-A950-971C1285B1E0}|TechStore.csproj|solutionrelative:games.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF6B51D4-F20D-46AE-A950-971C1285B1E0}|TechStore.csproj|C:\\WizLaptop\\School\\OOP\\---\\Final\\TechStore\\headphones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF6B51D4-F20D-46AE-A950-971C1285B1E0}|TechStore.csproj|solutionrelative:headphones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF6B51D4-F20D-46AE-A950-971C1285B1E0}|TechStore.csproj|C:\\WizLaptop\\School\\OOP\\---\\Final\\TechStore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF6B51D4-F20D-46AE-A950-971C1285B1E0}|TechStore.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF6B51D4-F20D-46AE-A950-971C1285B1E0}|TechStore.csproj|C:\\WizLaptop\\School\\OOP\\---\\Final\\TechStore\\cpus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF6B51D4-F20D-46AE-A950-971C1285B1E0}|TechStore.csproj|solutionrelative:cpus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF6B51D4-F20D-46AE-A950-971C1285B1E0}|TechStore.csproj|C:\\WizLaptop\\School\\OOP\\---\\Final\\TechStore\\peripherals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF6B51D4-F20D-46AE-A950-971C1285B1E0}|TechStore.csproj|solutionrelative:peripherals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF6B51D4-F20D-46AE-A950-971C1285B1E0}|TechStore.csproj|C:\\WizLaptop\\School\\OOP\\---\\Final\\TechStore\\gpus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF6B51D4-F20D-46AE-A950-971C1285B1E0}|TechStore.csproj|solutionrelative:gpus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF6B51D4-F20D-46AE-A950-971C1285B1E0}|TechStore.csproj|C:\\WizLaptop\\School\\OOP\\---\\Final\\TechStore\\monitors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF6B51D4-F20D-46AE-A950-971C1285B1E0}|TechStore.csproj|solutionrelative:monitors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF6B51D4-F20D-46AE-A950-971C1285B1E0}|TechStore.csproj|C:\\WizLaptop\\School\\OOP\\---\\Final\\TechStore\\keyboards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF6B51D4-F20D-46AE-A950-971C1285B1E0}|TechStore.csproj|solutionrelative:keyboards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 359,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\WizLaptop\\School\\OOP\\---\\Final\\TechStore\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\WizLaptop\\School\\OOP\\---\\Final\\TechStore\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T08:13:10.36Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Supply.cs",
+              "DocumentMoniker": "C:\\WizLaptop\\School\\OOP\\---\\Final\\TechStore\\Supply.cs",
+              "RelativeDocumentMoniker": "Supply.cs",
+              "ToolTip": "C:\\WizLaptop\\School\\OOP\\---\\Final\\TechStore\\Supply.cs",
+              "RelativeToolTip": "Supply.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJsBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T08:33:43.795Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Games.cs",
+              "DocumentMoniker": "C:\\WizLaptop\\School\\OOP\\---\\Final\\TechStore\\Games.cs",
+              "RelativeDocumentMoniker": "Games.cs",
+              "ToolTip": "C:\\WizLaptop\\School\\OOP\\---\\Final\\TechStore\\Games.cs",
+              "RelativeToolTip": "Games.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T08:18:56.978Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Headphones.cs",
+              "DocumentMoniker": "C:\\WizLaptop\\School\\OOP\\---\\Final\\TechStore\\Headphones.cs",
+              "RelativeDocumentMoniker": "Headphones.cs",
+              "ToolTip": "C:\\WizLaptop\\School\\OOP\\---\\Final\\TechStore\\Headphones.cs",
+              "RelativeToolTip": "Headphones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T10:40:27.022Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Monitors.cs",
+              "DocumentMoniker": "C:\\WizLaptop\\School\\OOP\\---\\Final\\TechStore\\Monitors.cs",
+              "RelativeDocumentMoniker": "Monitors.cs",
+              "ToolTip": "C:\\WizLaptop\\School\\OOP\\---\\Final\\TechStore\\Monitors.cs",
+              "RelativeToolTip": "Monitors.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T10:40:12.246Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Keyboards.cs",
+              "DocumentMoniker": "C:\\WizLaptop\\School\\OOP\\---\\Final\\TechStore\\Keyboards.cs",
+              "RelativeDocumentMoniker": "Keyboards.cs",
+              "ToolTip": "C:\\WizLaptop\\School\\OOP\\---\\Final\\TechStore\\Keyboards.cs",
+              "RelativeToolTip": "Keyboards.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T10:39:29.46Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mice.cs",
+              "DocumentMoniker": "C:\\WizLaptop\\School\\OOP\\---\\Final\\TechStore\\Mice.cs",
+              "RelativeDocumentMoniker": "Mice.cs",
+              "ToolTip": "C:\\WizLaptop\\School\\OOP\\---\\Final\\TechStore\\Mice.cs",
+              "RelativeToolTip": "Mice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T10:38:32.287Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Peripherals.cs",
+              "DocumentMoniker": "C:\\WizLaptop\\School\\OOP\\---\\Final\\TechStore\\Peripherals.cs",
+              "RelativeDocumentMoniker": "Peripherals.cs",
+              "ToolTip": "C:\\WizLaptop\\School\\OOP\\---\\Final\\TechStore\\Peripherals.cs",
+              "RelativeToolTip": "Peripherals.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T08:20:00.138Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GPUs.cs",
+              "DocumentMoniker": "C:\\WizLaptop\\School\\OOP\\---\\Final\\TechStore\\GPUs.cs",
+              "RelativeDocumentMoniker": "GPUs.cs",
+              "ToolTip": "C:\\WizLaptop\\School\\OOP\\---\\Final\\TechStore\\GPUs.cs",
+              "RelativeToolTip": "GPUs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T11:29:41.568Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CPUs.cs",
+              "DocumentMoniker": "C:\\WizLaptop\\School\\OOP\\---\\Final\\TechStore\\CPUs.cs",
+              "RelativeDocumentMoniker": "CPUs.cs",
+              "ToolTip": "C:\\WizLaptop\\School\\OOP\\---\\Final\\TechStore\\CPUs.cs",
+              "RelativeToolTip": "CPUs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T11:29:45.469Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RAM.cs",
+              "DocumentMoniker": "C:\\WizLaptop\\School\\OOP\\---\\Final\\TechStore\\RAM.cs",
+              "RelativeDocumentMoniker": "RAM.cs",
+              "ToolTip": "C:\\WizLaptop\\School\\OOP\\---\\Final\\TechStore\\RAM.cs",
+              "RelativeToolTip": "RAM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T11:29:48.058Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c1c74746-265a-4718-a5ab-63963d38e8bb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hardware.cs",
+              "DocumentMoniker": "C:\\WizLaptop\\School\\OOP\\---\\Final\\TechStore\\Hardware.cs",
+              "RelativeDocumentMoniker": "Hardware.cs",
+              "ToolTip": "C:\\WizLaptop\\School\\OOP\\---\\Final\\TechStore\\Hardware.cs",
+              "RelativeToolTip": "Hardware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T08:20:16.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\WizLaptop\\School\\OOP\\---\\Final\\TechStore\\Products.cs",
+              "RelativeDocumentMoniker": "Products.cs",
+              "ToolTip": "C:\\WizLaptop\\School\\OOP\\---\\Final\\TechStore\\Products.cs",
+              "RelativeToolTip": "Products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T08:18:10.867Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 41,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

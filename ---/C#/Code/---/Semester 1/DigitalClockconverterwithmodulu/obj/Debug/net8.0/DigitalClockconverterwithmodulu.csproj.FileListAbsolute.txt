@@ -1,0 +1,14 @@
+C:\WizLaptop\School\Code\DigitalClockconverterwithmodulu\bin\Debug\net8.0\DigitalClockconverterwithmodulu.exe
+C:\WizLaptop\School\Code\DigitalClockconverterwithmodulu\bin\Debug\net8.0\DigitalClockconverterwithmodulu.deps.json
+C:\WizLaptop\School\Code\DigitalClockconverterwithmodulu\bin\Debug\net8.0\DigitalClockconverterwithmodulu.runtimeconfig.json
+C:\WizLaptop\School\Code\DigitalClockconverterwithmodulu\bin\Debug\net8.0\DigitalClockconverterwithmodulu.dll
+C:\WizLaptop\School\Code\DigitalClockconverterwithmodulu\bin\Debug\net8.0\DigitalClockconverterwithmodulu.pdb
+C:\WizLaptop\School\Code\DigitalClockconverterwithmodulu\obj\Debug\net8.0\DigitalClockconverterwithmodulu.GeneratedMSBuildEditorConfig.editorconfig
+C:\WizLaptop\School\Code\DigitalClockconverterwithmodulu\obj\Debug\net8.0\DigitalClockconverterwithmodulu.AssemblyInfoInputs.cache
+C:\WizLaptop\School\Code\DigitalClockconverterwithmodulu\obj\Debug\net8.0\DigitalClockconverterwithmodulu.AssemblyInfo.cs
+C:\WizLaptop\School\Code\DigitalClockconverterwithmodulu\obj\Debug\net8.0\DigitalClockconverterwithmodulu.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\Code\DigitalClockconverterwithmodulu\obj\Debug\net8.0\DigitalClockconverterwithmodulu.dll
+C:\WizLaptop\School\Code\DigitalClockconverterwithmodulu\obj\Debug\net8.0\refint\DigitalClockconverterwithmodulu.dll
+C:\WizLaptop\School\Code\DigitalClockconverterwithmodulu\obj\Debug\net8.0\DigitalClockconverterwithmodulu.pdb
+C:\WizLaptop\School\Code\DigitalClockconverterwithmodulu\obj\Debug\net8.0\DigitalClockconverterwithmodulu.genruntimeconfig.cache
+C:\WizLaptop\School\Code\DigitalClockconverterwithmodulu\obj\Debug\net8.0\ref\DigitalClockconverterwithmodulu.dll

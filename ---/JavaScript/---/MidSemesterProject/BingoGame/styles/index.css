@@ -1,0 +1,34 @@
+#board {
+    height: 90vh;
+    display: grid;
+    align-items: center;
+
+    table,
+    tr,
+    td {
+        border: 1px solid #000;
+        border-collapse: collapse;
+    }
+
+    td {
+        text-align: center;
+        padding: 15px;
+    }
+
+    table {
+        width: 40%;
+        margin-inline: auto;
+
+        tr {
+            background-color: bisque;
+        }
+
+        tr:nth-child(even) {
+            background-color: darkgrey;
+        }
+    }
+}
+
+body {
+    background-color: rgb(215, 255, 234);
+}

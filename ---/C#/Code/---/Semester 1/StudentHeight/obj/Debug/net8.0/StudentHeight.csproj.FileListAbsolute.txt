@@ -1,0 +1,14 @@
+C:\WizLaptop\School\Code\StudentHeight\bin\Debug\net8.0\StudentHeight.exe
+C:\WizLaptop\School\Code\StudentHeight\bin\Debug\net8.0\StudentHeight.deps.json
+C:\WizLaptop\School\Code\StudentHeight\bin\Debug\net8.0\StudentHeight.runtimeconfig.json
+C:\WizLaptop\School\Code\StudentHeight\bin\Debug\net8.0\StudentHeight.dll
+C:\WizLaptop\School\Code\StudentHeight\bin\Debug\net8.0\StudentHeight.pdb
+C:\WizLaptop\School\Code\StudentHeight\obj\Debug\net8.0\StudentHeight.GeneratedMSBuildEditorConfig.editorconfig
+C:\WizLaptop\School\Code\StudentHeight\obj\Debug\net8.0\StudentHeight.AssemblyInfoInputs.cache
+C:\WizLaptop\School\Code\StudentHeight\obj\Debug\net8.0\StudentHeight.AssemblyInfo.cs
+C:\WizLaptop\School\Code\StudentHeight\obj\Debug\net8.0\StudentHeight.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\Code\StudentHeight\obj\Debug\net8.0\StudentHeight.dll
+C:\WizLaptop\School\Code\StudentHeight\obj\Debug\net8.0\refint\StudentHeight.dll
+C:\WizLaptop\School\Code\StudentHeight\obj\Debug\net8.0\StudentHeight.pdb
+C:\WizLaptop\School\Code\StudentHeight\obj\Debug\net8.0\StudentHeight.genruntimeconfig.cache
+C:\WizLaptop\School\Code\StudentHeight\obj\Debug\net8.0\ref\StudentHeight.dll

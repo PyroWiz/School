@@ -1,0 +1,14 @@
+C:\WizLaptop\School\Code\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\WizLaptop\School\Code\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\WizLaptop\School\Code\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\WizLaptop\School\Code\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\WizLaptop\School\Code\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\WizLaptop\School\Code\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\WizLaptop\School\Code\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\WizLaptop\School\Code\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\WizLaptop\School\Code\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\Code\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\WizLaptop\School\Code\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\WizLaptop\School\Code\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\WizLaptop\School\Code\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\WizLaptop\School\Code\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll

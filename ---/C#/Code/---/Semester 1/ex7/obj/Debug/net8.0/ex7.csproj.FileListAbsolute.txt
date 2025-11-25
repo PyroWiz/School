@@ -1,0 +1,14 @@
+C:\WizLaptop\School\Code\ex7\bin\Debug\net8.0\ex7.exe
+C:\WizLaptop\School\Code\ex7\bin\Debug\net8.0\ex7.deps.json
+C:\WizLaptop\School\Code\ex7\bin\Debug\net8.0\ex7.runtimeconfig.json
+C:\WizLaptop\School\Code\ex7\bin\Debug\net8.0\ex7.dll
+C:\WizLaptop\School\Code\ex7\bin\Debug\net8.0\ex7.pdb
+C:\WizLaptop\School\Code\ex7\obj\Debug\net8.0\ex7.GeneratedMSBuildEditorConfig.editorconfig
+C:\WizLaptop\School\Code\ex7\obj\Debug\net8.0\ex7.AssemblyInfoInputs.cache
+C:\WizLaptop\School\Code\ex7\obj\Debug\net8.0\ex7.AssemblyInfo.cs
+C:\WizLaptop\School\Code\ex7\obj\Debug\net8.0\ex7.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\Code\ex7\obj\Debug\net8.0\ex7.dll
+C:\WizLaptop\School\Code\ex7\obj\Debug\net8.0\refint\ex7.dll
+C:\WizLaptop\School\Code\ex7\obj\Debug\net8.0\ex7.pdb
+C:\WizLaptop\School\Code\ex7\obj\Debug\net8.0\ex7.genruntimeconfig.cache
+C:\WizLaptop\School\Code\ex7\obj\Debug\net8.0\ref\ex7.dll

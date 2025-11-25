@@ -1,0 +1,14 @@
+C:\WizLaptop\School\Code\House price calculator\bin\Debug\net8.0\House price calculator.exe
+C:\WizLaptop\School\Code\House price calculator\bin\Debug\net8.0\House price calculator.deps.json
+C:\WizLaptop\School\Code\House price calculator\bin\Debug\net8.0\House price calculator.runtimeconfig.json
+C:\WizLaptop\School\Code\House price calculator\bin\Debug\net8.0\House price calculator.dll
+C:\WizLaptop\School\Code\House price calculator\bin\Debug\net8.0\House price calculator.pdb
+C:\WizLaptop\School\Code\House price calculator\obj\Debug\net8.0\House price calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\WizLaptop\School\Code\House price calculator\obj\Debug\net8.0\House price calculator.AssemblyInfoInputs.cache
+C:\WizLaptop\School\Code\House price calculator\obj\Debug\net8.0\House price calculator.AssemblyInfo.cs
+C:\WizLaptop\School\Code\House price calculator\obj\Debug\net8.0\House price calculator.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\Code\House price calculator\obj\Debug\net8.0\House price calculator.dll
+C:\WizLaptop\School\Code\House price calculator\obj\Debug\net8.0\refint\House price calculator.dll
+C:\WizLaptop\School\Code\House price calculator\obj\Debug\net8.0\House price calculator.pdb
+C:\WizLaptop\School\Code\House price calculator\obj\Debug\net8.0\House price calculator.genruntimeconfig.cache
+C:\WizLaptop\School\Code\House price calculator\obj\Debug\net8.0\ref\House price calculator.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DigitalClockconverterwithmodulu/1.0.0": {
+        "runtime": {
+          "DigitalClockconverterwithmodulu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DigitalClockconverterwithmodulu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

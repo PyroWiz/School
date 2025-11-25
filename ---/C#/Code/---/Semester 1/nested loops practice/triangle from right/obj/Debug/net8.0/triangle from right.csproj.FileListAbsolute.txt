@@ -1,0 +1,14 @@
+C:\WizLaptop\School\Code\triangle from right\bin\Debug\net8.0\triangle from right.exe
+C:\WizLaptop\School\Code\triangle from right\bin\Debug\net8.0\triangle from right.deps.json
+C:\WizLaptop\School\Code\triangle from right\bin\Debug\net8.0\triangle from right.runtimeconfig.json
+C:\WizLaptop\School\Code\triangle from right\bin\Debug\net8.0\triangle from right.dll
+C:\WizLaptop\School\Code\triangle from right\bin\Debug\net8.0\triangle from right.pdb
+C:\WizLaptop\School\Code\triangle from right\obj\Debug\net8.0\triangle from right.GeneratedMSBuildEditorConfig.editorconfig
+C:\WizLaptop\School\Code\triangle from right\obj\Debug\net8.0\triangle from right.AssemblyInfoInputs.cache
+C:\WizLaptop\School\Code\triangle from right\obj\Debug\net8.0\triangle from right.AssemblyInfo.cs
+C:\WizLaptop\School\Code\triangle from right\obj\Debug\net8.0\triangle from right.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\Code\triangle from right\obj\Debug\net8.0\triangle from right.dll
+C:\WizLaptop\School\Code\triangle from right\obj\Debug\net8.0\refint\triangle from right.dll
+C:\WizLaptop\School\Code\triangle from right\obj\Debug\net8.0\triangle from right.pdb
+C:\WizLaptop\School\Code\triangle from right\obj\Debug\net8.0\triangle from right.genruntimeconfig.cache
+C:\WizLaptop\School\Code\triangle from right\obj\Debug\net8.0\ref\triangle from right.dll

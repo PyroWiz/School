@@ -1,0 +1,14 @@
+C:\WizLaptop\School\Code\Calculator using switch\bin\Debug\net8.0\Calculator using switch.exe
+C:\WizLaptop\School\Code\Calculator using switch\bin\Debug\net8.0\Calculator using switch.deps.json
+C:\WizLaptop\School\Code\Calculator using switch\bin\Debug\net8.0\Calculator using switch.runtimeconfig.json
+C:\WizLaptop\School\Code\Calculator using switch\bin\Debug\net8.0\Calculator using switch.dll
+C:\WizLaptop\School\Code\Calculator using switch\bin\Debug\net8.0\Calculator using switch.pdb
+C:\WizLaptop\School\Code\Calculator using switch\obj\Debug\net8.0\Calculator using switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\WizLaptop\School\Code\Calculator using switch\obj\Debug\net8.0\Calculator using switch.AssemblyInfoInputs.cache
+C:\WizLaptop\School\Code\Calculator using switch\obj\Debug\net8.0\Calculator using switch.AssemblyInfo.cs
+C:\WizLaptop\School\Code\Calculator using switch\obj\Debug\net8.0\Calculator using switch.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\Code\Calculator using switch\obj\Debug\net8.0\Calculator using switch.dll
+C:\WizLaptop\School\Code\Calculator using switch\obj\Debug\net8.0\refint\Calculator using switch.dll
+C:\WizLaptop\School\Code\Calculator using switch\obj\Debug\net8.0\Calculator using switch.pdb
+C:\WizLaptop\School\Code\Calculator using switch\obj\Debug\net8.0\Calculator using switch.genruntimeconfig.cache
+C:\WizLaptop\School\Code\Calculator using switch\obj\Debug\net8.0\ref\Calculator using switch.dll

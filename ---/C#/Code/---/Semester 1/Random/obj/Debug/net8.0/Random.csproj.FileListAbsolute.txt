@@ -1,0 +1,14 @@
+C:\WizLaptop\School\Code\Random\bin\Debug\net8.0\Random.exe
+C:\WizLaptop\School\Code\Random\bin\Debug\net8.0\Random.deps.json
+C:\WizLaptop\School\Code\Random\bin\Debug\net8.0\Random.runtimeconfig.json
+C:\WizLaptop\School\Code\Random\bin\Debug\net8.0\Random.dll
+C:\WizLaptop\School\Code\Random\bin\Debug\net8.0\Random.pdb
+C:\WizLaptop\School\Code\Random\obj\Debug\net8.0\Random.GeneratedMSBuildEditorConfig.editorconfig
+C:\WizLaptop\School\Code\Random\obj\Debug\net8.0\Random.AssemblyInfoInputs.cache
+C:\WizLaptop\School\Code\Random\obj\Debug\net8.0\Random.AssemblyInfo.cs
+C:\WizLaptop\School\Code\Random\obj\Debug\net8.0\Random.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\Code\Random\obj\Debug\net8.0\Random.dll
+C:\WizLaptop\School\Code\Random\obj\Debug\net8.0\refint\Random.dll
+C:\WizLaptop\School\Code\Random\obj\Debug\net8.0\Random.pdb
+C:\WizLaptop\School\Code\Random\obj\Debug\net8.0\Random.genruntimeconfig.cache
+C:\WizLaptop\School\Code\Random\obj\Debug\net8.0\ref\Random.dll

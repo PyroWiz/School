@@ -1,0 +1,203 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+:root {
+  --cell-size: 30px;
+  --hit-color: #e67e22;
+  --miss-color: #3498db;
+  --sunk-color: #000;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  font-family: 'Roboto', sans-serif;
+  background: #f0f2f5;
+  color: #333;
+}
+header {
+  background: #2c3e50;
+  color: #fff;
+  padding: 16px;
+  text-align: center;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  padding: 20px;
+}
+.card {
+  flex: 1 1 300px;
+  max-width: 360px;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  padding: 20px;
+}
+.card h2 {
+  margin-bottom: 16px;
+  color: #2c3e50;
+}
+.form-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 12px;
+}
+.form-row label {
+  font-size: 0.95rem;
+  margin: 4px;
+}
+.form-row input,
+.form-row select {
+  padding: 6px 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+button#start {
+  width: 100%;
+  padding: 10px;
+  background: #2980b9;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+button#start:hover {
+  background: #1c5980;
+}
+.error {
+  color: #c0392b;
+  font-size: 0.9rem;
+  text-align: center;
+  margin-top: 10px;
+}
+
+/* GRID ON PAGE */
+.board {
+  display: grid;
+  grid-template-columns: repeat(var(--size), var(--cell-size));
+  gap: 4px;
+  background: #34495e;
+  padding: 10px;
+  border-radius: 6px;
+}
+
+/* CELLS */
+.cell {
+  width: var(--cell-size);
+  height: var(--cell-size);
+  background: #ecf0f1;
+  cursor: pointer;
+  border-radius: 2px;
+  transition: background 0.2s, transform 0.1s;
+}
+.cell:hover:not(.disabled) { transform: scale(1.1); }
+.cell.disabled { cursor: default; }
+.cell.miss { background: var(--miss-color); }
+.cell.hit  { background: var(--hit-color); }
+/* new sunk state */
+.cell.sunk { background: var(--sunk-color); }
+
+/* BOOM ANIMATION */
+@keyframes boom {
+  to { transform: scale(2); opacity: 0; }
+}
+.boom {
+  animation: boom 0.5s ease-out forwards;
+}
+
+/* STATS TABLE */
+.stats {
+  border-collapse: collapse;
+  width: auto;
+  font-size: 0.9rem;
+}
+.stats th,
+.stats td {
+  border: 1px solid #ddd;
+  padding: 8px 12px;
+  text-align: center;
+}
+.stats tbody tr:nth-child(odd) {
+  background: #f9f9f9;
+}
+
+/* RESPONSIVE: shrink cells on small screens */
+@media (max-width: 600px) {
+  :root { --cell-size: 24px; }
+}
+
+/* -------------------------------------------------
+   Allow the game card to expand so the board never clips
+   ------------------------------------------------- */
+   #game.card {
+    /* remove the 360px cap */
+    max-width: none;
+    /* size to its content (the grid) */
+    width: max-content;
+    /* don’t flex-shrink */
+    flex: 0 1 auto;
+  }
+  
+  /* Optional: keep the setup card narrow */
+  #setup.card {
+    max-width: 360px;
+  }
+  
+  /* Center the stats table within its card */
+.stats {
+  margin: 0 auto;
+}
+
+/* Center every header and cell (if not already) */
+.stats th,
+.stats td {
+  text-align: center;
+  vertical-align: middle;
+}
+
+/* Wizard and Fireball Styles */
+#wizard-container {
+  position: fixed;
+  left: 0; right: 0; bottom: 0;
+  width: 100vw;
+  height: 120px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  pointer-events: none;
+  z-index: 100;
+}
+#wizard {
+  height: 100px;
+  width: auto;
+  user-select: none;
+  pointer-events: none;
+}
+#fireball {
+  display: none;
+}
+.fireball {
+  position: fixed;
+  width: 32px;
+  height: 32px;
+  background: radial-gradient(circle at 60% 40%, #ff9800 60%, #e65100 100%);
+  border-radius: 50%;
+  box-shadow: 0 0 24px 8px #ff9800, 0 0 60px 20px #e6510044;
+  opacity: 1;
+  pointer-events: none;
+  z-index: 200;
+  transition: opacity 0.1s;
+}
+@keyframes fireball-move {
+  to {
+    transform: translate(var(--dx), var(--dy));
+    opacity: 1;
+  }
+}
+.fireball.animate {
+  animation: fireball-move 0.5s linear forwards;
+}

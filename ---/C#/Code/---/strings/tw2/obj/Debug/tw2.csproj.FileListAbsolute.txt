@@ -1,0 +1,8 @@
+C:\WizLaptop\School\C#\Code\tw2\bin\Debug\tw2.exe.config
+C:\WizLaptop\School\C#\Code\tw2\bin\Debug\tw2.exe
+C:\WizLaptop\School\C#\Code\tw2\bin\Debug\tw2.pdb
+C:\WizLaptop\School\C#\Code\tw2\obj\Debug\tw2.csproj.AssemblyReference.cache
+C:\WizLaptop\School\C#\Code\tw2\obj\Debug\tw2.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\C#\Code\tw2\obj\Debug\tw2.exe
+C:\WizLaptop\School\C#\Code\tw2\obj\Debug\tw2.pdb
+C:\WizLaptop\School\C#\Code\tw2\obj\Debug\tw2.exe.config

@@ -1,0 +1,14 @@
+C:\WizLaptop\School\C#\Code\test study 2\random decimal number minus 10\bin\Debug\net8.0\random decimal number minus 10.exe
+C:\WizLaptop\School\C#\Code\test study 2\random decimal number minus 10\bin\Debug\net8.0\random decimal number minus 10.deps.json
+C:\WizLaptop\School\C#\Code\test study 2\random decimal number minus 10\bin\Debug\net8.0\random decimal number minus 10.runtimeconfig.json
+C:\WizLaptop\School\C#\Code\test study 2\random decimal number minus 10\bin\Debug\net8.0\random decimal number minus 10.dll
+C:\WizLaptop\School\C#\Code\test study 2\random decimal number minus 10\bin\Debug\net8.0\random decimal number minus 10.pdb
+C:\WizLaptop\School\C#\Code\test study 2\random decimal number minus 10\obj\Debug\net8.0\random decimal number minus 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\WizLaptop\School\C#\Code\test study 2\random decimal number minus 10\obj\Debug\net8.0\random decimal number minus 10.AssemblyInfoInputs.cache
+C:\WizLaptop\School\C#\Code\test study 2\random decimal number minus 10\obj\Debug\net8.0\random decimal number minus 10.AssemblyInfo.cs
+C:\WizLaptop\School\C#\Code\test study 2\random decimal number minus 10\obj\Debug\net8.0\random decimal number minus 10.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\C#\Code\test study 2\random decimal number minus 10\obj\Debug\net8.0\random decimal number minus 10.dll
+C:\WizLaptop\School\C#\Code\test study 2\random decimal number minus 10\obj\Debug\net8.0\refint\random decimal number minus 10.dll
+C:\WizLaptop\School\C#\Code\test study 2\random decimal number minus 10\obj\Debug\net8.0\random decimal number minus 10.pdb
+C:\WizLaptop\School\C#\Code\test study 2\random decimal number minus 10\obj\Debug\net8.0\random decimal number minus 10.genruntimeconfig.cache
+C:\WizLaptop\School\C#\Code\test study 2\random decimal number minus 10\obj\Debug\net8.0\ref\random decimal number minus 10.dll

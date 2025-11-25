@@ -1,0 +1,14 @@
+C:\WizLaptop\School\Code\Booksellers\bin\Debug\net8.0\Booksellers.exe
+C:\WizLaptop\School\Code\Booksellers\bin\Debug\net8.0\Booksellers.deps.json
+C:\WizLaptop\School\Code\Booksellers\bin\Debug\net8.0\Booksellers.runtimeconfig.json
+C:\WizLaptop\School\Code\Booksellers\bin\Debug\net8.0\Booksellers.dll
+C:\WizLaptop\School\Code\Booksellers\bin\Debug\net8.0\Booksellers.pdb
+C:\WizLaptop\School\Code\Booksellers\obj\Debug\net8.0\Booksellers.GeneratedMSBuildEditorConfig.editorconfig
+C:\WizLaptop\School\Code\Booksellers\obj\Debug\net8.0\Booksellers.AssemblyInfoInputs.cache
+C:\WizLaptop\School\Code\Booksellers\obj\Debug\net8.0\Booksellers.AssemblyInfo.cs
+C:\WizLaptop\School\Code\Booksellers\obj\Debug\net8.0\Booksellers.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\Code\Booksellers\obj\Debug\net8.0\Booksellers.dll
+C:\WizLaptop\School\Code\Booksellers\obj\Debug\net8.0\refint\Booksellers.dll
+C:\WizLaptop\School\Code\Booksellers\obj\Debug\net8.0\Booksellers.pdb
+C:\WizLaptop\School\Code\Booksellers\obj\Debug\net8.0\Booksellers.genruntimeconfig.cache
+C:\WizLaptop\School\Code\Booksellers\obj\Debug\net8.0\ref\Booksellers.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "positive and negatice number list/1.0.0": {
+        "runtime": {
+          "positive and negatice number list.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "positive and negatice number list/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

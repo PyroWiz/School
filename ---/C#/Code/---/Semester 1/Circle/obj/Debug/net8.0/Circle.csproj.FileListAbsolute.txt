@@ -1,0 +1,14 @@
+C:\WizLaptop\School\Code\Circle\bin\Debug\net8.0\Circle.exe
+C:\WizLaptop\School\Code\Circle\bin\Debug\net8.0\Circle.deps.json
+C:\WizLaptop\School\Code\Circle\bin\Debug\net8.0\Circle.runtimeconfig.json
+C:\WizLaptop\School\Code\Circle\bin\Debug\net8.0\Circle.dll
+C:\WizLaptop\School\Code\Circle\bin\Debug\net8.0\Circle.pdb
+C:\WizLaptop\School\Code\Circle\obj\Debug\net8.0\Circle.GeneratedMSBuildEditorConfig.editorconfig
+C:\WizLaptop\School\Code\Circle\obj\Debug\net8.0\Circle.AssemblyInfoInputs.cache
+C:\WizLaptop\School\Code\Circle\obj\Debug\net8.0\Circle.AssemblyInfo.cs
+C:\WizLaptop\School\Code\Circle\obj\Debug\net8.0\Circle.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\Code\Circle\obj\Debug\net8.0\Circle.dll
+C:\WizLaptop\School\Code\Circle\obj\Debug\net8.0\refint\Circle.dll
+C:\WizLaptop\School\Code\Circle\obj\Debug\net8.0\Circle.pdb
+C:\WizLaptop\School\Code\Circle\obj\Debug\net8.0\Circle.genruntimeconfig.cache
+C:\WizLaptop\School\Code\Circle\obj\Debug\net8.0\ref\Circle.dll

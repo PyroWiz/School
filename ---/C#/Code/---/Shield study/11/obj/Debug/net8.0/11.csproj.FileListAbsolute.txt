@@ -1,0 +1,7 @@
+G:\Other computers\My Laptop\School\C#\Code\Shield study\11\obj\Debug\net8.0\11.GeneratedMSBuildEditorConfig.editorconfig
+G:\Other computers\My Laptop\School\C#\Code\Shield study\11\obj\Debug\net8.0\11.AssemblyInfoInputs.cache
+G:\Other computers\My Laptop\School\C#\Code\Shield study\11\obj\Debug\net8.0\11.AssemblyInfo.cs
+G:\Other computers\My Laptop\School\C#\Code\Shield study\11\obj\Debug\net8.0\11.csproj.CoreCompileInputs.cache
+G:\Other computers\My Laptop\School\C#\Code\Shield study\11\obj\Debug\net8.0\11.dll
+G:\Other computers\My Laptop\School\C#\Code\Shield study\11\obj\Debug\net8.0\refint\11.dll
+G:\Other computers\My Laptop\School\C#\Code\Shield study\11\obj\Debug\net8.0\11.pdb

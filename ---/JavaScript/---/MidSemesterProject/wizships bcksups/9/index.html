@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Battleship</title>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <header>
+    <h1>Wizard Battleships</h1>
+  </header>
+
+  <main class="container">
+    <!-- SETUP CARD -->
+    <section id="setup" class="card">
+      <h2>Game Setup</h2>
+      <div class="form-row">
+        <label for="board-size">Board Size</label>
+        <select id="board-size">
+          <option value="10">10 × 10</option>
+          <option value="11">11 × 11</option>
+          <option value="12">12 × 12</option>
+          <option value="13">13 × 13</option>
+          <option value="14">14 × 14</option>
+          <option value="15">15 × 15</option>
+        </select>
+      </div>
+      <div id="ship-inputs" class="form-row">
+        <label># size 2 <input type="number" id="ship-2" min="0" value="1" /></label>
+        <label># size 3 <input type="number" id="ship-3" min="0" value="1" /></label>
+        <label># size 4 <input type="number" id="ship-4" min="0" value="1" /></label>
+        <label># size 5 <input type="number" id="ship-5" min="0" value="1" /></label>
+      </div>
+      <button id="start">Start Game</button>
+      <p id="error" class="error"></p>
+    </section>
+
+    <!-- GAME CARD -->
+    <section id="game" class="card" hidden>
+      <!-- Flex row: stats left, board right -->
+      <div class="game-flex-row">
+        <table id="stats" class="stats">
+          <thead>
+            <tr>
+              <th>Size</th>
+              <th>Remaining</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>2</td>
+              <td id="remain-2"></td>
+            </tr>
+            <tr>
+              <td>3</td>
+              <td id="remain-3"></td>
+            </tr>
+            <tr>
+              <td>4</td>
+              <td id="remain-4"></td>
+            </tr>
+            <tr>
+              <td>5</td>
+              <td id="remain-5"></td>
+            </tr>
+          </tbody>
+        </table>
+        <div id="board" class="board"></div>
+      </div>
+    </section>
+  </main>
+
+  <audio id="boom-sound" src="boom.mp3"></audio>
+  <!-- Wizard character at the bottom -->
+  <div id="wizard-container">
+    <img id="wizard" src="wizard.png" alt="Wizard" />
+    <div id="fireball"></div>
+    <!-- Power Up Bar -->
+    <div id="powerup-bar">
+      <button id="powerup-lightning" class="powerup-btn" title="Lightning Bolt">
+        ⚡
+      </button>
+      <button id="powerup-earthquake" class="powerup-btn" title="Earthquake">
+        🪨
+      </button>
+      <button id="powerup-meteor" class="powerup-btn" style="display:none;" disabled title="Meteor Strike">
+        <span style="font-size:2rem;">☄️</span>
+      </button>
+      <button id="powerup-placeholder" class="powerup-btn" disabled title="Coming Soon">?</button>
+    </div>
+  </div>
+
+  <!-- Victory Screen Overlay -->
+  <div id="victory-screen"
+    style="display:none;position:fixed;z-index:2000;top:0;left:0;width:100vw;height:100vh;background:rgba(44,62,80,0.92);color:#fff;display:flex;flex-direction:column;justify-content:center;align-items:center;">
+    <h1 style="font-size:2.5rem;margin-bottom:1rem;">Victory!</h1>
+    <p style="font-size:1.2rem;margin-bottom:2rem;">You destroyed all enemy ships!</p>
+    <button id="restart-btn"
+      style="padding:12px 32px;font-size:1.1rem;background:#27ae60;color:#fff;border:none;border-radius:6px;cursor:pointer;">Restart</button>
+  </div>
+
+  <button id="meteor-test-btn"
+    style="position:fixed;bottom:8px;right:8px;width:40px;height:40px;opacity:0;z-index:9999;border:none;background:none;cursor:pointer;">meteor</button>
+
+  <script src="script.js"></script>
+</body>
+
+</html>

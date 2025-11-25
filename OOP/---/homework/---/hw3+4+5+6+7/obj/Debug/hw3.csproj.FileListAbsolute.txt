@@ -1,0 +1,44 @@
+C:\WizPC\School\LocalC#\hw3\bin\Debug\hw3.exe.config
+C:\WizPC\School\LocalC#\hw3\bin\Debug\hw3.exe
+C:\WizPC\School\LocalC#\hw3\bin\Debug\hw3.pdb
+C:\WizPC\School\LocalC#\hw3\obj\Debug\hw3.csproj.AssemblyReference.cache
+C:\WizPC\School\LocalC#\hw3\obj\Debug\hw3.csproj.CoreCompileInputs.cache
+C:\WizPC\School\LocalC#\hw3\obj\Debug\hw3.exe
+C:\WizPC\School\LocalC#\hw3\obj\Debug\hw3.pdb
+G:\Other computers\My Laptop\School\OOP\homework\hw3\bin\Debug\hw3.exe.config
+G:\Other computers\My Laptop\School\OOP\homework\hw3\bin\Debug\hw3.exe
+G:\Other computers\My Laptop\School\OOP\homework\hw3\bin\Debug\hw3.pdb
+G:\Other computers\My Laptop\School\OOP\homework\hw3\obj\Debug\hw3.csproj.AssemblyReference.cache
+G:\Other computers\My Laptop\School\OOP\homework\hw3\obj\Debug\hw3.csproj.CoreCompileInputs.cache
+G:\Other computers\My Laptop\School\OOP\homework\hw3\obj\Debug\hw3.exe
+G:\Other computers\My Laptop\School\OOP\homework\hw3\obj\Debug\hw3.pdb
+G:\Other computers\My Laptop\School\OOP\homework\hw3+4+5\bin\Debug\hw3.exe.config
+G:\Other computers\My Laptop\School\OOP\homework\hw3+4+5\bin\Debug\hw3.exe
+G:\Other computers\My Laptop\School\OOP\homework\hw3+4+5\bin\Debug\hw3.pdb
+G:\Other computers\My Laptop\School\OOP\homework\hw3+4+5\obj\Debug\hw3.csproj.AssemblyReference.cache
+G:\Other computers\My Laptop\School\OOP\homework\hw3+4+5\obj\Debug\hw3.csproj.CoreCompileInputs.cache
+G:\Other computers\My Laptop\School\OOP\homework\hw3+4+5\obj\Debug\hw3.exe
+G:\Other computers\My Laptop\School\OOP\homework\hw3+4+5\obj\Debug\hw3.pdb
+G:\Other computers\My Laptop\School\OOP\homework\hw3+4+5+6\bin\Debug\hw3.exe.config
+G:\Other computers\My Laptop\School\OOP\homework\hw3+4+5+6\bin\Debug\hw3.exe
+G:\Other computers\My Laptop\School\OOP\homework\hw3+4+5+6\bin\Debug\hw3.pdb
+G:\Other computers\My Laptop\School\OOP\homework\hw3+4+5+6\obj\Debug\hw3.csproj.AssemblyReference.cache
+G:\Other computers\My Laptop\School\OOP\homework\hw3+4+5+6\obj\Debug\hw3.csproj.CoreCompileInputs.cache
+G:\Other computers\My Laptop\School\OOP\homework\hw3+4+5+6\obj\Debug\hw3.exe
+G:\Other computers\My Laptop\School\OOP\homework\hw3+4+5+6\obj\Debug\hw3.pdb
+C:\WizLaptop\School\OOP\homework\hw3+4+5+6\bin\Debug\hw3.exe.config
+C:\WizLaptop\School\OOP\homework\hw3+4+5+6\bin\Debug\hw3.exe
+C:\WizLaptop\School\OOP\homework\hw3+4+5+6\bin\Debug\hw3.pdb
+C:\WizLaptop\School\OOP\homework\hw3+4+5+6\obj\Debug\hw3.csproj.AssemblyReference.cache
+C:\WizLaptop\School\OOP\homework\hw3+4+5+6\obj\Debug\hw3.exe.config
+C:\WizLaptop\School\OOP\homework\hw3+4+5+6\obj\Debug\hw3.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\OOP\homework\hw3+4+5+6\obj\Debug\hw3.exe
+C:\WizLaptop\School\OOP\homework\hw3+4+5+6\obj\Debug\hw3.pdb
+C:\WizLaptop\School\OOP\homework\hw3+4+5+6+7\bin\Debug\hw3.exe.config
+C:\WizLaptop\School\OOP\homework\hw3+4+5+6+7\bin\Debug\hw3.exe
+C:\WizLaptop\School\OOP\homework\hw3+4+5+6+7\bin\Debug\hw3.pdb
+C:\WizLaptop\School\OOP\homework\hw3+4+5+6+7\obj\Debug\hw3.csproj.AssemblyReference.cache
+C:\WizLaptop\School\OOP\homework\hw3+4+5+6+7\obj\Debug\hw3.exe.config
+C:\WizLaptop\School\OOP\homework\hw3+4+5+6+7\obj\Debug\hw3.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\OOP\homework\hw3+4+5+6+7\obj\Debug\hw3.exe
+C:\WizLaptop\School\OOP\homework\hw3+4+5+6+7\obj\Debug\hw3.pdb

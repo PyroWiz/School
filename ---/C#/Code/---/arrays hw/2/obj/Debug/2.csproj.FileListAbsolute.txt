@@ -1,0 +1,7 @@
+C:\WizLaptop\School\C#\Code\arrays hw\2\bin\Debug\2.exe.config
+C:\WizLaptop\School\C#\Code\arrays hw\2\bin\Debug\2.exe
+C:\WizLaptop\School\C#\Code\arrays hw\2\bin\Debug\2.pdb
+C:\WizLaptop\School\C#\Code\arrays hw\2\obj\Debug\2.csproj.AssemblyReference.cache
+C:\WizLaptop\School\C#\Code\arrays hw\2\obj\Debug\2.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\C#\Code\arrays hw\2\obj\Debug\2.exe
+C:\WizLaptop\School\C#\Code\arrays hw\2\obj\Debug\2.pdb

@@ -1,0 +1,14 @@
+C:\WizLaptop\School\C#\Code\test study 2\example test 6\bin\Debug\net8.0\example test 6.exe
+C:\WizLaptop\School\C#\Code\test study 2\example test 6\bin\Debug\net8.0\example test 6.deps.json
+C:\WizLaptop\School\C#\Code\test study 2\example test 6\bin\Debug\net8.0\example test 6.runtimeconfig.json
+C:\WizLaptop\School\C#\Code\test study 2\example test 6\bin\Debug\net8.0\example test 6.dll
+C:\WizLaptop\School\C#\Code\test study 2\example test 6\bin\Debug\net8.0\example test 6.pdb
+C:\WizLaptop\School\C#\Code\test study 2\example test 6\obj\Debug\net8.0\example test 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\WizLaptop\School\C#\Code\test study 2\example test 6\obj\Debug\net8.0\example test 6.AssemblyInfoInputs.cache
+C:\WizLaptop\School\C#\Code\test study 2\example test 6\obj\Debug\net8.0\example test 6.AssemblyInfo.cs
+C:\WizLaptop\School\C#\Code\test study 2\example test 6\obj\Debug\net8.0\example test 6.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\C#\Code\test study 2\example test 6\obj\Debug\net8.0\example test 6.dll
+C:\WizLaptop\School\C#\Code\test study 2\example test 6\obj\Debug\net8.0\refint\example test 6.dll
+C:\WizLaptop\School\C#\Code\test study 2\example test 6\obj\Debug\net8.0\example test 6.pdb
+C:\WizLaptop\School\C#\Code\test study 2\example test 6\obj\Debug\net8.0\example test 6.genruntimeconfig.cache
+C:\WizLaptop\School\C#\Code\test study 2\example test 6\obj\Debug\net8.0\ref\example test 6.dll

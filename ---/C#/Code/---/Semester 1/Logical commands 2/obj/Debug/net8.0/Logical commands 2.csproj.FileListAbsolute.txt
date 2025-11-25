@@ -1,0 +1,14 @@
+C:\WizLaptop\School\Code\Logical commands 2\bin\Debug\net8.0\Logical commands 2.exe
+C:\WizLaptop\School\Code\Logical commands 2\bin\Debug\net8.0\Logical commands 2.deps.json
+C:\WizLaptop\School\Code\Logical commands 2\bin\Debug\net8.0\Logical commands 2.runtimeconfig.json
+C:\WizLaptop\School\Code\Logical commands 2\bin\Debug\net8.0\Logical commands 2.dll
+C:\WizLaptop\School\Code\Logical commands 2\bin\Debug\net8.0\Logical commands 2.pdb
+C:\WizLaptop\School\Code\Logical commands 2\obj\Debug\net8.0\Logical commands 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\WizLaptop\School\Code\Logical commands 2\obj\Debug\net8.0\Logical commands 2.AssemblyInfoInputs.cache
+C:\WizLaptop\School\Code\Logical commands 2\obj\Debug\net8.0\Logical commands 2.AssemblyInfo.cs
+C:\WizLaptop\School\Code\Logical commands 2\obj\Debug\net8.0\Logical commands 2.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\Code\Logical commands 2\obj\Debug\net8.0\Logical commands 2.dll
+C:\WizLaptop\School\Code\Logical commands 2\obj\Debug\net8.0\refint\Logical commands 2.dll
+C:\WizLaptop\School\Code\Logical commands 2\obj\Debug\net8.0\Logical commands 2.pdb
+C:\WizLaptop\School\Code\Logical commands 2\obj\Debug\net8.0\Logical commands 2.genruntimeconfig.cache
+C:\WizLaptop\School\Code\Logical commands 2\obj\Debug\net8.0\ref\Logical commands 2.dll

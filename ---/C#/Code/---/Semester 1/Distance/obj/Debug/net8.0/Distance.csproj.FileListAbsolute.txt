@@ -1,0 +1,14 @@
+C:\WizLaptop\School\Code\Distance\bin\Debug\net8.0\Distance.exe
+C:\WizLaptop\School\Code\Distance\bin\Debug\net8.0\Distance.deps.json
+C:\WizLaptop\School\Code\Distance\bin\Debug\net8.0\Distance.runtimeconfig.json
+C:\WizLaptop\School\Code\Distance\bin\Debug\net8.0\Distance.dll
+C:\WizLaptop\School\Code\Distance\bin\Debug\net8.0\Distance.pdb
+C:\WizLaptop\School\Code\Distance\obj\Debug\net8.0\Distance.GeneratedMSBuildEditorConfig.editorconfig
+C:\WizLaptop\School\Code\Distance\obj\Debug\net8.0\Distance.AssemblyInfoInputs.cache
+C:\WizLaptop\School\Code\Distance\obj\Debug\net8.0\Distance.AssemblyInfo.cs
+C:\WizLaptop\School\Code\Distance\obj\Debug\net8.0\Distance.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\Code\Distance\obj\Debug\net8.0\Distance.dll
+C:\WizLaptop\School\Code\Distance\obj\Debug\net8.0\refint\Distance.dll
+C:\WizLaptop\School\Code\Distance\obj\Debug\net8.0\Distance.pdb
+C:\WizLaptop\School\Code\Distance\obj\Debug\net8.0\Distance.genruntimeconfig.cache
+C:\WizLaptop\School\Code\Distance\obj\Debug\net8.0\ref\Distance.dll

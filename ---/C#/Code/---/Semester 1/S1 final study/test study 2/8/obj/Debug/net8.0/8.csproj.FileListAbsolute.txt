@@ -1,0 +1,14 @@
+C:\WizLaptop\School\C#\Code\test study 2\8\bin\Debug\net8.0\8.exe
+C:\WizLaptop\School\C#\Code\test study 2\8\bin\Debug\net8.0\8.deps.json
+C:\WizLaptop\School\C#\Code\test study 2\8\bin\Debug\net8.0\8.runtimeconfig.json
+C:\WizLaptop\School\C#\Code\test study 2\8\bin\Debug\net8.0\8.dll
+C:\WizLaptop\School\C#\Code\test study 2\8\bin\Debug\net8.0\8.pdb
+C:\WizLaptop\School\C#\Code\test study 2\8\obj\Debug\net8.0\8.GeneratedMSBuildEditorConfig.editorconfig
+C:\WizLaptop\School\C#\Code\test study 2\8\obj\Debug\net8.0\8.AssemblyInfoInputs.cache
+C:\WizLaptop\School\C#\Code\test study 2\8\obj\Debug\net8.0\8.AssemblyInfo.cs
+C:\WizLaptop\School\C#\Code\test study 2\8\obj\Debug\net8.0\8.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\C#\Code\test study 2\8\obj\Debug\net8.0\8.dll
+C:\WizLaptop\School\C#\Code\test study 2\8\obj\Debug\net8.0\refint\8.dll
+C:\WizLaptop\School\C#\Code\test study 2\8\obj\Debug\net8.0\8.pdb
+C:\WizLaptop\School\C#\Code\test study 2\8\obj\Debug\net8.0\8.genruntimeconfig.cache
+C:\WizLaptop\School\C#\Code\test study 2\8\obj\Debug\net8.0\ref\8.dll

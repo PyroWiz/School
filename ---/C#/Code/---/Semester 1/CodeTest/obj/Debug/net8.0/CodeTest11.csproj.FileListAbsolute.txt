@@ -1,0 +1,21 @@
+G:\Other computers\My Laptop\School\Code\CodeTest\obj\Debug\net8.0\CodeTest11.GeneratedMSBuildEditorConfig.editorconfig
+G:\Other computers\My Laptop\School\Code\CodeTest\obj\Debug\net8.0\CodeTest11.AssemblyInfoInputs.cache
+G:\Other computers\My Laptop\School\Code\CodeTest\obj\Debug\net8.0\CodeTest11.AssemblyInfo.cs
+G:\Other computers\My Laptop\School\Code\CodeTest\obj\Debug\net8.0\CodeTest11.csproj.CoreCompileInputs.cache
+G:\Other computers\My Laptop\School\Code\CodeTest\obj\Debug\net8.0\CodeTest11.dll
+G:\Other computers\My Laptop\School\Code\CodeTest\obj\Debug\net8.0\refint\CodeTest11.dll
+G:\Other computers\My Laptop\School\Code\CodeTest\obj\Debug\net8.0\CodeTest11.pdb
+C:\WizLaptop\School\Code\CodeTest\bin\Debug\net8.0\CodeTest11.exe
+C:\WizLaptop\School\Code\CodeTest\bin\Debug\net8.0\CodeTest11.deps.json
+C:\WizLaptop\School\Code\CodeTest\bin\Debug\net8.0\CodeTest11.runtimeconfig.json
+C:\WizLaptop\School\Code\CodeTest\bin\Debug\net8.0\CodeTest11.dll
+C:\WizLaptop\School\Code\CodeTest\bin\Debug\net8.0\CodeTest11.pdb
+C:\WizLaptop\School\Code\CodeTest\obj\Debug\net8.0\CodeTest11.GeneratedMSBuildEditorConfig.editorconfig
+C:\WizLaptop\School\Code\CodeTest\obj\Debug\net8.0\CodeTest11.AssemblyInfoInputs.cache
+C:\WizLaptop\School\Code\CodeTest\obj\Debug\net8.0\CodeTest11.AssemblyInfo.cs
+C:\WizLaptop\School\Code\CodeTest\obj\Debug\net8.0\CodeTest11.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\Code\CodeTest\obj\Debug\net8.0\CodeTest11.dll
+C:\WizLaptop\School\Code\CodeTest\obj\Debug\net8.0\refint\CodeTest11.dll
+C:\WizLaptop\School\Code\CodeTest\obj\Debug\net8.0\CodeTest11.pdb
+C:\WizLaptop\School\Code\CodeTest\obj\Debug\net8.0\CodeTest11.genruntimeconfig.cache
+C:\WizLaptop\School\Code\CodeTest\obj\Debug\net8.0\ref\CodeTest11.dll

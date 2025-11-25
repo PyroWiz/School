@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>Battleship</title>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet"/>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <header><h1>Battleship</h1></header>
+
+  <main class="container">
+    <!-- SETUP CARD -->
+    <section id="setup" class="card">
+      <h2>Game Setup</h2>
+      <div class="form-row">
+        <label for="board-size">Board Size</label>
+        <select id="board-size">
+          <option value="10">10 × 10</option>
+          <option value="11">11 × 11</option>
+          <option value="12">12 × 12</option>
+          <option value="13">13 × 13</option>
+          <option value="14">14 × 14</option>
+          <option value="15">15 × 15</option>
+        </select>
+      </div>
+      <div id="ship-inputs" class="form-row">
+        <label># size 2 <input type="number" id="ship-2" min="0" value="1"/></label>
+        <label># size 3 <input type="number" id="ship-3" min="0" value="1"/></label>
+        <label># size 4 <input type="number" id="ship-4" min="0" value="1"/></label>
+        <label># size 5 <input type="number" id="ship-5" min="0" value="1"/></label>
+      </div>
+      <button id="start">Start Game</button>
+      <p id="error" class="error"></p>
+    </section>
+
+    <!-- GAME CARD -->
+    <section id="game" class="card" hidden>
+      <!-- directly display the grid, no wrapper -->
+      <div id="board" class="board"></div>
+
+      <table id="stats" class="stats">
+        <thead><tr><th>Size</th><th>Remaining</th></tr></thead>
+        <tbody>
+          <tr><td>2</td><td id="remain-2"></td></tr>
+          <tr><td>3</td><td id="remain-3"></td></tr>
+          <tr><td>4</td><td id="remain-4"></td></tr>
+          <tr><td>5</td><td id="remain-5"></td></tr>
+        </tbody>
+      </table>
+    </section>
+  </main>
+
+  <audio id="boom-sound" src="boom.mp3"></audio>
+  <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,7 @@
+C:\WizLaptop\School\C#\Code\recursion\HW\9\bin\Debug\9.exe.config
+C:\WizLaptop\School\C#\Code\recursion\HW\9\bin\Debug\9.exe
+C:\WizLaptop\School\C#\Code\recursion\HW\9\bin\Debug\9.pdb
+C:\WizLaptop\School\C#\Code\recursion\HW\9\obj\Debug\9.csproj.AssemblyReference.cache
+C:\WizLaptop\School\C#\Code\recursion\HW\9\obj\Debug\9.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\C#\Code\recursion\HW\9\obj\Debug\9.exe
+C:\WizLaptop\School\C#\Code\recursion\HW\9\obj\Debug\9.pdb

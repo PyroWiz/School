@@ -1,0 +1,14 @@
+C:\WizLaptop\School\Code\number encoder\bin\Debug\net8.0\number encoder.exe
+C:\WizLaptop\School\Code\number encoder\bin\Debug\net8.0\number encoder.deps.json
+C:\WizLaptop\School\Code\number encoder\bin\Debug\net8.0\number encoder.runtimeconfig.json
+C:\WizLaptop\School\Code\number encoder\bin\Debug\net8.0\number encoder.dll
+C:\WizLaptop\School\Code\number encoder\bin\Debug\net8.0\number encoder.pdb
+C:\WizLaptop\School\Code\number encoder\obj\Debug\net8.0\number encoder.GeneratedMSBuildEditorConfig.editorconfig
+C:\WizLaptop\School\Code\number encoder\obj\Debug\net8.0\number encoder.AssemblyInfoInputs.cache
+C:\WizLaptop\School\Code\number encoder\obj\Debug\net8.0\number encoder.AssemblyInfo.cs
+C:\WizLaptop\School\Code\number encoder\obj\Debug\net8.0\number encoder.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\Code\number encoder\obj\Debug\net8.0\number encoder.dll
+C:\WizLaptop\School\Code\number encoder\obj\Debug\net8.0\refint\number encoder.dll
+C:\WizLaptop\School\Code\number encoder\obj\Debug\net8.0\number encoder.pdb
+C:\WizLaptop\School\Code\number encoder\obj\Debug\net8.0\number encoder.genruntimeconfig.cache
+C:\WizLaptop\School\Code\number encoder\obj\Debug\net8.0\ref\number encoder.dll

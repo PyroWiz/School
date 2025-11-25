@@ -1,0 +1,14 @@
+C:\WizLaptop\School\Code\food and people\bin\Debug\net8.0\food and people.exe
+C:\WizLaptop\School\Code\food and people\bin\Debug\net8.0\food and people.deps.json
+C:\WizLaptop\School\Code\food and people\bin\Debug\net8.0\food and people.runtimeconfig.json
+C:\WizLaptop\School\Code\food and people\bin\Debug\net8.0\food and people.dll
+C:\WizLaptop\School\Code\food and people\bin\Debug\net8.0\food and people.pdb
+C:\WizLaptop\School\Code\food and people\obj\Debug\net8.0\food and people.GeneratedMSBuildEditorConfig.editorconfig
+C:\WizLaptop\School\Code\food and people\obj\Debug\net8.0\food and people.AssemblyInfoInputs.cache
+C:\WizLaptop\School\Code\food and people\obj\Debug\net8.0\food and people.AssemblyInfo.cs
+C:\WizLaptop\School\Code\food and people\obj\Debug\net8.0\food and people.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\Code\food and people\obj\Debug\net8.0\food and people.dll
+C:\WizLaptop\School\Code\food and people\obj\Debug\net8.0\refint\food and people.dll
+C:\WizLaptop\School\Code\food and people\obj\Debug\net8.0\food and people.pdb
+C:\WizLaptop\School\Code\food and people\obj\Debug\net8.0\food and people.genruntimeconfig.cache
+C:\WizLaptop\School\Code\food and people\obj\Debug\net8.0\ref\food and people.dll

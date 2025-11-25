@@ -1,0 +1,7 @@
+G:\Other computers\My Laptop\School\C#\Code\objects final\3\obj\Debug\3.csproj.AssemblyReference.cache
+G:\Other computers\My Laptop\School\C#\Code\objects final\3\obj\Debug\3.csproj.CoreCompileInputs.cache
+G:\Other computers\My Laptop\School\C#\Code\objects final\3\bin\Debug\3.exe.config
+G:\Other computers\My Laptop\School\C#\Code\objects final\3\bin\Debug\3.exe
+G:\Other computers\My Laptop\School\C#\Code\objects final\3\bin\Debug\3.pdb
+G:\Other computers\My Laptop\School\C#\Code\objects final\3\obj\Debug\3.exe
+G:\Other computers\My Laptop\School\C#\Code\objects final\3\obj\Debug\3.pdb

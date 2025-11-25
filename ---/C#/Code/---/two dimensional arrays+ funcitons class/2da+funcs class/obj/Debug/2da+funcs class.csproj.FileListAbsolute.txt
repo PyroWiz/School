@@ -1,0 +1,7 @@
+C:\WizLaptop\School\C#\Code\two dimensional arrays+ funcitons class\2da+funcs class\bin\Debug\2da+funcs class.exe.config
+C:\WizLaptop\School\C#\Code\two dimensional arrays+ funcitons class\2da+funcs class\bin\Debug\2da+funcs class.exe
+C:\WizLaptop\School\C#\Code\two dimensional arrays+ funcitons class\2da+funcs class\bin\Debug\2da+funcs class.pdb
+C:\WizLaptop\School\C#\Code\two dimensional arrays+ funcitons class\2da+funcs class\obj\Debug\2da+funcs class.csproj.AssemblyReference.cache
+C:\WizLaptop\School\C#\Code\two dimensional arrays+ funcitons class\2da+funcs class\obj\Debug\2da+funcs class.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\C#\Code\two dimensional arrays+ funcitons class\2da+funcs class\obj\Debug\2da+funcs class.exe
+C:\WizLaptop\School\C#\Code\two dimensional arrays+ funcitons class\2da+funcs class\obj\Debug\2da+funcs class.pdb

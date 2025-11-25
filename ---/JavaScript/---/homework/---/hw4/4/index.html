@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./css.css">
+    <script type="module" src="./js.js"></script>
+</head>
+
+<body>
+    <form id="applicationForm" novalidate>
+        <div class="field-group">
+            <label for="lastName">Last Name</label>
+            <input type="text" id="lastName" name="lastName">
+            <div class="message" id="lastNameMsg"></div>
+        </div>
+
+        <div class="field-group">
+            <label for="firstName">First Name</label>
+            <input type="text" id="firstName" name="firstName">
+            <div class="message" id="firstNameMsg"></div>
+        </div>
+
+        <div class="field-group">
+            <label for="psychScore">Psychometric Score</label>
+            <input type="number" id="psychScore" name="psychScore" min="0" max="800">
+            <div class="message" id="psychScoreMsg"></div>
+        </div>
+
+    </form>
+
+</body>
+
+</html>

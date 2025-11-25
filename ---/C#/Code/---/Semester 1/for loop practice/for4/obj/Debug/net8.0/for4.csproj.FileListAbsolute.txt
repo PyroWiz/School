@@ -1,0 +1,14 @@
+C:\WizLaptop\School\Code\for loop practice\for4\bin\Debug\net8.0\for4.exe
+C:\WizLaptop\School\Code\for loop practice\for4\bin\Debug\net8.0\for4.deps.json
+C:\WizLaptop\School\Code\for loop practice\for4\bin\Debug\net8.0\for4.runtimeconfig.json
+C:\WizLaptop\School\Code\for loop practice\for4\bin\Debug\net8.0\for4.dll
+C:\WizLaptop\School\Code\for loop practice\for4\bin\Debug\net8.0\for4.pdb
+C:\WizLaptop\School\Code\for loop practice\for4\obj\Debug\net8.0\for4.GeneratedMSBuildEditorConfig.editorconfig
+C:\WizLaptop\School\Code\for loop practice\for4\obj\Debug\net8.0\for4.AssemblyInfoInputs.cache
+C:\WizLaptop\School\Code\for loop practice\for4\obj\Debug\net8.0\for4.AssemblyInfo.cs
+C:\WizLaptop\School\Code\for loop practice\for4\obj\Debug\net8.0\for4.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\Code\for loop practice\for4\obj\Debug\net8.0\for4.dll
+C:\WizLaptop\School\Code\for loop practice\for4\obj\Debug\net8.0\refint\for4.dll
+C:\WizLaptop\School\Code\for loop practice\for4\obj\Debug\net8.0\for4.pdb
+C:\WizLaptop\School\Code\for loop practice\for4\obj\Debug\net8.0\for4.genruntimeconfig.cache
+C:\WizLaptop\School\Code\for loop practice\for4\obj\Debug\net8.0\ref\for4.dll

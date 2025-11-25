@@ -1,0 +1,14 @@
+C:\WizLaptop\School\Code\fibunachi\bin\Debug\net8.0\fibunachi.exe
+C:\WizLaptop\School\Code\fibunachi\bin\Debug\net8.0\fibunachi.deps.json
+C:\WizLaptop\School\Code\fibunachi\bin\Debug\net8.0\fibunachi.runtimeconfig.json
+C:\WizLaptop\School\Code\fibunachi\bin\Debug\net8.0\fibunachi.dll
+C:\WizLaptop\School\Code\fibunachi\bin\Debug\net8.0\fibunachi.pdb
+C:\WizLaptop\School\Code\fibunachi\obj\Debug\net8.0\fibunachi.GeneratedMSBuildEditorConfig.editorconfig
+C:\WizLaptop\School\Code\fibunachi\obj\Debug\net8.0\fibunachi.AssemblyInfoInputs.cache
+C:\WizLaptop\School\Code\fibunachi\obj\Debug\net8.0\fibunachi.AssemblyInfo.cs
+C:\WizLaptop\School\Code\fibunachi\obj\Debug\net8.0\fibunachi.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\Code\fibunachi\obj\Debug\net8.0\fibunachi.dll
+C:\WizLaptop\School\Code\fibunachi\obj\Debug\net8.0\refint\fibunachi.dll
+C:\WizLaptop\School\Code\fibunachi\obj\Debug\net8.0\fibunachi.pdb
+C:\WizLaptop\School\Code\fibunachi\obj\Debug\net8.0\fibunachi.genruntimeconfig.cache
+C:\WizLaptop\School\Code\fibunachi\obj\Debug\net8.0\ref\fibunachi.dll

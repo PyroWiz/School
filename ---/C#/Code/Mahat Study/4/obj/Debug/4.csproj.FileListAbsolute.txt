@@ -1,0 +1,2 @@
+G:\Other computers\My Laptop\School\C#\Code\Mahat Study\4\obj\Debug\4.csproj.AssemblyReference.cache
+G:\Other computers\My Laptop\School\C#\Code\Mahat Study\4\obj\Debug\4.csproj.CoreCompileInputs.cache

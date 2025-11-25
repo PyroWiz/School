@@ -1,0 +1,14 @@
+C:\WizLaptop\School\Code\cookiecalculator\bin\Debug\net8.0\cookiecalculator.exe
+C:\WizLaptop\School\Code\cookiecalculator\bin\Debug\net8.0\cookiecalculator.deps.json
+C:\WizLaptop\School\Code\cookiecalculator\bin\Debug\net8.0\cookiecalculator.runtimeconfig.json
+C:\WizLaptop\School\Code\cookiecalculator\bin\Debug\net8.0\cookiecalculator.dll
+C:\WizLaptop\School\Code\cookiecalculator\bin\Debug\net8.0\cookiecalculator.pdb
+C:\WizLaptop\School\Code\cookiecalculator\obj\Debug\net8.0\cookiecalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\WizLaptop\School\Code\cookiecalculator\obj\Debug\net8.0\cookiecalculator.AssemblyInfoInputs.cache
+C:\WizLaptop\School\Code\cookiecalculator\obj\Debug\net8.0\cookiecalculator.AssemblyInfo.cs
+C:\WizLaptop\School\Code\cookiecalculator\obj\Debug\net8.0\cookiecalculator.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\Code\cookiecalculator\obj\Debug\net8.0\cookiecalculator.dll
+C:\WizLaptop\School\Code\cookiecalculator\obj\Debug\net8.0\refint\cookiecalculator.dll
+C:\WizLaptop\School\Code\cookiecalculator\obj\Debug\net8.0\cookiecalculator.pdb
+C:\WizLaptop\School\Code\cookiecalculator\obj\Debug\net8.0\cookiecalculator.genruntimeconfig.cache
+C:\WizLaptop\School\Code\cookiecalculator\obj\Debug\net8.0\ref\cookiecalculator.dll

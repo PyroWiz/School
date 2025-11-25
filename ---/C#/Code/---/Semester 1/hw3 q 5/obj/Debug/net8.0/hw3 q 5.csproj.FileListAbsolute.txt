@@ -1,0 +1,14 @@
+C:\WizLaptop\Code\hw3 q 5\obj\Debug\net8.0\hw3 q 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\WizLaptop\Code\hw3 q 5\obj\Debug\net8.0\hw3 q 5.AssemblyInfoInputs.cache
+C:\WizLaptop\Code\hw3 q 5\obj\Debug\net8.0\hw3 q 5.AssemblyInfo.cs
+C:\WizLaptop\Code\hw3 q 5\obj\Debug\net8.0\hw3 q 5.csproj.CoreCompileInputs.cache
+C:\WizLaptop\Code\hw3 q 5\bin\Debug\net8.0\hw3 q 5.exe
+C:\WizLaptop\Code\hw3 q 5\bin\Debug\net8.0\hw3 q 5.deps.json
+C:\WizLaptop\Code\hw3 q 5\bin\Debug\net8.0\hw3 q 5.runtimeconfig.json
+C:\WizLaptop\Code\hw3 q 5\bin\Debug\net8.0\hw3 q 5.dll
+C:\WizLaptop\Code\hw3 q 5\bin\Debug\net8.0\hw3 q 5.pdb
+C:\WizLaptop\Code\hw3 q 5\obj\Debug\net8.0\hw3 q 5.dll
+C:\WizLaptop\Code\hw3 q 5\obj\Debug\net8.0\refint\hw3 q 5.dll
+C:\WizLaptop\Code\hw3 q 5\obj\Debug\net8.0\hw3 q 5.pdb
+C:\WizLaptop\Code\hw3 q 5\obj\Debug\net8.0\hw3 q 5.genruntimeconfig.cache
+C:\WizLaptop\Code\hw3 q 5\obj\Debug\net8.0\ref\hw3 q 5.dll

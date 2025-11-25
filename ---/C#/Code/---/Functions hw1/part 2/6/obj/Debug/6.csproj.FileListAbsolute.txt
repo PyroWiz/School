@@ -1,0 +1,7 @@
+C:\WizLaptop\School\C#\Code\Functions hw1\part 2\6\bin\Debug\6.exe.config
+C:\WizLaptop\School\C#\Code\Functions hw1\part 2\6\bin\Debug\6.exe
+C:\WizLaptop\School\C#\Code\Functions hw1\part 2\6\bin\Debug\6.pdb
+C:\WizLaptop\School\C#\Code\Functions hw1\part 2\6\obj\Debug\6.csproj.AssemblyReference.cache
+C:\WizLaptop\School\C#\Code\Functions hw1\part 2\6\obj\Debug\6.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\C#\Code\Functions hw1\part 2\6\obj\Debug\6.exe
+C:\WizLaptop\School\C#\Code\Functions hw1\part 2\6\obj\Debug\6.pdb

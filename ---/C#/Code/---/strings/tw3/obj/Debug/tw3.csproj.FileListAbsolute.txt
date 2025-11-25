@@ -1,0 +1,8 @@
+C:\WizLaptop\School\C#\Code\tw3\bin\Debug\tw3.exe.config
+C:\WizLaptop\School\C#\Code\tw3\bin\Debug\tw3.exe
+C:\WizLaptop\School\C#\Code\tw3\bin\Debug\tw3.pdb
+C:\WizLaptop\School\C#\Code\tw3\obj\Debug\tw3.csproj.AssemblyReference.cache
+C:\WizLaptop\School\C#\Code\tw3\obj\Debug\tw3.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\C#\Code\tw3\obj\Debug\tw3.exe
+C:\WizLaptop\School\C#\Code\tw3\obj\Debug\tw3.pdb
+C:\WizLaptop\School\C#\Code\tw3\obj\Debug\tw3.exe.config

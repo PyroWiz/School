@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "all 2 digit numbers that are divided by 5/1.0.0": {
+        "runtime": {
+          "all 2 digit numbers that are divided by 5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "all 2 digit numbers that are divided by 5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,650 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+:root {
+  --cell-size: 30px;
+  --hit-color: #e67e22;
+  --miss-color: #3498db;
+  --sunk-color: #000;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  font-family: 'Roboto', sans-serif;
+  background: #b3e0ff; /* changed from #f0f2f5 to light blue */
+  color: #333;
+}
+header {
+  background: #2c3e50;
+  color: #fff;
+  padding: 16px;
+  text-align: center;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  padding: 20px;
+}
+.card {
+  flex: 1 1 300px;
+  max-width: 360px;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  padding: 20px;
+}
+.card h2 {
+  margin-bottom: 16px;
+  color: #2c3e50;
+}
+.form-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 12px;
+}
+.form-row label {
+  font-size: 0.95rem;
+  margin: 4px;
+}
+.form-row input,
+.form-row select {
+  padding: 6px 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+button#start {
+  width: 100%;
+  padding: 10px;
+  background: #2980b9;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+button#start:hover {
+  background: #1c5980;
+}
+.error {
+  color: #c0392b;
+  font-size: 0.9rem;
+  text-align: center;
+  margin-top: 10px;
+}
+
+/* GRID ON PAGE */
+.board {
+  display: grid;
+  grid-template-columns: repeat(var(--size), var(--cell-size));
+  gap: 4px;
+  background: #34495e;
+  padding: 10px;
+  border-radius: 6px;
+}
+
+/* CELLS */
+.cell {
+  width: var(--cell-size);
+  height: var(--cell-size);
+  background: #ecf0f1;
+  cursor: pointer;
+  border-radius: 2px;
+  transition: background 0.2s, transform 0.1s;
+}
+.cell:hover:not(.disabled) { transform: scale(1.1); }
+.cell.disabled { cursor: default; }
+.cell.miss { background: var(--miss-color); }
+.cell.hit  { background: var(--hit-color); }
+/* new sunk state */
+.cell.sunk { background: var(--sunk-color); }
+/* Highlight cell where power-up was picked up */
+.cell.powerup-source {
+  background: #ffe066 !important;
+  box-shadow: 0 0 8px 2px #ffe06699;
+}
+
+/* BOOM ANIMATION */
+@keyframes boom {
+  to { transform: scale(2); opacity: 0; }
+}
+.boom {
+  animation: boom 0.5s ease-out forwards;
+}
+
+/* STATS TABLE */
+.stats {
+  border-collapse: collapse;
+  width: auto;
+  font-size: 0.9rem;
+}
+.stats th,
+.stats td {
+  border: 1px solid #ddd;
+  padding: 8px 12px;
+  text-align: center;
+}
+.stats tbody tr:nth-child(odd) {
+  background: #f9f9f9;
+}
+
+/* RESPONSIVE: shrink cells on small screens */
+@media (max-width: 600px) {
+  :root { --cell-size: 24px; }
+}
+
+/* -------------------------------------------------
+   Allow the game card to expand so the board never clips
+   ------------------------------------------------- */
+   #game.card {
+    /* remove the 360px cap */
+    max-width: none;
+    /* size to its content (the grid) */
+    width: max-content;
+    /* don’t flex-shrink */
+    flex: 0 1 auto;
+  }
+  
+  /* Optional: keep the setup card narrow */
+  #setup.card {
+    max-width: 360px;
+  }
+  
+  /* Center the stats table within its card */
+.stats {
+  margin: 0 auto;
+}
+
+/* Center every header and cell (if not already) */
+.stats th,
+.stats td {
+  text-align: center;
+  vertical-align: middle;
+}
+
+/* Wizard and Fireball Styles */
+#wizard-container {
+  position: fixed;
+  left: 0; right: 0; bottom: 0;
+  width: 100vw;
+  height: 120px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  pointer-events: none;
+  z-index: 100;
+}
+#wizard {
+  height: 100px;
+  width: auto;
+  user-select: none;
+  pointer-events: none;
+}
+#fireball {
+  display: none;
+}
+.fireball {
+  position: fixed;
+  width: 32px;
+  height: 32px;
+  background: radial-gradient(circle at 60% 40%, #ff9800 60%, #e65100 100%);
+  border-radius: 50%;
+  box-shadow: 0 0 24px 8px #ff9800, 0 0 60px 20px #e6510044;
+  opacity: 1;
+  pointer-events: none;
+  z-index: 200;
+  transition: opacity 0.1s;
+}
+@keyframes fireball-move {
+  to {
+    transform: translate(var(--dx), var(--dy));
+    opacity: 1;
+  }
+}
+.fireball.animate {
+  animation: fireball-move 0.5s linear forwards;
+}
+
+/* FIRE ORIGIN EFFECT */
+.fire-origin {
+  position: fixed;
+  width: 32px;
+  height: 32px;
+  left: 0; top: 0;
+  pointer-events: none;
+  z-index: 201;
+  background: radial-gradient(circle at 60% 40%, #fff700 40%, #ff9800 70%, #e65100 100%);
+  box-shadow: 0 0 24px 8px #ff9800, 0 0 60px 20px #e6510044;
+  border-radius: 50%;
+  opacity: 0.7;
+  animation: fire-origin-burst 0.18s cubic-bezier(.7,0,.7,1) forwards;
+}
+@keyframes fire-origin-burst {
+  0% {
+    opacity: 0.7;
+    transform: scale(0.5) rotate(-10deg);
+    filter: blur(0px);
+  }
+  60% {
+    opacity: 0.5;
+    transform: scale(1.1) rotate(8deg);
+    filter: blur(1px);
+  }
+  100% {
+    opacity: 0;
+    transform: scale(1.5) rotate(-8deg);
+    filter: blur(2px);
+  }
+}
+
+/* Flex row for game area: stats left, board right */
+.game-flex-row {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 32px;
+  justify-content: center;
+}
+
+/* Make stats table more compact and left-aligned */
+#stats {
+  margin: 0;
+  min-width: 110px;
+  max-width: 140px;
+  align-self: flex-start;
+}
+
+/* Remove previous centering for stats table in game card */
+#game .stats {
+  margin: 0;
+}
+
+/* Responsive: stack vertically on small screens */
+@media (max-width: 700px) {
+  .game-flex-row {
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+  }
+  #stats {
+    align-self: center;
+    margin-bottom: 8px;
+  }
+}
+
+/* POWER-UP BAR AND BUTTONS */
+#powerup-bar {
+  position: fixed;
+  left: 24px;
+  bottom: 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+  z-index: 150;
+  pointer-events: auto;
+}
+.powerup-btn {
+  width: 48px;
+  height: 48px;
+  background: #fffbe6;
+  border: 2px solid #e1c340;
+  border-radius: 10px;
+  font-size: 2rem;
+  color: #e1c340;
+  box-shadow: 0 2px 8px #0002;
+  cursor: pointer;
+  transition: background 0.2s, border 0.2s, transform 0.1s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  user-select: none;
+}
+.powerup-btn:active {
+  background: #ffe066;
+  transform: scale(0.96);
+}
+.powerup-btn[disabled] {
+  background: #eee;
+  color: #aaa;
+  border: 2px solid #ccc;
+  cursor: not-allowed;
+}
+#powerup-lightning.active {
+  background: #fff700;
+  border-color: #ff9800;
+  color: #ff9800;
+  box-shadow: 0 0 12px 2px #ffe06699;
+}
+#powerup-earthquake.active {
+  background: #bcae8b;
+  border-color: #8d6e3c;
+  color: #8d6e3c;
+  box-shadow: 0 0 12px 2px #e0c68b99;
+}
+
+/* METEOR POWER-UP ICON */
+#powerup-meteor.active {
+  background: #ff9800;
+  border-color: #b34700;
+  color: #fff;
+  box-shadow: 0 0 16px 4px #ff9800, 0 0 32px 8px #e6510099;
+}
+
+/* Power-up button glow effect */
+.powerup-btn.powerup-glow {
+  box-shadow: 0 0 24px 8px #ffe066, 0 0 48px 16px #fff700, 0 0 80px 32px #fffbe6;
+  animation: powerup-glow-anim 1s cubic-bezier(.7,0,.7,1);
+}
+@keyframes powerup-glow-anim {
+  0% { box-shadow: 0 0 0 0 #ffe066, 0 0 0 0 #fff700, 0 0 0 0 #fffbe6; }
+  30% { box-shadow: 0 0 32px 12px #ffe066, 0 0 64px 24px #fff700, 0 0 120px 48px #fffbe6; }
+  70% { box-shadow: 0 0 24px 8px #ffe066, 0 0 48px 16px #fff700, 0 0 80px 32px #fffbe6; }
+  100% { box-shadow: 0 0 0 0 #ffe066, 0 0 0 0 #fff700, 0 0 0 0 #fffbe6; }
+}
+
+/* Lightning effect for power-up */
+.lightning-anim-global {
+  pointer-events: none;
+  position: fixed;
+  width: 44px;
+  height: 64px;
+  background: none;
+  z-index: 1000;
+  animation: lightning-bolt-zap 0.32s cubic-bezier(.7,0,.7,1) forwards;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.lightning-anim-global::before {
+  content: '';
+  display: block;
+  width: 100%;
+  height: 100%;
+  background: url('data:image/svg+xml;utf8,<svg width="44" height="64" viewBox="0 0 44 64" xmlns="http://www.w3.org/2000/svg"><polyline points="22,0 18,28 28,28 14,64 22,36 12,36 22,0" fill="none" stroke="%23fff700" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/><polyline points="22,0 18,28 28,28 14,64 22,36 12,36 22,0" fill="none" stroke="%23fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>') center/contain no-repeat;
+  filter: drop-shadow(0 0 16px #fff700) drop-shadow(0 0 32px #fff) drop-shadow(0 0 8px #ffe066);
+  opacity: 1;
+  animation: lightning-bolt-flash 0.32s linear;
+}
+@keyframes lightning-bolt-zap {
+  0% {
+    opacity: 0.9;
+    transform: scale(0.7) rotate(-8deg);
+    filter: blur(0px);
+  }
+  30% {
+    opacity: 1;
+    transform: scale(1.1) rotate(4deg);
+    filter: blur(0.5px);
+  }
+  60% {
+    opacity: 1;
+    transform: scale(1.05) rotate(-2deg);
+    filter: blur(0.2px);
+  }
+  80% {
+    opacity: 0.7;
+    filter: blur(1px);
+  }
+  100% {
+    opacity: 0;
+    transform: scale(1.2) rotate(6deg);
+    filter: blur(2px);
+  }
+}
+@keyframes lightning-bolt-flash {
+  0% {
+    opacity: 0.7;
+    filter: brightness(2) blur(0px);
+  }
+  20% {
+    opacity: 1;
+    filter: brightness(3) blur(0.5px);
+  }
+  60% {
+    opacity: 1;
+    filter: brightness(2.5) blur(0.2px);
+  }
+  80% {
+    opacity: 0.7;
+    filter: brightness(1.5) blur(1px);
+  }
+  100% {
+    opacity: 0;
+    filter: brightness(1) blur(2px);
+  }
+}
+@keyframes lightning-strike {
+  0% { opacity: 0.2; filter: blur(2px); }
+  60% { opacity: 1; filter: blur(0px); }
+  100% { opacity: 0; filter: blur(2px); }
+}
+
+/* Sky Lightning Bolt Animation */
+.sky-lightning-anim-global {
+  position: fixed;
+  width: 44px;
+  height: 64px;
+  z-index: 1201;
+  pointer-events: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  animation: sky-lightning-bolt-zap 0.32s cubic-bezier(.7,0,.7,1) forwards;
+}
+.sky-lightning-anim-global .sky-bolt-svg {
+  width: 100%;
+  height: 100%;
+  background: url('data:image/svg+xml;utf8,<svg width="44" height="64" viewBox="0 0 44 64" xmlns="http://www.w3.org/2000/svg"><polyline points="22,0 18,28 28,28 14,64 22,36 12,36 22,0" fill="none" stroke="%23fff700" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/><polyline points="22,0 18,28 28,28 14,64 22,36 12,36 22,0" fill="none" stroke="%23fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>') center/contain no-repeat;
+  filter: drop-shadow(0 0 16px #fff700) drop-shadow(0 0 32px #fff) drop-shadow(0 0 8px #ffe066);
+}
+@keyframes sky-lightning-bolt-zap {
+  0% {
+    opacity: 0.9;
+    transform: translateY(0) scale(0.7) rotate(-8deg);
+    filter: blur(0px);
+  }
+  30% {
+    opacity: 1;
+    transform: translateY(calc(var(--targetY, 300px) * 0.5)) scale(1.1) rotate(4deg);
+    filter: blur(0.5px);
+  }
+  60% {
+    opacity: 1;
+    transform: translateY(calc(var(--targetY, 300px) * 0.85)) scale(1.05) rotate(-2deg);
+    filter: blur(0.2px);
+  }
+  80% {
+    opacity: 0.7;
+    filter: blur(1px);
+    transform: translateY(calc(var(--targetY, 300px) * 0.98)) scale(1.1) rotate(2deg);
+  }
+  100% {
+    opacity: 0;
+    transform: translateY(var(--targetY, 300px)) scale(1.2) rotate(6deg);
+    filter: blur(2px);
+  }
+}
+
+/* Shake and flash effect for frazzled cells */
+.cell.frazzled {
+  animation: frazzle-shake 0.38s cubic-bezier(.7,0,.7,1) both, frazzle-flash 0.38s linear both;
+  box-shadow: 0 0 16px 4px #fff700, 0 0 32px 8px #ffe06699;
+}
+@keyframes frazzle-shake {
+  0% { transform: scale(1) translate(0,0) rotate(0deg); }
+  10% { transform: scale(1.05) translate(-2px,2px) rotate(-2deg); }
+  20% { transform: scale(0.98) translate(2px,-2px) rotate(2deg); }
+  30% { transform: scale(1.04) translate(-2px,1px) rotate(-1deg); }
+  40% { transform: scale(1) translate(2px,2px) rotate(1deg); }
+  50% { transform: scale(1.03) translate(-1px,-2px) rotate(2deg); }
+  60% { transform: scale(0.97) translate(2px,1px) rotate(-2deg); }
+  70% { transform: scale(1.05) translate(-2px,-2px) rotate(1deg); }
+  80% { transform: scale(1) translate(2px,2px) rotate(-1deg); }
+  90% { transform: scale(1.02) translate(-1px,1px) rotate(2deg); }
+  100% { transform: scale(1) translate(0,0) rotate(0deg); }
+}
+@keyframes frazzle-flash {
+  0%, 100% { filter: brightness(1); }
+  15% { filter: brightness(2.2); }
+  30% { filter: brightness(1.2); }
+  45% { filter: brightness(2.5); }
+  60% { filter: brightness(1.1); }
+  75% { filter: brightness(2.1); }
+  90% { filter: brightness(1.3); }
+}
+
+/* Earthquake row shake effect */
+@keyframes row-quake {
+  0% { transform: translateX(0); }
+  10% { transform: translateX(-6px); }
+  20% { transform: translateX(7px); }
+  30% { transform: translateX(-8px); }
+  40% { transform: translateX(6px); }
+  50% { transform: translateX(-5px); }
+  60% { transform: translateX(4px); }
+  70% { transform: translateX(-3px); }
+  80% { transform: translateX(2px); }
+  90% { transform: translateX(-1px); }
+  100% { transform: translateX(0); }
+}
+.row-quake {
+  animation: row-quake 0.5s cubic-bezier(.7,0,.7,1) both;
+  z-index: 1202;
+}
+
+/* Dust cloud effect for earthquake */
+.dust-cloud {
+  position: fixed;
+  width: 60px;
+  height: 32px;
+  left: 0; top: 0;
+  pointer-events: none;
+  z-index: 1203;
+  background: radial-gradient(circle at 60% 60%, #e0c68b 60%, #bcae8b 100%);
+  opacity: 0.7;
+  border-radius: 50%;
+  filter: blur(2px);
+  animation: dust-cloud-burst 0.6s cubic-bezier(.7,0,.7,1) forwards;
+}
+@keyframes dust-cloud-burst {
+  0% { opacity: 0.7; transform: scale(0.7) translateY(0); }
+  40% { opacity: 0.8; transform: scale(1.1) translateY(-8px); }
+  80% { opacity: 0.5; transform: scale(1.2) translateY(-12px); }
+  100% { opacity: 0; transform: scale(1.3) translateY(-18px); }
+}
+
+/* Meteor animation (falling from sky) */
+.meteor-anim-global {
+  position: fixed;
+  width: 48px;
+  height: 48px;
+  z-index: 1300;
+  pointer-events: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  animation: meteor-fall 0.55s cubic-bezier(.7,0,.7,1) forwards;
+}
+.meteor-anim-global .meteor-svg {
+  width: 100%;
+  height: 100%;
+  background: url('data:image/svg+xml;utf8,<svg width="48" height="48" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg"><ellipse cx="24" cy="36" rx="16" ry="10" fill="%23b34700" opacity="0.3"/><circle cx="24" cy="24" r="18" fill="%23ff9800"/><circle cx="24" cy="24" r="13" fill="%23fff176"/><ellipse cx="24" cy="24" rx="10" ry="13" fill="%23ff9800" opacity="0.7"/><ellipse cx="24" cy="24" rx="7" ry="10" fill="%23e65100" opacity="0.7"/><ellipse cx="24" cy="24" rx="3" ry="5" fill="%23fff" opacity="0.7"/></svg>') center/contain no-repeat;
+}
+@keyframes meteor-fall {
+  0% {
+    opacity: 0.8;
+    transform: translateY(-120px) scale(0.7) rotate(-18deg);
+    filter: blur(0px);
+  }
+  40% {
+    opacity: 1;
+    transform: translateY(calc(var(--targetY, 300px) * 0.7)) scale(1.1) rotate(8deg);
+    filter: blur(0.5px);
+  }
+  80% {
+    opacity: 1;
+    transform: translateY(calc(var(--targetY, 300px) * 0.98)) scale(1.1) rotate(-2deg);
+    filter: blur(1px);
+  }
+  100% {
+    opacity: 0.95;
+    transform: translateY(var(--targetY, 300px)) scale(1.2) rotate(6deg);
+    filter: blur(2px);
+  }
+}
+
+/* Direct Meteor Fall Animation (for meteor power-up) */
+@keyframes meteor-fall-direct {
+  0% {
+    opacity: 0.95;
+    transform: translateY(-220px) scale(1.1) rotate(-8deg);
+    filter: blur(0px);
+  }
+  60% {
+    opacity: 1;
+    transform: translateY(calc(var(--targetY, 300px) * 0.85)) scale(1.18) rotate(2deg);
+    filter: blur(0.5px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(var(--targetY, 300px)) scale(1.22) rotate(0deg);
+    filter: blur(1.5px);
+  }
+}
+
+/* Meteor explosion effect (big fiery burst) */
+.meteor-explosion-anim {
+  position: fixed;
+  pointer-events: none;
+  z-index: 1301;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  animation: meteor-explosion-burst 0.7s cubic-bezier(.7,0,.7,1) forwards;
+}
+.meteor-explosion-anim .meteor-explosion-svg {
+  width: 100%;
+  height: 100%;
+  background: url('data:image/svg+xml;utf8,<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg"><radialGradient id="g1" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="%23fff176"/><stop offset="60%" stop-color="%23ff9800"/><stop offset="100%" stop-color="%23e65100"/></radialGradient><circle cx="60" cy="60" r="54" fill="url(%23g1)"/><circle cx="60" cy="60" r="36" fill="%23fff176" opacity="0.7"/><circle cx="60" cy="60" r="24" fill="%23ff9800" opacity="0.7"/><ellipse cx="60" cy="60" rx="40" ry="18" fill="%23fff" opacity="0.18"/></svg>') center/contain no-repeat;
+}
+@keyframes meteor-explosion-burst {
+  0% {
+    opacity: 0.8;
+    transform: scale(0.5) rotate(-10deg);
+    filter: blur(0px);
+  }
+  40% {
+    opacity: 1;
+    transform: scale(1.1) rotate(8deg);
+    filter: blur(1px);
+  }
+  80% {
+    opacity: 0.7;
+    transform: scale(1.2) rotate(-8deg);
+    filter: blur(2px);
+  }
+  100% {
+    opacity: 0;
+    transform: scale(1.4) rotate(12deg);
+    filter: blur(4px);
+  }
+}
+
+/* Fiery fire trail for meteor */
+.meteor-fire-trail {
+  background: linear-gradient(180deg, #fffbe6 0%, #ff9800 40%, #e65100 80%, transparent 100%);
+  border-radius: 50% 50% 60% 60%/60% 60% 100% 100%;
+  filter: blur(2.5px) brightness(1.2) drop-shadow(0 0 16px #ff9800);
+  opacity: 0.7;
+  pointer-events: none;
+  mix-blend-mode: lighten;
+  animation: meteor-fire-trail-flicker 0.42s linear infinite alternate;
+}
+@keyframes meteor-fire-trail-flicker {
+  0% { filter: blur(2.5px) brightness(1.2); opacity: 0.7; }
+  40% { filter: blur(3.5px) brightness(1.4); opacity: 0.85; }
+  80% { filter: blur(2.2px) brightness(1.1); opacity: 0.6; }
+  100% { filter: blur(2.8px) brightness(1.3); opacity: 0.8; }
+}

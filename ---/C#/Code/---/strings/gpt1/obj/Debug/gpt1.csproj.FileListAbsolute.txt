@@ -1,0 +1,8 @@
+C:\WizLaptop\School\C#\Code\strings\gpt1\bin\Debug\gpt1.exe.config
+C:\WizLaptop\School\C#\Code\strings\gpt1\bin\Debug\gpt1.exe
+C:\WizLaptop\School\C#\Code\strings\gpt1\bin\Debug\gpt1.pdb
+C:\WizLaptop\School\C#\Code\strings\gpt1\obj\Debug\gpt1.csproj.AssemblyReference.cache
+C:\WizLaptop\School\C#\Code\strings\gpt1\obj\Debug\gpt1.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\C#\Code\strings\gpt1\obj\Debug\gpt1.exe
+C:\WizLaptop\School\C#\Code\strings\gpt1\obj\Debug\gpt1.pdb
+C:\WizLaptop\School\C#\Code\strings\gpt1\obj\Debug\gpt1.exe.config

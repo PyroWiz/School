@@ -1,0 +1,8 @@
+C:\WizLaptop\School\C#\Code\Shield study\Duality\bin\Debug\Duality.exe.config
+C:\WizLaptop\School\C#\Code\Shield study\Duality\bin\Debug\Duality.exe
+C:\WizLaptop\School\C#\Code\Shield study\Duality\bin\Debug\Duality.pdb
+C:\WizLaptop\School\C#\Code\Shield study\Duality\obj\Debug\Duality.csproj.AssemblyReference.cache
+C:\WizLaptop\School\C#\Code\Shield study\Duality\obj\Debug\Duality.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\C#\Code\Shield study\Duality\obj\Debug\Duality.exe
+C:\WizLaptop\School\C#\Code\Shield study\Duality\obj\Debug\Duality.pdb
+C:\WizLaptop\School\C#\Code\Shield study\Duality\obj\Debug\Duality.exe.config

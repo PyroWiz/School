@@ -1,0 +1,14 @@
+C:\WizLaptop\School\C#\Code\Functions hw1\10\bin\Debug\10.exe.config
+C:\WizLaptop\School\C#\Code\Functions hw1\10\bin\Debug\10.exe
+C:\WizLaptop\School\C#\Code\Functions hw1\10\bin\Debug\10.pdb
+C:\WizLaptop\School\C#\Code\Functions hw1\10\obj\Debug\10.csproj.AssemblyReference.cache
+C:\WizLaptop\School\C#\Code\Functions hw1\10\obj\Debug\10.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\C#\Code\Functions hw1\10\obj\Debug\10.exe
+C:\WizLaptop\School\C#\Code\Functions hw1\10\obj\Debug\10.pdb
+C:\WizLaptop\School\C#\Code\Functions hw1\part 1\10\bin\Debug\10.exe.config
+C:\WizLaptop\School\C#\Code\Functions hw1\part 1\10\bin\Debug\10.exe
+C:\WizLaptop\School\C#\Code\Functions hw1\part 1\10\bin\Debug\10.pdb
+C:\WizLaptop\School\C#\Code\Functions hw1\part 1\10\obj\Debug\10.csproj.AssemblyReference.cache
+C:\WizLaptop\School\C#\Code\Functions hw1\part 1\10\obj\Debug\10.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\C#\Code\Functions hw1\part 1\10\obj\Debug\10.exe
+C:\WizLaptop\School\C#\Code\Functions hw1\part 1\10\obj\Debug\10.pdb

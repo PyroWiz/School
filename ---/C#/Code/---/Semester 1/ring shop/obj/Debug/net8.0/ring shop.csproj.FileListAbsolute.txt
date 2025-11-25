@@ -1,0 +1,14 @@
+C:\WizLaptop\School\Code\ring shop\bin\Debug\net8.0\ring shop.exe
+C:\WizLaptop\School\Code\ring shop\bin\Debug\net8.0\ring shop.deps.json
+C:\WizLaptop\School\Code\ring shop\bin\Debug\net8.0\ring shop.runtimeconfig.json
+C:\WizLaptop\School\Code\ring shop\bin\Debug\net8.0\ring shop.dll
+C:\WizLaptop\School\Code\ring shop\bin\Debug\net8.0\ring shop.pdb
+C:\WizLaptop\School\Code\ring shop\obj\Debug\net8.0\ring shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\WizLaptop\School\Code\ring shop\obj\Debug\net8.0\ring shop.AssemblyInfoInputs.cache
+C:\WizLaptop\School\Code\ring shop\obj\Debug\net8.0\ring shop.AssemblyInfo.cs
+C:\WizLaptop\School\Code\ring shop\obj\Debug\net8.0\ring shop.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\Code\ring shop\obj\Debug\net8.0\ring shop.dll
+C:\WizLaptop\School\Code\ring shop\obj\Debug\net8.0\refint\ring shop.dll
+C:\WizLaptop\School\Code\ring shop\obj\Debug\net8.0\ring shop.pdb
+C:\WizLaptop\School\Code\ring shop\obj\Debug\net8.0\ring shop.genruntimeconfig.cache
+C:\WizLaptop\School\Code\ring shop\obj\Debug\net8.0\ref\ring shop.dll

@@ -1,0 +1,8 @@
+C:\WizLaptop\School\OOP\classwork\bin\Debug\classwork.exe.config
+C:\WizLaptop\School\OOP\classwork\bin\Debug\classwork.exe
+C:\WizLaptop\School\OOP\classwork\bin\Debug\classwork.pdb
+C:\WizLaptop\School\OOP\classwork\obj\Debug\classwork.csproj.AssemblyReference.cache
+C:\WizLaptop\School\OOP\classwork\obj\Debug\classwork.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\OOP\classwork\obj\Debug\classwork.exe
+C:\WizLaptop\School\OOP\classwork\obj\Debug\classwork.pdb
+C:\WizLaptop\School\OOP\classwork\obj\Debug\classwork.exe.config

@@ -1,0 +1,14 @@
+C:\WizLaptop\School\Code\OrBookSeller\bin\Debug\net8.0\OrBookSeller.exe
+C:\WizLaptop\School\Code\OrBookSeller\bin\Debug\net8.0\OrBookSeller.deps.json
+C:\WizLaptop\School\Code\OrBookSeller\bin\Debug\net8.0\OrBookSeller.runtimeconfig.json
+C:\WizLaptop\School\Code\OrBookSeller\bin\Debug\net8.0\OrBookSeller.dll
+C:\WizLaptop\School\Code\OrBookSeller\bin\Debug\net8.0\OrBookSeller.pdb
+C:\WizLaptop\School\Code\OrBookSeller\obj\Debug\net8.0\OrBookSeller.GeneratedMSBuildEditorConfig.editorconfig
+C:\WizLaptop\School\Code\OrBookSeller\obj\Debug\net8.0\OrBookSeller.AssemblyInfoInputs.cache
+C:\WizLaptop\School\Code\OrBookSeller\obj\Debug\net8.0\OrBookSeller.AssemblyInfo.cs
+C:\WizLaptop\School\Code\OrBookSeller\obj\Debug\net8.0\OrBookSeller.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\Code\OrBookSeller\obj\Debug\net8.0\OrBookSeller.dll
+C:\WizLaptop\School\Code\OrBookSeller\obj\Debug\net8.0\refint\OrBookSeller.dll
+C:\WizLaptop\School\Code\OrBookSeller\obj\Debug\net8.0\OrBookSeller.pdb
+C:\WizLaptop\School\Code\OrBookSeller\obj\Debug\net8.0\OrBookSeller.genruntimeconfig.cache
+C:\WizLaptop\School\Code\OrBookSeller\obj\Debug\net8.0\ref\OrBookSeller.dll
