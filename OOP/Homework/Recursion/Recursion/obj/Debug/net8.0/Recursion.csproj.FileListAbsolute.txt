@@ -1,0 +1,15 @@
+C:\WizLaptop\School\OOP\Homework\Recursion\Recursion\bin\Debug\net8.0\Recursion.exe
+C:\WizLaptop\School\OOP\Homework\Recursion\Recursion\bin\Debug\net8.0\Recursion.deps.json
+C:\WizLaptop\School\OOP\Homework\Recursion\Recursion\bin\Debug\net8.0\Recursion.runtimeconfig.json
+C:\WizLaptop\School\OOP\Homework\Recursion\Recursion\bin\Debug\net8.0\Recursion.dll
+C:\WizLaptop\School\OOP\Homework\Recursion\Recursion\bin\Debug\net8.0\Recursion.pdb
+C:\WizLaptop\School\OOP\Homework\Recursion\Recursion\obj\Debug\net8.0\Recursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\WizLaptop\School\OOP\Homework\Recursion\Recursion\obj\Debug\net8.0\Recursion.AssemblyInfoInputs.cache
+C:\WizLaptop\School\OOP\Homework\Recursion\Recursion\obj\Debug\net8.0\Recursion.AssemblyInfo.cs
+C:\WizLaptop\School\OOP\Homework\Recursion\Recursion\obj\Debug\net8.0\Recursion.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\OOP\Homework\Recursion\Recursion\obj\Debug\net8.0\Recursion.sourcelink.json
+C:\WizLaptop\School\OOP\Homework\Recursion\Recursion\obj\Debug\net8.0\Recursion.dll
+C:\WizLaptop\School\OOP\Homework\Recursion\Recursion\obj\Debug\net8.0\refint\Recursion.dll
+C:\WizLaptop\School\OOP\Homework\Recursion\Recursion\obj\Debug\net8.0\Recursion.pdb
+C:\WizLaptop\School\OOP\Homework\Recursion\Recursion\obj\Debug\net8.0\Recursion.genruntimeconfig.cache
+C:\WizLaptop\School\OOP\Homework\Recursion\Recursion\obj\Debug\net8.0\ref\Recursion.dll
