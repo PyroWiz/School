@@ -1,0 +1,31 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Interface
+{
+    internal class MyCircle
+    {
+
+        double radius; int x, y;
+
+        public MyCircle(double radius)
+        {
+            SetRadius(radius);
+        }
+
+        #region setget
+        public double GetRadius()
+        {
+            return radius;
+        }
+
+        public void SetRadius(double radius)
+        {
+            this.radius = radius;
+        }
+        #endregion
+    }
+}

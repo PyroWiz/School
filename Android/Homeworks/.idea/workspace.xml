@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8e76ebbc-e814-443c-9911-55aebba99e06" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/App3/app/src/main/java/com/example/calculator/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/App3/app/src/main/java/com/example/calculator/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/Homework/abstract class hw/AbstractHW/.vs/AbstractHW/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOP/Homework/abstract class hw/AbstractHW/.vs/AbstractHW/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/Homework/abstract class hw/AbstractHW/.vs/AbstractHW/FileContentIndex/3072c733-b9ad-448c-afbc-70017a2bae34.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/Homework/abstract class hw/AbstractHW/.vs/AbstractHW/FileContentIndex/3e6a5957-350a-4bc2-b6de-738ff23bcc75.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/Homework/abstract class hw/AbstractHW/.vs/AbstractHW/FileContentIndex/8b6a3055-5ab1-4054-b4b7-b8f9b08da46e.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/Homework/abstract class hw/AbstractHW/.vs/AbstractHW/FileContentIndex/a3cda849-ba71-49dc-b380-dcc165a8bb50.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/Homework/abstract class hw/AbstractHW/.vs/AbstractHW/FileContentIndex/eadf3496-d9e2-46e4-9e77-3ffdc70129ae.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/Homework/abstract class hw/AbstractHW/.vs/AbstractHW/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOP/Homework/abstract class hw/AbstractHW/.vs/AbstractHW/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/Homework/abstract class hw/AbstractHW/.vs/AbstractHW/v17/DocumentLayout.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOP/Homework/abstract class hw/AbstractHW/.vs/AbstractHW/v17/DocumentLayout.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/Homework/abstract class hw/AbstractHW/.vs/ProjectEvaluation/abstracthw.metadata.v9.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOP/Homework/abstract class hw/AbstractHW/.vs/ProjectEvaluation/abstracthw.metadata.v9.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/Homework/abstract class hw/AbstractHW/.vs/ProjectEvaluation/abstracthw.projects.v9.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOP/Homework/abstract class hw/AbstractHW/.vs/ProjectEvaluation/abstracthw.projects.v9.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/Homework/abstract class hw/AbstractHW/.vs/ProjectEvaluation/abstracthw.strings.v9.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOP/Homework/abstract class hw/AbstractHW/.vs/ProjectEvaluation/abstracthw.strings.v9.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/Homework/abstract class hw/AbstractHW/obj/AbstractHW.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOP/Homework/abstract class hw/AbstractHW/obj/AbstractHW.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/Homework/abstract class hw/AbstractHW/obj/AbstractHW.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOP/Homework/abstract class hw/AbstractHW/obj/AbstractHW.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/Homework/abstract class hw/AbstractHW/obj/Debug/net8.0/AbstractHW.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOP/Homework/abstract class hw/AbstractHW/obj/Debug/net8.0/AbstractHW.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/Homework/abstract class hw/AbstractHW/obj/Debug/net8.0/AbstractHW.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOP/Homework/abstract class hw/AbstractHW/obj/Debug/net8.0/AbstractHW.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/Homework/abstract class hw/AbstractHW/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOP/Homework/abstract class hw/AbstractHW/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/Homework/abstract class hw/AbstractHW/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOP/Homework/abstract class hw/AbstractHW/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Homeworks/Homeworks.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Homeworks/hw5/hw5.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python/Homeworks/hw5/hw5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../React" beforeDir="false" afterPath="$PROJECT_DIR$/../../React" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gitstuff.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../gitstuff.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "android.gradle.sync.needed": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e76ebbc-e814-443c-9911-55aebba99e06" name="Changes" comment="" />
+      <created>1764235889975</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1764235889975</updated>
+    </task>
+    <servers />
+  </component>
+</project>

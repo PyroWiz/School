@@ -1,3 +1,7 @@
 git add .
 git commit -m "a"
 git push origin main
+
+https://github.com/PyroWiz/School.git
+
+git config --global credential.https://github.com.username alice

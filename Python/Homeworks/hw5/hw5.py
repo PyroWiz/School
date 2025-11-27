@@ -20,7 +20,15 @@ else:
     print("not palindrom")
 """
 
-temps = input("enter temperature")
+temps = (input("enter temperature "))
 
-if temps.endswith("C"):
-    print(temps)
+if temps.endswith("C") or temps.endswith("c"):
+    temps = float(temps[:-1])
+    temps = float((5 * temps - 160) / (9))
+    print(str(temps) + "F")
+elif temps.endswith("F") or temps.endswith("f"):
+    temps = float(temps[:-1])
+    temps = float((9 * temps + (32 * 5)) / (5))
+    print(str(temps) + "C")
+else:
+    print("bad input")

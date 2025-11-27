@@ -1,0 +1,11 @@
+C:\WizLaptop\School\Advanced C#\Homework\WindowsForms\Hw1\bin\Debug\Hw1.exe.config
+C:\WizLaptop\School\Advanced C#\Homework\WindowsForms\Hw1\bin\Debug\Hw1.exe
+C:\WizLaptop\School\Advanced C#\Homework\WindowsForms\Hw1\bin\Debug\Hw1.pdb
+C:\WizLaptop\School\Advanced C#\Homework\WindowsForms\Hw1\obj\Debug\Hw1.csproj.AssemblyReference.cache
+C:\WizLaptop\School\Advanced C#\Homework\WindowsForms\Hw1\obj\Debug\Hw1.Form1.resources
+C:\WizLaptop\School\Advanced C#\Homework\WindowsForms\Hw1\obj\Debug\Hw1.Properties.Resources.resources
+C:\WizLaptop\School\Advanced C#\Homework\WindowsForms\Hw1\obj\Debug\Hw1.csproj.GenerateResource.cache
+C:\WizLaptop\School\Advanced C#\Homework\WindowsForms\Hw1\obj\Debug\Hw1.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\Advanced C#\Homework\WindowsForms\Hw1\obj\Debug\Hw1.exe
+C:\WizLaptop\School\Advanced C#\Homework\WindowsForms\Hw1\obj\Debug\Hw1.pdb
+C:\WizLaptop\School\Advanced C#\Homework\WindowsForms\Hw1\obj\Debug\Hw1.exe.config
