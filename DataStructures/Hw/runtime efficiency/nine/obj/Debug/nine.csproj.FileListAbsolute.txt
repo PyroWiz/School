@@ -1,0 +1,8 @@
+C:\WizPC\School\DataStructures\Hw\runtime efficiency\nine\bin\Debug\nine.exe.config
+C:\WizPC\School\DataStructures\Hw\runtime efficiency\nine\bin\Debug\nine.exe
+C:\WizPC\School\DataStructures\Hw\runtime efficiency\nine\bin\Debug\nine.pdb
+C:\WizPC\School\DataStructures\Hw\runtime efficiency\nine\obj\Debug\nine.csproj.AssemblyReference.cache
+C:\WizPC\School\DataStructures\Hw\runtime efficiency\nine\obj\Debug\nine.csproj.CoreCompileInputs.cache
+C:\WizPC\School\DataStructures\Hw\runtime efficiency\nine\obj\Debug\nine.exe
+C:\WizPC\School\DataStructures\Hw\runtime efficiency\nine\obj\Debug\nine.pdb
+C:\WizPC\School\DataStructures\Hw\runtime efficiency\nine\obj\Debug\nine.exe.config

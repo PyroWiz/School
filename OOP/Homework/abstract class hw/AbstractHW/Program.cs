@@ -4,6 +4,7 @@
     {
         static void Main(string[] args)
         {
+            /*
             Shape[] Shapes = new Shape[6];
 
             Shapes[0] = new Rectangle(3.0, 4.0, "Rect1");
@@ -33,6 +34,65 @@
                 if (shape.GetArea() >= biggest)
                 {
                     Console.WriteLine(shape.GetName());
+                }
+            }
+            */ //ex1
+
+            Circle[] arr = new Circle[6];
+            Point p = new Point(1, 2);
+            arr[0] = new Circle(10, 1, 2, "circle 1");
+            arr[1] = new Circle(10, p, "circle 2");
+
+            arr[2] = new Cylinder(20, 1, 2, 3, "cylinder 1");
+            arr[3] = new Cylinder(20, 2, p, "cylinder 2");
+
+            arr[4] = new Sphere(40, 1, 2, "sphere1");
+            arr[5] = new Sphere(50, p, "sphere2");
+
+
+            Cylinder c = (Cylinder)arr[2];
+            c.SetHeight(123);
+            arr[2] = c;
+            /*
+            for (int i = 0; i < arr.Length; i++)
+            {
+                Console.WriteLine(arr[i].ToString());
+            }
+            */
+
+            double highest = 0; int second = 0;
+            for (int i = 0; second < 2; i++)
+            {
+                if (!(i < arr.Length)) { i = 0; second++; }
+                if (arr[i] is IVolumable)
+                {
+
+                    double volume = 0;
+
+
+                    if (arr[i] is Cylinder)
+                    {
+                        volume = ((Cylinder)arr[i]).GetVolume();
+                    }
+                    else if (arr[i] is Sphere)
+                    {
+                        volume = ((Sphere)arr[i]).GetVolume();
+                    }
+                    if (volume > highest)
+                        highest = volume;
+
+                    if (second == 0)
+                    {
+                        Console.WriteLine(volume);
+                    }
+
+
+                    if (second == 1)
+                    {
+                        if (volume == highest)
+                            Console.WriteLine(arr[i].ToString());
+                    }
+
                 }
             }
         }

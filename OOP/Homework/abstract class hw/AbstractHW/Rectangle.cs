@@ -11,12 +11,7 @@
         public double GetHeight() { return height; }
         public void SetHeight(double value) { height = value; }
 
-        public override string ToString()
-        {
-            return $"Rectangle: width={width}, height={height} , name={GetName()}";
-        }
         #endregion
-
         public Rectangle(double width, double height, string name)
         {
             SetWidth(width);
@@ -25,5 +20,11 @@
         }
 
         public override double GetArea() { return width * height; }
+
+        public override string ToString()
+        {
+            return $"Rectangle: name={GetName()}, width={GetWidth():F2}, height={GetHeight():F2}, area={GetArea():F2}";
+        }
     }
 }
+

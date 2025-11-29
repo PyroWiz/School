@@ -1,6 +1,6 @@
 ﻿namespace AbstractHW
 {
-    internal class Cylinder : Circle
+    internal class Cylinder : Circle, IVolumable
     {
         double height;
 
@@ -8,22 +8,31 @@
         public double GetHeight() { return height; }
         public void SetHeight(double value) { height = value; }
 
-        public override string ToString()
-        {
-            return $"Cylinder: height={height} , radius={GetRadius()},name={GetName()}";
-        }
+
         #endregion
 
-        public Cylinder(double height, double radius, string name) : base(radius, name)
+        public Cylinder(double height, double radius, Point p, string name) : base(radius, p, name)
         {
-            SetRadius(radius);
             SetHeight(height);
-            SetName(name);
+        }
+        public Cylinder(double height, double radius, int x, int y, string name) : base(radius, x, y, name)
+        {
+            SetHeight(height);
         }
 
         public override double GetArea()
         {
             return 2 * System.Math.PI * GetRadius() * GetRadius();
+        }
+
+        public override string ToString()
+        {
+            return $"Cylinder: name={GetName()}, radius={GetRadius():F2}, height={GetHeight():F2}, area={GetArea():F2}, volume={GetVolume():F2} , point={GetP().ToString()}";
+        }
+
+        public double GetVolume()
+        {
+            return Math.PI * GetRadius() * GetRadius() * GetHeight();
         }
     }
 }

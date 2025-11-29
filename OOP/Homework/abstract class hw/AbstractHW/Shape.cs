@@ -8,13 +8,15 @@
         public string GetName() { return name; }
         public void SetName(string value) { name = value; }
 
-        public override string ToString()
-        {
-            return $"Shape: name={name}";
-        }
+
         #endregion
 
 
         public abstract double GetArea();
+
+        public override string ToString()
+        {
+            return $"Shape: name={GetName()}, area={GetArea():F2}";
+        }
     }
 }

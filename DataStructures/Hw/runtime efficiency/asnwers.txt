@@ -1,0 +1,9 @@
+5: b is more efficient, since hes doing essentially the same action but in a faster way, both are o (n)
+
+6: O (n)
+
+7: O (n^2) and O (Sqrt(n))
+
+8: both are O (n)
+
+9: VS
