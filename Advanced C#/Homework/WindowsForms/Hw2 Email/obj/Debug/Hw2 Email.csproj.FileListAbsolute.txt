@@ -1,0 +1,10 @@
+C:\WizLaptop\School\Advanced C#\Homework\WindowsForms\Hw2 Email\bin\Debug\Hw2 Email.exe.config
+C:\WizLaptop\School\Advanced C#\Homework\WindowsForms\Hw2 Email\bin\Debug\Hw2 Email.exe
+C:\WizLaptop\School\Advanced C#\Homework\WindowsForms\Hw2 Email\bin\Debug\Hw2 Email.pdb
+C:\WizLaptop\School\Advanced C#\Homework\WindowsForms\Hw2 Email\obj\Debug\Hw2 Email.csproj.AssemblyReference.cache
+C:\WizLaptop\School\Advanced C#\Homework\WindowsForms\Hw2 Email\obj\Debug\Hw2_Email.Form1.resources
+C:\WizLaptop\School\Advanced C#\Homework\WindowsForms\Hw2 Email\obj\Debug\Hw2_Email.Properties.Resources.resources
+C:\WizLaptop\School\Advanced C#\Homework\WindowsForms\Hw2 Email\obj\Debug\Hw2 Email.csproj.GenerateResource.cache
+C:\WizLaptop\School\Advanced C#\Homework\WindowsForms\Hw2 Email\obj\Debug\Hw2 Email.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\Advanced C#\Homework\WindowsForms\Hw2 Email\obj\Debug\Hw2 Email.exe
+C:\WizLaptop\School\Advanced C#\Homework\WindowsForms\Hw2 Email\obj\Debug\Hw2 Email.pdb
