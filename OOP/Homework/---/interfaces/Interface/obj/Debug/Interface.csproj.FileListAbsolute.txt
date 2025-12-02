@@ -5,3 +5,10 @@ C:\WizLaptop\School\OOP\Homework\interfaces\Interface\bin\Debug\Interface.exe
 C:\WizLaptop\School\OOP\Homework\interfaces\Interface\bin\Debug\Interface.pdb
 C:\WizLaptop\School\OOP\Homework\interfaces\Interface\obj\Debug\Interface.exe
 C:\WizLaptop\School\OOP\Homework\interfaces\Interface\obj\Debug\Interface.pdb
+C:\WizLaptop\School\OOP\Homework\---\interfaces\Interface\bin\Debug\Interface.exe.config
+C:\WizLaptop\School\OOP\Homework\---\interfaces\Interface\bin\Debug\Interface.exe
+C:\WizLaptop\School\OOP\Homework\---\interfaces\Interface\bin\Debug\Interface.pdb
+C:\WizLaptop\School\OOP\Homework\---\interfaces\Interface\obj\Debug\Interface.csproj.AssemblyReference.cache
+C:\WizLaptop\School\OOP\Homework\---\interfaces\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\OOP\Homework\---\interfaces\Interface\obj\Debug\Interface.exe
+C:\WizLaptop\School\OOP\Homework\---\interfaces\Interface\obj\Debug\Interface.pdb

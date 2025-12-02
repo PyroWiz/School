@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\WizLaptop\\School\\OOP\\Homework\\abstract class hw\\AbstractHW\\AbstractHW.csproj": {}
+    "C:\\WizLaptop\\School\\OOP\\Homework\\abstract class hw\\AbstractHW\\AbstractHW.csproj": {}
   },
   "projects": {
-    "c:\\WizLaptop\\School\\OOP\\Homework\\abstract class hw\\AbstractHW\\AbstractHW.csproj": {
+    "C:\\WizLaptop\\School\\OOP\\Homework\\abstract class hw\\AbstractHW\\AbstractHW.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\WizLaptop\\School\\OOP\\Homework\\abstract class hw\\AbstractHW\\AbstractHW.csproj",
+        "projectUniqueName": "C:\\WizLaptop\\School\\OOP\\Homework\\abstract class hw\\AbstractHW\\AbstractHW.csproj",
         "projectName": "AbstractHW",
-        "projectPath": "c:\\WizLaptop\\School\\OOP\\Homework\\abstract class hw\\AbstractHW\\AbstractHW.csproj",
+        "projectPath": "C:\\WizLaptop\\School\\OOP\\Homework\\abstract class hw\\AbstractHW\\AbstractHW.csproj",
         "packagesPath": "C:\\Users\\idoka\\.nuget\\packages\\",
-        "outputPath": "c:\\WizLaptop\\School\\OOP\\Homework\\abstract class hw\\AbstractHW\\obj\\",
+        "outputPath": "C:\\WizLaptop\\School\\OOP\\Homework\\abstract class hw\\AbstractHW\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
