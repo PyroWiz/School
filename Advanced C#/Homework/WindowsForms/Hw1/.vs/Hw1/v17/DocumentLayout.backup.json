@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\WizLaptop\\School\\Advanced C#\\Homework\\WindowsForms\\Hw1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C38BF7D8-D07D-453D-8124-868358497A6B}|Hw1.csproj|C:\\WizLaptop\\School\\Advanced C#\\Homework\\WindowsForms\\Hw1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C38BF7D8-D07D-453D-8124-868358497A6B}|Hw1.csproj|c:\\wizlaptop\\school\\advanced c#\\homework\\windowsforms\\hw1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C38BF7D8-D07D-453D-8124-868358497A6B}|Hw1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C38BF7D8-D07D-453D-8124-868358497A6B}|Hw1.csproj|c:\\wizlaptop\\school\\advanced c#\\homework\\windowsforms\\hw1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{C38BF7D8-D07D-453D-8124-868358497A6B}|Hw1.csproj|C:\\WizLaptop\\School\\Advanced C#\\Homework\\WindowsForms\\Hw1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C38BF7D8-D07D-453D-8124-868358497A6B}|Hw1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\WizLaptop\\School\\Advanced C#\\Homework\\WindowsForms\\Hw1\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAgwDEAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAA3wDEAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-27T11:40:01.907Z",
               "EditorCaption": ""

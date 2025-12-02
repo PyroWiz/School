@@ -8,3 +8,29 @@ C:\WizLaptop\School\Advanced C#\Homework\WindowsForms\Hw2 Email\obj\Debug\Hw2 Em
 C:\WizLaptop\School\Advanced C#\Homework\WindowsForms\Hw2 Email\obj\Debug\Hw2 Email.csproj.CoreCompileInputs.cache
 C:\WizLaptop\School\Advanced C#\Homework\WindowsForms\Hw2 Email\obj\Debug\Hw2 Email.exe
 C:\WizLaptop\School\Advanced C#\Homework\WindowsForms\Hw2 Email\obj\Debug\Hw2 Email.pdb
+C:\WizLaptop\School\Advanced C#\Homework\WindowsForms\Hw2 Email\obj\Debug\Hw2 Email.exe.config
+C:\WizLaptop\School\Advanced C#\Homework\WindowsForms\Hw2 Email\obj\Debug\Hw2_Email.Form2.resources
+C:\WizLaptop\School\Advanced C#\Homework\WindowsForms\Hw2 Email\bin\Debug\BouncyCastle.Cryptography.dll
+C:\WizLaptop\School\Advanced C#\Homework\WindowsForms\Hw2 Email\bin\Debug\MailKit.dll
+C:\WizLaptop\School\Advanced C#\Homework\WindowsForms\Hw2 Email\bin\Debug\MimeKit.dll
+C:\WizLaptop\School\Advanced C#\Homework\WindowsForms\Hw2 Email\bin\Debug\System.Buffers.dll
+C:\WizLaptop\School\Advanced C#\Homework\WindowsForms\Hw2 Email\bin\Debug\System.Formats.Asn1.dll
+C:\WizLaptop\School\Advanced C#\Homework\WindowsForms\Hw2 Email\bin\Debug\System.Memory.dll
+C:\WizLaptop\School\Advanced C#\Homework\WindowsForms\Hw2 Email\bin\Debug\System.Numerics.Vectors.dll
+C:\WizLaptop\School\Advanced C#\Homework\WindowsForms\Hw2 Email\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\WizLaptop\School\Advanced C#\Homework\WindowsForms\Hw2 Email\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\WizLaptop\School\Advanced C#\Homework\WindowsForms\Hw2 Email\bin\Debug\System.ValueTuple.dll
+C:\WizLaptop\School\Advanced C#\Homework\WindowsForms\Hw2 Email\bin\Debug\BouncyCastle.Cryptography.xml
+C:\WizLaptop\School\Advanced C#\Homework\WindowsForms\Hw2 Email\bin\Debug\MailKit.pdb
+C:\WizLaptop\School\Advanced C#\Homework\WindowsForms\Hw2 Email\bin\Debug\MailKit.xml
+C:\WizLaptop\School\Advanced C#\Homework\WindowsForms\Hw2 Email\bin\Debug\MailKit.dll.config
+C:\WizLaptop\School\Advanced C#\Homework\WindowsForms\Hw2 Email\bin\Debug\MimeKit.pdb
+C:\WizLaptop\School\Advanced C#\Homework\WindowsForms\Hw2 Email\bin\Debug\MimeKit.xml
+C:\WizLaptop\School\Advanced C#\Homework\WindowsForms\Hw2 Email\bin\Debug\System.Buffers.xml
+C:\WizLaptop\School\Advanced C#\Homework\WindowsForms\Hw2 Email\bin\Debug\System.Formats.Asn1.xml
+C:\WizLaptop\School\Advanced C#\Homework\WindowsForms\Hw2 Email\bin\Debug\System.Memory.xml
+C:\WizLaptop\School\Advanced C#\Homework\WindowsForms\Hw2 Email\bin\Debug\System.Numerics.Vectors.xml
+C:\WizLaptop\School\Advanced C#\Homework\WindowsForms\Hw2 Email\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\WizLaptop\School\Advanced C#\Homework\WindowsForms\Hw2 Email\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\WizLaptop\School\Advanced C#\Homework\WindowsForms\Hw2 Email\bin\Debug\System.ValueTuple.xml
+C:\WizLaptop\School\Advanced C#\Homework\WindowsForms\Hw2 Email\obj\Debug\Hw2 Email.csproj.Up2Date

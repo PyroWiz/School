@@ -10,6 +10,8 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Xml.Linq;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement.Tab;
+using MimeKit;
+using MailKit.Net.Smtp;
 
 namespace Hw2_Email
 {
@@ -40,7 +42,7 @@ namespace Hw2_Email
             string subject = Subject.Text;
             string body = MailBody.Text;
 
-            Form f = new Form(string subject, string body);
+            Form2 f = new Form2(subject, body);
             f.Show();
         }
 
