@@ -27,3 +27,4 @@ C:\WizPC\School\OOP\Homework\abstract class hw\AbstractHW\obj\Debug\net8.0\refin
 C:\WizPC\School\OOP\Homework\abstract class hw\AbstractHW\obj\Debug\net8.0\AbstractHW.pdb
 C:\WizPC\School\OOP\Homework\abstract class hw\AbstractHW\obj\Debug\net8.0\AbstractHW.genruntimeconfig.cache
 C:\WizPC\School\OOP\Homework\abstract class hw\AbstractHW\obj\Debug\net8.0\ref\AbstractHW.dll
+c:\WizLaptop\School\OOP\Homework\abstract class hw\AbstractHW\obj\Debug\net8.0\AbstractHW.sourcelink.json
