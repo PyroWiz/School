@@ -1,0 +1,55 @@
+@startuml
+
+abstract class Employee
+{
+  - id : string
+  - name : string
+  -  pay - double
+
+}
+class Waiter
+class Chef
+class Manager
+
+abstract class Menu
+class MenuCategory
+{
+  - CategoryName : string
+}
+class MenuItem
+{
+  -ItemName  : string
+}
+
+class Order
+{
+  -details:OrderItem[]
+}
+class OrderItem
+{
+
+}
+
+class Table
+{
+  -status : bool
+}
+
+
+interface PaymentMethod
+class Cash
+class CreditCard
+
+PaymentMethod <|.. Cash
+PaymentMethod <|.. CreditCard
+
+Menu --> MenuCategory
+MenuCategory --> MenuItem
+
+Order *-- OrderItem
+
+Employee <|-- Waiter
+Employee <|-- Chef
+Employee <|-- Manager
+
+@enduml
