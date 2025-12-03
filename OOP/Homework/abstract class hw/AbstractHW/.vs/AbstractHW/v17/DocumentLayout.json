@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\WizLaptop\\School\\OOP\\Homework\\abstract class hw\\AbstractHW\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C98A280-8BC2-4E1B-B308-9C105C3E9A26}|AbstractHW.csproj|c:\\wizlaptop\\school\\oop\\homework\\abstract class hw\\abstracthw\\sphere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C98A280-8BC2-4E1B-B308-9C105C3E9A26}|AbstractHW.csproj|solutionrelative:sphere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6C98A280-8BC2-4E1B-B308-9C105C3E9A26}|AbstractHW.csproj|c:\\wizlaptop\\school\\oop\\homework\\abstract class hw\\abstracthw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C98A280-8BC2-4E1B-B308-9C105C3E9A26}|AbstractHW.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,16 +11,20 @@
       "RelativeMoniker": "D:0:0:{6C98A280-8BC2-4E1B-B308-9C105C3E9A26}|AbstractHW.csproj|solutionrelative:point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{6C98A280-8BC2-4E1B-B308-9C105C3E9A26}|AbstractHW.csproj|c:\\wizlaptop\\school\\oop\\homework\\abstract class hw\\abstracthw\\sphere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C98A280-8BC2-4E1B-B308-9C105C3E9A26}|AbstractHW.csproj|solutionrelative:sphere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C98A280-8BC2-4E1B-B308-9C105C3E9A26}|AbstractHW.csproj|c:\\wizlaptop\\school\\oop\\homework\\abstract class hw\\abstracthw\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C98A280-8BC2-4E1B-B308-9C105C3E9A26}|AbstractHW.csproj|solutionrelative:rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6C98A280-8BC2-4E1B-B308-9C105C3E9A26}|AbstractHW.csproj|c:\\wizlaptop\\school\\oop\\homework\\abstract class hw\\abstracthw\\cylinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C98A280-8BC2-4E1B-B308-9C105C3E9A26}|AbstractHW.csproj|solutionrelative:cylinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6C98A280-8BC2-4E1B-B308-9C105C3E9A26}|AbstractHW.csproj|c:\\wizlaptop\\school\\oop\\homework\\abstract class hw\\abstracthw\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C98A280-8BC2-4E1B-B308-9C105C3E9A26}|AbstractHW.csproj|solutionrelative:circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C98A280-8BC2-4E1B-B308-9C105C3E9A26}|AbstractHW.csproj|c:\\wizlaptop\\school\\oop\\homework\\abstract class hw\\abstracthw\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C98A280-8BC2-4E1B-B308-9C105C3E9A26}|AbstractHW.csproj|solutionrelative:rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6C98A280-8BC2-4E1B-B308-9C105C3E9A26}|AbstractHW.csproj|c:\\wizlaptop\\school\\oop\\homework\\abstract class hw\\abstracthw\\interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,17 +42,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\WizLaptop\\School\\OOP\\Homework\\abstract class hw\\AbstractHW\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\WizLaptop\\School\\OOP\\Homework\\abstract class hw\\AbstractHW\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAQwGAAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-19T12:26:26.39Z",
               "IsPinned": true,
@@ -68,61 +68,65 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Point.cs",
               "DocumentMoniker": "C:\\WizLaptop\\School\\OOP\\Homework\\abstract class hw\\AbstractHW\\Point.cs",
               "RelativeDocumentMoniker": "Point.cs",
               "ToolTip": "C:\\WizLaptop\\School\\OOP\\Homework\\abstract class hw\\AbstractHW\\Point.cs",
               "RelativeToolTip": "Point.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T07:29:31.128Z"
+              "WhenOpened": "2025-11-29T07:29:31.128Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Circle.cs",
               "DocumentMoniker": "C:\\WizLaptop\\School\\OOP\\Homework\\abstract class hw\\AbstractHW\\Circle.cs",
               "RelativeDocumentMoniker": "Circle.cs",
               "ToolTip": "C:\\WizLaptop\\School\\OOP\\Homework\\abstract class hw\\AbstractHW\\Circle.cs",
               "RelativeToolTip": "Circle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAUwAsAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAsAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T12:30:42.883Z"
+              "WhenOpened": "2025-11-19T12:30:42.883Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Cylinder.cs",
               "DocumentMoniker": "C:\\WizLaptop\\School\\OOP\\Homework\\abstract class hw\\AbstractHW\\Cylinder.cs",
               "RelativeDocumentMoniker": "Cylinder.cs",
               "ToolTip": "C:\\WizLaptop\\School\\OOP\\Homework\\abstract class hw\\AbstractHW\\Cylinder.cs",
               "RelativeToolTip": "Cylinder.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAACqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T12:30:54.921Z"
+              "WhenOpened": "2025-11-19T12:30:54.921Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Rectangle.cs",
               "DocumentMoniker": "C:\\WizLaptop\\School\\OOP\\Homework\\abstract class hw\\AbstractHW\\Rectangle.cs",
               "RelativeDocumentMoniker": "Rectangle.cs",
               "ToolTip": "C:\\WizLaptop\\School\\OOP\\Homework\\abstract class hw\\AbstractHW\\Rectangle.cs",
               "RelativeToolTip": "Rectangle.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAUwA0AAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T12:30:34.584Z"
+              "WhenOpened": "2025-11-19T12:30:34.584Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Sphere.cs",
               "DocumentMoniker": "C:\\WizLaptop\\School\\OOP\\Homework\\abstract class hw\\AbstractHW\\Sphere.cs",
               "RelativeDocumentMoniker": "Sphere.cs",
               "ToolTip": "C:\\WizLaptop\\School\\OOP\\Homework\\abstract class hw\\AbstractHW\\Sphere.cs",
               "RelativeToolTip": "Sphere.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-29T07:05:34.365Z",
               "EditorCaption": ""
@@ -135,9 +139,10 @@
               "RelativeDocumentMoniker": "Shape.cs",
               "ToolTip": "C:\\WizLaptop\\School\\OOP\\Homework\\abstract class hw\\AbstractHW\\Shape.cs",
               "RelativeToolTip": "Shape.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAABRwBYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T12:32:01.722Z"
+              "WhenOpened": "2025-11-19T12:32:01.722Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -147,9 +152,10 @@
               "RelativeDocumentMoniker": "Interface1.cs",
               "ToolTip": "C:\\WizLaptop\\School\\OOP\\Homework\\abstract class hw\\AbstractHW\\Interface1.cs",
               "RelativeToolTip": "Interface1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T07:03:32.96Z"
+              "WhenOpened": "2025-11-29T07:03:32.96Z",
+              "EditorCaption": ""
             }
           ]
         },

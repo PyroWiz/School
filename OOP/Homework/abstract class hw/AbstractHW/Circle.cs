@@ -3,17 +3,17 @@
     internal class Circle : Shape
     {
         double radius;
-        Point p;
+        Point<double> p;
 
         #region Getters and Setters
         public double GetRadius() { return radius; }
         public void SetRadius(double value) { radius = value; }
 
-        public Point GetP() { return p; }
+        public Point<double> GetP() { return p; }
 
         #endregion
 
-        public Circle(double radius, Point p, string name)
+        public Circle(double radius, Point<double> p, string name)
         {
             SetRadius(radius);
             SetName(name);
@@ -23,7 +23,7 @@
         {
             SetRadius(radius);
             SetName(name);
-            p = new Point(x, y);
+            p = new Point<double>(x, y);
         }
 
         public override double GetArea() { return System.Math.PI * radius * radius; }

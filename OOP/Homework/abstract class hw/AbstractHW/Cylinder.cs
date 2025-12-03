@@ -11,7 +11,7 @@
 
         #endregion
 
-        public Cylinder(double height, double radius, Point p, string name) : base(radius, p, name)
+        public Cylinder(double height, double radius, Point<double> p, string name) : base(radius, p, name)
         {
             SetHeight(height);
         }

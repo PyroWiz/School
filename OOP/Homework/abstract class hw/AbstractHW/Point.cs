@@ -3,35 +3,42 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Numerics;
 
 namespace AbstractHW
 {
-    internal class Point
+    internal class Point<T> where T : INumber<T>
     {
-        int x, y;
+        T x, y;
 
-        public Point(int x, int y)
+        public Point(T x, T y)
         {
+            if (x is string || y is string)
+            {
+                Console.WriteLine("bad input");
+                return;
+            }
+
             SetX(x); SetY(y);
         }
 
         #region GettersAndSetters
-        public int GetX()
+        public T GetX()
         {
             return x;
         }
 
-        public void SetX(int value)
+        public void SetX(T value)
         {
             x = value;
         }
 
-        public int GetY()
+        public T GetY()
         {
             return y;
         }
 
-        public void SetY(int value)
+        public void SetY(T value)
         {
             y = value;
         }

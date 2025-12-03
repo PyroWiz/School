@@ -22,7 +22,7 @@ namespace nine
                 {
                     Console.WriteLine(arr[i]);
                     i++;
-                    j++;
+                    j++;    
                 }
                 if (arr[i] < arr2[j]) i++;
 

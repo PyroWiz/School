@@ -1,10 +1,11 @@
 import './App.css'
+import Person from './Person'
 
 function App() {
 
   return (
     <div>
-      Awa
+      <Person/>
     </div>
   )
 }

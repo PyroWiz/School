@@ -12,7 +12,7 @@ namespace AbstractHW
         {
 
         }
-        public Sphere(double radius, Point p, string name) : base(radius, p, name)
+        public Sphere(double radius, Point<double> p, string name) : base(radius, p, name)
         {
 
         }
