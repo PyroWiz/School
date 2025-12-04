@@ -78,7 +78,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             return;
         }
 
-        double numOne = Double.parseDouble(oneText);
+
         double numTwo = Double.parseDouble(twoText);
         int selectedRadio = radioGroup.getCheckedRadioButtonId();
 
