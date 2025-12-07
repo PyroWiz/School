@@ -1,0 +1,8 @@
+C:\WizPC\School\DataStructures\Hw\Linked list\LinkedList\obj\Debug\LinkedList.csproj.AssemblyReference.cache
+C:\WizPC\School\DataStructures\Hw\Linked list\LinkedList\obj\Debug\LinkedList.csproj.CoreCompileInputs.cache
+C:\WizPC\School\DataStructures\Hw\Linked list\LinkedList\bin\Debug\LinkedList.exe.config
+C:\WizPC\School\DataStructures\Hw\Linked list\LinkedList\bin\Debug\LinkedList.exe
+C:\WizPC\School\DataStructures\Hw\Linked list\LinkedList\bin\Debug\LinkedList.pdb
+C:\WizPC\School\DataStructures\Hw\Linked list\LinkedList\obj\Debug\LinkedList.exe
+C:\WizPC\School\DataStructures\Hw\Linked list\LinkedList\obj\Debug\LinkedList.pdb
+C:\WizPC\School\DataStructures\Hw\Linked list\LinkedList\obj\Debug\LinkedList.exe.config
