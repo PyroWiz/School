@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\WizLaptop\\School\\DataStructures\\Hw\\recursion1\\",
+  "WorkspaceRootPath": "G:\\Other computers\\My Laptop\\School\\DataStructures\\Hw\\recursion1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FFDFC8B5-276C-4E67-BB52-F9A115353FC3}|recursion1.csproj|c:\\wizlaptop\\school\\datastructures\\hw\\recursion1\\ex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FFDFC8B5-276C-4E67-BB52-F9A115353FC3}|recursion1.csproj|g:\\other computers\\my laptop\\school\\datastructures\\hw\\recursion1\\ex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FFDFC8B5-276C-4E67-BB52-F9A115353FC3}|recursion1.csproj|solutionrelative:ex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FFDFC8B5-276C-4E67-BB52-F9A115353FC3}|recursion1.csproj|c:\\wizlaptop\\school\\datastructures\\hw\\recursion1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FFDFC8B5-276C-4E67-BB52-F9A115353FC3}|recursion1.csproj|g:\\other computers\\my laptop\\school\\datastructures\\hw\\recursion1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FFDFC8B5-276C-4E67-BB52-F9A115353FC3}|recursion1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,15 +24,14 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\WizLaptop\\School\\DataStructures\\Hw\\recursion1\\Program.cs",
+              "DocumentMoniker": "G:\\Other computers\\My Laptop\\School\\DataStructures\\Hw\\recursion1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\WizLaptop\\School\\DataStructures\\Hw\\recursion1\\Program.cs",
+              "ToolTip": "G:\\Other computers\\My Laptop\\School\\DataStructures\\Hw\\recursion1\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-12T13:24:53.658Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -46,11 +45,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Ex1.cs",
-              "DocumentMoniker": "C:\\WizLaptop\\School\\DataStructures\\Hw\\recursion1\\Ex1.cs",
+              "DocumentMoniker": "G:\\Other computers\\My Laptop\\School\\DataStructures\\Hw\\recursion1\\Ex1.cs",
               "RelativeDocumentMoniker": "Ex1.cs",
-              "ToolTip": "C:\\WizLaptop\\School\\DataStructures\\Hw\\recursion1\\Ex1.cs",
+              "ToolTip": "G:\\Other computers\\My Laptop\\School\\DataStructures\\Hw\\recursion1\\Ex1.cs",
               "RelativeToolTip": "Ex1.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAgwE0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-12T13:31:14.156Z",
               "EditorCaption": ""
