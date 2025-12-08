@@ -35,6 +35,8 @@
             this.FromLabel = new System.Windows.Forms.Label();
             this.ToLabel = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
+            this.PassBox = new System.Windows.Forms.TextBox();
+            this.Pass = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // Continue
@@ -102,11 +104,30 @@
             this.label1.Text = "label1";
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
+            // PassBox
+            // 
+            this.PassBox.Location = new System.Drawing.Point(268, 219);
+            this.PassBox.Name = "PassBox";
+            this.PassBox.Size = new System.Drawing.Size(280, 22);
+            this.PassBox.TabIndex = 8;
+            this.PassBox.TextChanged += new System.EventHandler(this.PassBox_TextChanged);
+            // 
+            // Pass
+            // 
+            this.Pass.AutoSize = true;
+            this.Pass.Location = new System.Drawing.Point(189, 224);
+            this.Pass.Name = "Pass";
+            this.Pass.Size = new System.Drawing.Size(38, 16);
+            this.Pass.TabIndex = 9;
+            this.Pass.Text = "Pass";
+            // 
             // Form2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.Pass);
+            this.Controls.Add(this.PassBox);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.ToLabel);
             this.Controls.Add(this.FromLabel);
@@ -131,5 +152,7 @@
         private System.Windows.Forms.Label FromLabel;
         private System.Windows.Forms.Label ToLabel;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.TextBox PassBox;
+        private System.Windows.Forms.Label Pass;
     }
 }

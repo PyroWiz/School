@@ -86,6 +86,11 @@ namespace Hw2_Email
 
         }
 
+        private void PassBox_TextChanged(object sender, EventArgs e)
+        {
+            PassBox.PasswordChar = '*';
+        }
+
         private void Send_Click(object sender, EventArgs e)
         {
             if (!Tools.EmailFormatCheck(FromBox.Text, ToBox.Text))
@@ -95,31 +100,28 @@ namespace Hw2_Email
             }
             SetFrom(FromBox.Text);
             SetTo(ToBox.Text);
-            for (int i = 0; i < 10; i++) //DDOsing or
+
+            MimeMessage message = new MimeMessage();
+            message.From.Add(new MailboxAddress(GetFrom(), GetFrom()));
+            message.To.Add(new MailboxAddress(GetTo(), GetTo()));
+            message.Subject = GetSubject();
+            message.Body = new TextPart("plain")
             {
-                MimeMessage message = new MimeMessage();
-                message.From.Add(new MailboxAddress(GetFrom(), GetFrom()));
-                message.To.Add(new MailboxAddress(GetTo(), GetTo()));
-                message.Subject = GetSubject();
-                message.Body = new TextPart("plain")
-                {
-                    Text = GetBody()
-                };
+                Text = GetBody()
+            };
 
-                using (SmtpClient client = new SmtpClient())
-                {
-                    // Connect to Gmail (587 is for STARTTLS)
-                    client.Connect("smtp.gmail.com", 587, false);
+            using (SmtpClient client = new SmtpClient())
+            {
+                client.Connect("smtp.gmail.com", 587, false);
 
-                    // Authenticate using the App Password mentioned in your image
-                    client.Authenticate(GetFrom(), "vmgx jsuj gnbm nzbo");
+                client.Authenticate(GetFrom(), PassBox.Text);
 
-                    client.Send(message);
-                    client.Disconnect(true);
-                }
+                client.Send(message);
+                client.Disconnect(true);
             }
-
         }
+
+
 
         private void label1_Click(object sender, EventArgs e)
         {
