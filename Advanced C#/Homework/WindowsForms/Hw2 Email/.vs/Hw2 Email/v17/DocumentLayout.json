@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{DD41B0C1-87C4-459D-9870-EBAE1B352EE5}|Hw2 Email.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD41B0C1-87C4-459D-9870-EBAE1B352EE5}|Hw2 Email.csproj|C:\\WizLaptop\\School\\Advanced C#\\Homework\\WindowsForms\\Hw2 Email\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DD41B0C1-87C4-459D-9870-EBAE1B352EE5}|Hw2 Email.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DD41B0C1-87C4-459D-9870-EBAE1B352EE5}|Hw2 Email.csproj|C:\\WizLaptop\\School\\Advanced C#\\Homework\\WindowsForms\\Hw2 Email\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DD41B0C1-87C4-459D-9870-EBAE1B352EE5}|Hw2 Email.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -19,8 +15,12 @@
       "RelativeMoniker": "D:0:0:{DD41B0C1-87C4-459D-9870-EBAE1B352EE5}|Hw2 Email.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD41B0C1-87C4-459D-9870-EBAE1B352EE5}|Hw2 Email.csproj|c:\\wizlaptop\\school\\advanced c#\\homework\\windowsforms\\hw2 email\\tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DD41B0C1-87C4-459D-9870-EBAE1B352EE5}|Hw2 Email.csproj|C:\\WizLaptop\\School\\Advanced C#\\Homework\\WindowsForms\\Hw2 Email\\tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD41B0C1-87C4-459D-9870-EBAE1B352EE5}|Hw2 Email.csproj|solutionrelative:tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD41B0C1-87C4-459D-9870-EBAE1B352EE5}|Hw2 Email.csproj|C:\\WizLaptop\\School\\Advanced C#\\Homework\\WindowsForms\\Hw2 Email\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD41B0C1-87C4-459D-9870-EBAE1B352EE5}|Hw2 Email.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +42,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Tools.cs",
               "DocumentMoniker": "C:\\WizLaptop\\School\\Advanced C#\\Homework\\WindowsForms\\Hw2 Email\\Tools.cs",
               "RelativeDocumentMoniker": "Tools.cs",
@@ -55,13 +55,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\WizLaptop\\School\\Advanced C#\\Homework\\WindowsForms\\Hw2 Email\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\WizLaptop\\School\\Advanced C#\\Homework\\WindowsForms\\Hw2 Email\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA3wA0AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-01T14:20:46.68Z",
               "EditorCaption": ""
@@ -74,14 +74,14 @@
               "RelativeDocumentMoniker": "Form2.cs",
               "ToolTip": "C:\\WizLaptop\\School\\Advanced C#\\Homework\\WindowsForms\\Hw2 Email\\Form2.cs",
               "RelativeToolTip": "Form2.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAuwB4AAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAkwGkAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-02T06:50:57.06Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\WizLaptop\\School\\Advanced C#\\Homework\\WindowsForms\\Hw2 Email\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -93,15 +93,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Form2.cs [Design]",
               "DocumentMoniker": "C:\\WizLaptop\\School\\Advanced C#\\Homework\\WindowsForms\\Hw2 Email\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
               "ToolTip": "C:\\WizLaptop\\School\\Advanced C#\\Homework\\WindowsForms\\Hw2 Email\\Form2.cs [Design]",
               "RelativeToolTip": "Form2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T14:45:37.376Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-12-01T14:45:37.376Z"
             }
           ]
         },
