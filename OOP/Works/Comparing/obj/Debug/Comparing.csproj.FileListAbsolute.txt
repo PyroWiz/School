@@ -1,0 +1,8 @@
+C:\WizLaptop\School\OOP\Works\Comparing\bin\Debug\Comparing.exe.config
+C:\WizLaptop\School\OOP\Works\Comparing\bin\Debug\Comparing.exe
+C:\WizLaptop\School\OOP\Works\Comparing\bin\Debug\Comparing.pdb
+C:\WizLaptop\School\OOP\Works\Comparing\obj\Debug\Comparing.csproj.AssemblyReference.cache
+C:\WizLaptop\School\OOP\Works\Comparing\obj\Debug\Comparing.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\OOP\Works\Comparing\obj\Debug\Comparing.exe
+C:\WizLaptop\School\OOP\Works\Comparing\obj\Debug\Comparing.pdb
+C:\WizLaptop\School\OOP\Works\Comparing\obj\Debug\Comparing.exe.config
