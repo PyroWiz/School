@@ -4,6 +4,6 @@ def opposite(num):
         return
     print(int(num % 10))
     return opposite(num / 10)
-  
-  
-opposite(123)  
+
+
+opposite(123)
