@@ -1,0 +1,52 @@
+@startuml
+actor "Trainee" as user
+participant "UI: BookingScreen" as ui
+participant "System: BookingController" as sys
+participant "DB: TrainerSchedule" as db_sched
+participant "DB: UserProfile" as db_user
+participant "EmailService" as mail
+
+user -> ui : Click "Book Workout" (Date, Time)
+activate ui
+ui -> sys : checkAvailability(TrainerID, Date)
+activate sys
+
+sys -> db_sched : isSlotFree(TrainerID, Date)
+activate db_sched
+return isFree
+
+alt Trainer is Busy
+    sys --> ui : Error: "Trainer Busy" (Suggest other slots)
+    ui --> user : Show Error
+else Trainer is Free
+    sys -> db_user : getBalance(TraineeID)
+    activate db_user
+    return balance
+
+    alt Balance > 0
+        sys -> db_sched : bookSlot(TrainerID, Date)
+        activate db_sched
+        return Success
+        
+        sys -> db_user : decreaseBalance(1)
+        activate db_user
+        return NewBalance
+
+        sys -> mail : sendConfirmation(Trainee, Trainer)
+        activate mail
+        return Sent
+
+        sys --> ui : Booking Confirmed
+        ui --> user : Show Success Message
+    else Balance == 0
+        sys --> ui : Error: "No Balance"
+        ui --> user : Redirect to "Purchase Ticket"
+        
+        opt User decides to buy
+            user -> ui : Click "Buy Ticket"
+        end
+    end
+end
+deactivate sys
+deactivate ui
+@enduml

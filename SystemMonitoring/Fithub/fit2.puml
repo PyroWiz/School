@@ -1,0 +1,67 @@
+@startuml
+
+' Abstract Parent Class
+abstract class User {
+    +userID: int
+    +name: String
+    +email: String
+    +password: String
+    +createProfile(): void
+}
+
+' Child Classes
+class Trainee {
+    +height: float
+    +weight: float
+    +goals: String
+    +balance: int
+    +bookWorkout(): void
+    +purchaseSubscription(): void
+}
+
+class Trainer {
+    +certifications: List<String>
+    +hourlyRate: float
+    +createWorkoutPlan(): void
+    +assignPlan(Trainee): void
+}
+
+' Entities
+class Subscription {
+    +subID: int
+    +type: Enum {Basic, Gold, Premium}
+    +expiryDate: Date
+    +isValid(): boolean
+}
+
+class WorkoutPlan {
+    +planID: int
+    +name: String
+}
+
+class Exercise {
+    +name: String
+    +repetitions: int
+    +videoLink: String
+}
+
+class TrainingSession {
+    +sessionID: int
+    +date: Date
+    +time: Time
+    +status: String
+}
+
+' Relationships
+User <|-- Trainee
+User <|-- Trainer
+
+Trainee "1" *-- "0..1" Subscription : has >
+Trainer "1" -- "0..*" TrainingSession : conducts >
+Trainee "1" -- "0..*" TrainingSession : attends >
+
+Trainer "1" -- "0..*" WorkoutPlan : creates >
+Trainee "0..*" -- "0..1" WorkoutPlan : assigned to >
+WorkoutPlan "1" *-- "1..*" Exercise : composed of >
+
+@enduml

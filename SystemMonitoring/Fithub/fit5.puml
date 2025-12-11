@@ -1,0 +1,23 @@
+@startuml
+actor "System Timer (02:00)" as timer
+participant "SubscriptionJob" as job
+database "Database" as db
+participant "PushNotificationService" as push
+
+timer -> job : startDailyCheck()
+activate job
+
+job -> db : getExpiringTomorrow(date = Now + 24h)
+activate db
+return List<User>
+
+loop For each User in List
+    job -> push : sendPush(User.DeviceID, "Renew Subscription")
+    activate push
+    push --> job : Notification Sent
+    deactivate push
+end
+
+job --> timer : Job Finished
+deactivate job
+@enduml

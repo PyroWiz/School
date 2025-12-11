@@ -1,0 +1,50 @@
+@startuml
+left to right direction
+skinparam packageStyle rectangle
+
+actor "Trainee (מתאמן)" as t
+actor "Trainer (מאמן)" as tr
+actor "System Timer (Job)" as timer
+actor "CreditGuard" as cg <<External System>>
+actor "Push Service" as push <<External System>>
+
+rectangle "FitHub System" {
+    usecase "Create Profile" as UC1
+    usecase "Search & Filter Trainers" as UC2
+    usecase "View Trainer Profile" as UC3
+    usecase "Book Workout" as UC4
+    usecase "Purchase Subscription" as UC5
+    usecase "Create Workout Plan" as UC6
+    usecase "Assign Plan to Trainee" as UC7
+    usecase "Daily Subscription Check" as UC8
+    usecase "Send Renewal Alert" as UC9
+    usecase "Check Balance" as UC10
+}
+
+' Trainee relationships
+t -- UC1
+t -- UC2
+t -- UC3
+t -- UC4
+t -- UC5
+
+' Trainer relationships
+tr -- UC1
+tr -- UC6
+tr -- UC7
+
+' System relationships
+timer -- UC8
+
+' Includes and Extends
+UC5 ..> cg : <<include>>
+UC4 ..> UC10 : <<include>>
+UC8 ..> UC9 : <<include>>
+UC9 ..> push : <<include>>
+
+note right of UC4
+  Includes checking balance.
+  If balance is 0, extends to purchase.
+end note
+
+@enduml

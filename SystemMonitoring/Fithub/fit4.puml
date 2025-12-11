@@ -1,0 +1,45 @@
+@startuml
+actor "Trainee" as user
+participant "UI: PaymentScreen" as ui
+participant "System: PaymentController" as sys
+participant "External: CreditGuard" as cg
+database "Database" as db
+participant "EmailService" as mail
+
+user -> ui : Select Subscription (Basic/Gold/Premium)
+activate ui
+user -> ui : Enter Credit Details & Click Pay
+ui -> sys : processPayment(details, amount)
+activate sys
+
+sys -> cg : sendTransaction(secureDetails)
+activate cg
+note right of cg: Validate Credit Card
+
+alt Payment Approved
+    cg --> sys : Success + Token
+    
+    sys -> db : saveSubscription(UserID, Type, Token)
+    activate db
+    db --> sys : Saved
+    deactivate db
+    
+    sys -> mail : sendReceipt(UserID)
+    activate mail
+    mail --> sys : Sent
+    deactivate mail
+
+    sys --> ui : Purchase Successful
+    ui --> user : Display "Subscription Active"
+
+else Payment Failed
+    cg --> sys : Failure + ErrorCode
+    deactivate cg
+
+    sys --> ui : Show Error Message
+    ui --> user : Display "Payment Failed"
+end
+
+deactivate sys
+deactivate ui
+@enduml
