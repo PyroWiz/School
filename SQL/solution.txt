@@ -1,0 +1,89 @@
+USE Case_Family_Status
+GO
+
+[cite_start]-- 1. Create View V_driver_family_status [cite: 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+IF OBJECT_ID('V_driver_family_status', 'V') IS NOT NULL
+    DROP VIEW V_driver_family_status
+GO
+
+CREATE VIEW V_driver_family_status
+AS
+SELECT  driver.driver_first_name, 
+        driver.driver_last_name, 
+        gender.gender_name,
+        family_status.family_status_name
+FROM    driver 
+INNER JOIN gender ON driver.driver_gender = gender.gender_code
+INNER JOIN family_status ON driver.driver_family_status = family_status.family_status_code
+GO
+
+[cite_start]-- 2. Create View V_driver_family_status_full [cite: 14]
+IF OBJECT_ID('V_driver_family_status_full', 'V') IS NOT NULL
+    DROP VIEW V_driver_family_status_full
+GO
+
+CREATE VIEW V_driver_family_status_full
+AS
+SELECT 
+    driver_first_name, 
+    driver_last_name,
+    CASE 
+        WHEN gender_name = 'זכר' AND family_status_name = 'ר' THEN 'רווק'
+        WHEN gender_name = 'נקבה' AND family_status_name = 'ר' THEN 'רווקה'
+        WHEN gender_name = 'זכר' AND family_status_name = 'נ' THEN 'נשוי'
+        WHEN gender_name = 'נקבה' AND family_status_name = 'נ' THEN 'נשואה'
+        WHEN gender_name = 'זכר' AND family_status_name = 'ג' THEN 'גרוש'
+        WHEN gender_name = 'נקבה' AND family_status_name = 'ג' THEN 'גרושה'
+        WHEN gender_name = 'זכר' AND family_status_name = 'פ' THEN 'פרוד'
+        WHEN gender_name = 'נקבה' AND family_status_name = 'פ' THEN 'פרודה'
+        WHEN gender_name = 'זכר' AND family_status_name = 'א' THEN 'אלמן'
+        WHEN gender_name = 'נקבה' AND family_status_name = 'א' THEN 'אלמנה'
+        ELSE family_status_name 
+    END AS full_family_status
+FROM V_driver_family_status
+GO
+
+[cite_start]-- 3. Create Procedure P_family_status (Includes Part A and Part B) [cite: 15, 16, 17, 18, 19, 20, 21, 22]
+IF OBJECT_ID('P_family_status', 'P') IS NOT NULL
+    DROP PROCEDURE P_family_status
+GO
+
+CREATE PROCEDURE P_family_status
+    @StatusFilter NVARCHAR(20) = NULL -- Parameter for Part B (Filtering mechanism)
+AS
+BEGIN
+    -- Check if table exists, delete if so, and print message
+    IF (OBJECT_ID('dbo.Tbl_Status','U') IS NOT NULL)
+    BEGIN
+        DROP TABLE dbo.Tbl_Status
+        PRINT 'Table dbo.Tbl_Status deleted'
+    END
+
+    -- Create table
+    CREATE TABLE Tbl_Status
+    (
+        first_name NVARCHAR(25),
+        last_name NVARCHAR(25),
+        full_status NVARCHAR(25)
+    )
+
+    -- Insert data
+    INSERT INTO Tbl_Status (first_name, last_name, full_status)
+    SELECT driver_first_name, driver_last_name, full_family_status
+    FROM V_driver_family_status_full
+
+    -- Display data (Part A: Ordered, Part B: Filtered)
+    SELECT * FROM Tbl_Status
+    WHERE @StatusFilter IS NULL OR full_status = @StatusFilter
+    ORDER BY full_status ASC
+END
+GO
+
+-- Execution Examples
+-- Run without filter (Show all)
+EXEC P_family_status
+GO
+
+-- Run with filter (Show only 'נשוי')
+EXEC P_family_status @StatusFilter = 'נשוי'
+GO

@@ -17,4 +17,4 @@ def highlow():
 
 high, low = highlow()
 
-print(high,low)
+print(high, low)
