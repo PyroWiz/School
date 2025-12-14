@@ -1,14 +1,15 @@
-﻿using System;
+﻿using MailKit.Net.Smtp;
+using MimeKit;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
+using System.Configuration;
 using System.Data;
 using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using MimeKit;
-using MailKit.Net.Smtp;
 
 namespace Hw2_Email
 {
@@ -113,11 +114,33 @@ namespace Hw2_Email
             using (SmtpClient client = new SmtpClient())
             {
                 client.Connect("smtp.gmail.com", 587, false);
+                if (PassBox.Text != null)
+                {
+                    client.Authenticate(GetFrom(), PassBox.Text);
 
-                client.Authenticate(GetFrom(), PassBox.Text);
+                    client.Send(message);
+                    client.Disconnect(true);
+                }
 
-                client.Send(message);
-                client.Disconnect(true);
+                else if (!string.IsNullOrEmpty(Environment.GetEnvironmentVariable("APP_PASS")))
+                {
+                    client.Authenticate(GetFrom(), Environment.GetEnvironmentVariable("APP_PASS"));
+
+                    client.Send(message);
+                    client.Disconnect(true);
+                }
+
+                else if (!string.IsNullOrEmpty(ConfigurationManager.AppSettings["APP_PASS"]))
+                {
+                    client.Authenticate(GetFrom(), ConfigurationManager.AppSettings["APP_PASS"]);
+
+                    client.Send(message);
+                    client.Disconnect(true);
+                }
+                else
+                {
+                    MessageBox.Show("All password sources are empty", "No Password", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
             }
         }
 

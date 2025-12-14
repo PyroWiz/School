@@ -1,6 +1,6 @@
-def function1():
-    for i in range(ord("a"), ord("z")):
-        print("char:" + i + " ascii value:" + str(ord(i)))
+def function():
+    for code in range(ord("a"), ord("z") + 1):
+        print(f"char:{chr(code)} ascii value:{code}")
 
 
-function1()
+function()

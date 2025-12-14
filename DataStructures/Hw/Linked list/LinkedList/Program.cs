@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Linq;
 
 namespace LinkedList
 {
@@ -17,12 +18,10 @@ namespace LinkedList
             node1.SetNext(node2);
             node2.SetNext(node3);
 
+            AddSecondLast(node1, 22);
 
             Console.WriteLine(node1.ToString());
 
-            Adder(node1, 5);
-
-            Console.WriteLine(node1.ToString());
 
         }
 
@@ -64,7 +63,51 @@ namespace LinkedList
             }
         }
 
+        public static int NumberOfNodes<T>(Node<T> node)
+        {
+            int count = 0;
+            while (node != null)
+            {
+                count++;
+                node = node.GetNext();
+            }
+            return count;
+        }
 
+
+        public static void AddLast<T>(Node<T> node, T value)
+        {
+            if (node == null)
+            {
+                node.SetValue(value);
+            }
+
+            else
+            {
+                while (node.GetNext() != null)
+                {
+                    node = node.GetNext();
+                }
+                node.SetNext(new Node<T>(value));
+            }
+        }
+
+        public static void AddSecondLast<T>(Node<T> node, T value)
+        {
+            while (node.GetNext().GetNext() != null)
+            {
+                node = node.GetNext();
+            }
+
+            Node<T> na = node.GetNext();
+            node.SetNext(new Node<T>(value));
+            node = node.GetNext();
+            node.SetNext(na);
+
+        }
     }
+
+
 }
+
 
