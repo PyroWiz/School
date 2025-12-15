@@ -1,0 +1,8 @@
+C:\WizLaptop\School\Advanced C#\Works\List\obj\Debug\List.csproj.AssemblyReference.cache
+C:\WizLaptop\School\Advanced C#\Works\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+C:\WizLaptop\School\Advanced C#\Works\List\bin\Debug\List.exe.config
+C:\WizLaptop\School\Advanced C#\Works\List\bin\Debug\List.exe
+C:\WizLaptop\School\Advanced C#\Works\List\bin\Debug\List.pdb
+C:\WizLaptop\School\Advanced C#\Works\List\obj\Debug\List.exe
+C:\WizLaptop\School\Advanced C#\Works\List\obj\Debug\List.pdb
+C:\WizLaptop\School\Advanced C#\Works\List\obj\Debug\List.exe.config
