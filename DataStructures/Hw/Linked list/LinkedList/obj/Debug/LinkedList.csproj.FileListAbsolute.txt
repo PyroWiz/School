@@ -10,7 +10,6 @@ C:\WizLaptop\School\DataStructures\Hw\Linked list\LinkedList\bin\Debug\LinkedLis
 C:\WizLaptop\School\DataStructures\Hw\Linked list\LinkedList\bin\Debug\LinkedList.exe
 C:\WizLaptop\School\DataStructures\Hw\Linked list\LinkedList\bin\Debug\LinkedList.pdb
 C:\WizLaptop\School\DataStructures\Hw\Linked list\LinkedList\obj\Debug\LinkedList.csproj.AssemblyReference.cache
-C:\WizLaptop\School\DataStructures\Hw\Linked list\LinkedList\obj\Debug\LinkedList.exe.config
 C:\WizLaptop\School\DataStructures\Hw\Linked list\LinkedList\obj\Debug\LinkedList.csproj.CoreCompileInputs.cache
 C:\WizLaptop\School\DataStructures\Hw\Linked list\LinkedList\obj\Debug\LinkedList.exe
 C:\WizLaptop\School\DataStructures\Hw\Linked list\LinkedList\obj\Debug\LinkedList.pdb

@@ -6,17 +6,11 @@ namespace LinkedList
     {
         static void Main(string[] args)
         {
-            Node<int> node1 = new Node<int>(10);
-            Node<int> node2 = new Node<int>(20);
-            Node<int> node3 = new Node<int>(30);
+            Node<int> na = new Node<int>(1);
 
-            node1.SetNext(node2);
-            node2.SetNext(node3);
+            AddLast(na, 1);
 
-            AddSecondLast(node1, 22);
-
-            Console.WriteLine(node1.ToString());
-
+            Console.WriteLine(na);
 
         }
 
@@ -70,11 +64,13 @@ namespace LinkedList
         }
 
 
-        public static void AddLast<T>(Node<T> node, T value)
+        public static Node<T> AddLast<T>(Node<T> node, T value)
         {
             if (node == null)
             {
-                node.SetValue(value);
+                Node<T> noa = new Node<T>(value);
+                return noa;
+
             }
 
             else
@@ -84,7 +80,10 @@ namespace LinkedList
                     node = node.GetNext();
                 }
                 node.SetNext(new Node<T>(value));
+
+                return node;
             }
+
         }
 
         public static void AddSecondLast<T>(Node<T> node, T value)
@@ -99,7 +98,7 @@ namespace LinkedList
             node = node.GetNext();
             node.SetNext(na);
 
-            
+
         }
     }
 
