@@ -1,0 +1,44 @@
+@startuml
+hide empty description
+
+' Define the states based on the requirements
+state "New (נוצר)" as New
+state "Active (פעיל)" as Active
+state "Suspended (מוקפא)" as Suspended
+state "Expired (פג תוקף)" as Expired
+state "Cancelled (בוטל)" as Cancelled
+
+' Initial entry
+[*] --> New : Subscription Created
+
+' Transitions from New
+New --> Active : Payment Success
+New --> Cancelled : Payment Failed / User Abort
+
+' Transitions from Active
+Active --> Suspended : Freeze Subscription (User Action)
+Active --> Expired : End Date Reached
+Active --> Cancelled : Cancel Subscription
+
+' Transitions from Suspended
+Suspended --> Active : Unfreeze Subscription
+Suspended --> Cancelled : Cancel Subscription
+Suspended --> Expired : Max Suspension Time Reached
+
+' Final exits
+Expired --> [*]
+Cancelled --> [*]
+
+' Notes for clarity and constraints
+note right of Active
+  User has full access
+  to the system
+end note
+
+note bottom of Expired
+  Constraint: Cannot transition 
+  to 'Suspended' from here.
+  (Freezing an expired sub is impossible)
+end note
+
+@enduml
