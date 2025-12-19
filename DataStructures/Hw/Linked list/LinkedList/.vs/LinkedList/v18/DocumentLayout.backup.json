@@ -18,12 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{c1c74746-265a-4718-a5ab-63963d38e8bb}"
@@ -40,7 +36,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\WizLaptop\\School\\DataStructures\\Hw\\Linked list\\LinkedList\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAA3wA4AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-17T12:46:12.944Z",
               "EditorCaption": ""
@@ -53,9 +49,10 @@
               "RelativeDocumentMoniker": "Node.cs",
               "ToolTip": "C:\\WizLaptop\\School\\DataStructures\\Hw\\Linked list\\LinkedList\\Node.cs",
               "RelativeToolTip": "Node.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAADwvwIAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T12:46:13.023Z"
+              "WhenOpened": "2025-12-17T12:46:13.023Z",
+              "EditorCaption": ""
             }
           ]
         },

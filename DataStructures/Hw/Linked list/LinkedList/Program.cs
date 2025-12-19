@@ -6,11 +6,13 @@ namespace LinkedList
     {
         static void Main(string[] args)
         {
-            Node<int> na = new Node<int>(1);
+            Node<int> one = new Node<int>(1);
+            Node<int> two = new Node<int>(2);
+            Node<int> three = new Node<int>(3);
 
-            AddLast(na, 1);
-
-            Console.WriteLine(na);
+            Console.WriteLine(one.ToString());
+            one = DeleteLast(one);
+            Console.WriteLine(one.ToString());
 
         }
 
@@ -100,6 +102,32 @@ namespace LinkedList
 
 
         }
+
+        public static Node<T> DeleteLast<T>(Node<T> node)
+        {
+            if (node == null)
+            {
+                Console.WriteLine("list is empty");
+                return null;
+            }
+            else if (node.GetNext() == null)
+            {
+                return null;
+            }
+            else
+            {
+
+                while (node.GetNext().GetNext() != null)
+                {
+                    node = node.GetNext();
+                }
+
+                node.SetNext(null);
+                return node;
+            }
+        }
+
+
     }
 
 
