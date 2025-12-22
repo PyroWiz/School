@@ -6,13 +6,23 @@ namespace LinkedList
     {
         static void Main(string[] args)
         {
-            Node<int> one = new Node<int>(1);
-            Node<int> two = new Node<int>(2);
-            Node<int> three = new Node<int>(3);
+            try
+            {
 
-            Console.WriteLine(one.ToString());
-            one = DeleteLast(one);
-            Console.WriteLine(one.ToString());
+                Node<int> one = new Node<int>(1);
+                Node<int> two = new Node<int>(1);
+                Node<int> three = new Node<int>(1);
+
+                one.SetNext(two); two.SetNext(three);
+
+                one = DeleteSelectAll(one, 1);
+
+                Console.WriteLine(one);
+            }
+            catch (NullReferenceException)
+            {
+                Console.WriteLine("you emptied the list");
+            }
 
         }
 
@@ -112,6 +122,7 @@ namespace LinkedList
             }
             else if (node.GetNext() == null)
             {
+                Console.WriteLine("deleted the only node");
                 return null;
             }
             else
@@ -127,7 +138,73 @@ namespace LinkedList
             }
         }
 
+        public static Node<int> DeleteSelect(Node<int> node, int value)
+        {
+            Node<int> head = node;
+            if (node == null)
+            {
+                Console.WriteLine("empty list");
+                return null;
+            }
+            else if (node.GetValue() == value)
+            {
+                if (node.HasNext())
+                {
+                    head = node.GetNext();
+                    return head;
+                }
 
+                Console.WriteLine("its now empty");
+                return null;
+            }
+
+            while (node.GetNext().GetValue() != value)
+            {
+                node = node.GetNext();
+            }
+
+            node.SetNext(node.GetNext().GetNext());
+
+            return head;
+        }
+        public static Node<int> DeleteSelectAll(Node<int> node, int value)
+        {
+            Node<int> head = node;
+
+            if (node == null)
+            {
+                Console.WriteLine("empty list");
+                return null;
+            }
+
+            else if (node.GetValue() == value && !node.HasNext())
+            {
+                Console.WriteLine("now its empty");
+                return null;
+            }
+
+            while (head.GetValue() == value)
+            {
+                head = head.GetNext();
+            }
+
+            node = head;
+            Node<int> prev = node;
+
+            while (node.HasNext())
+            {
+                prev = node;
+                node = node.GetNext();
+
+                if (node.GetValue() == value)
+                {
+                    prev.SetNext(node.GetNext());
+                }
+            }
+
+
+            return head;
+        }
     }
 
 

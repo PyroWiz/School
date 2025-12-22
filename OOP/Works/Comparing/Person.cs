@@ -1,12 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Comparing
 {
-    internal class Person : IComparable<Person>
+    internal class Person : IComparable<Person>, ICloneable
     {
         int id; string name;
 
@@ -49,6 +45,16 @@ namespace Comparing
                 return name.CompareTo(other.name);
             }
 
+        }
+
+        public Object Clone()
+        {
+            return new Person(this.id, this.name);
+        }
+
+        public override string ToString()
+        {
+            return $"id: {this.id}, name: {this.name}";
         }
 
     }

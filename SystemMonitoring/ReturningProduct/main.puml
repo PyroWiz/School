@@ -1,0 +1,46 @@
+@startuml
+skinparam handwritten false
+skinparam backgroundColor white
+
+title Product Return Process (Exercise 6)
+
+|Customer|
+start
+:Fill return form on website;
+
+|System|
+if (Passed 14 days?) then (Yes)
+    :Auto-reject request;
+    stop
+else (No)
+    :Initial approval & send mail labels;
+endif
+
+|Customer|
+:Send package via mail;
+
+|Warehouse|
+:Receive package & physical check;
+if (Product condition?) then (Damaged)
+    :Return to customer (No Refund);
+    stop
+else (OK)
+    
+    |System|
+    fork
+        |Finance|
+        :Process credit refund;
+    fork again
+        |System|
+        :Update inventory (Return to shelf);
+    end fork
+    
+    |System|
+    :Send final email to customer;
+    
+    |Customer|
+    :Fill Satisfaction Survey;
+    stop
+endif
+
+@enduml

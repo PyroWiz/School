@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Comparing
 {
@@ -15,13 +11,27 @@ namespace Comparing
             Person three = new Person(2, "c");
 
             Person[] arr = new Person[] { one, two, three };
-
-           Array.Sort(arr);
+            /*
+            Array.Sort(arr);
 
             for (int i = 0; i < arr.Length; i++)
             {
                 Console.Write(arr[i].GetName() + " ");
                 Console.WriteLine(arr[i].GetId());
+            }
+            */
+
+
+            Person[] arr2 = new Person[arr.Length];
+
+            for (int i = 0; i < arr.Length; i++)
+            {
+                arr2[i] = (Person)arr[i].Clone();
+            }
+
+            for (int i = 0; i < arr.Length; i++)
+            {
+                Console.WriteLine(arr.ToString());
             }
         }
 

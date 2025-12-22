@@ -1,4 +1,6 @@
-﻿namespace LinkedList
+﻿using System;
+
+namespace LinkedList
 {
     internal class Node<T>
     {
