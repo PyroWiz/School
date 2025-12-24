@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Square = ({ color, text, setText }) => {
+const Square = ({ color, setText }) => {
   const squareStyle = {
     width: '200px',
     height: '200px',
@@ -13,8 +13,6 @@ const Square = ({ color, text, setText }) => {
   return (<div style={squareStyle}>
     <br />
     <input
-      type="text"
-      value={text}
       onChange={(e) => setText(e.target.value)} />
   </div>
   )
