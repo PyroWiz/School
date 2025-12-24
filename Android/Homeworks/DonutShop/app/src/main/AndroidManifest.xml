@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.DonutShop">
         <activity
+            android:name=".CheckoutPage"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
