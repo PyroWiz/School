@@ -1,4 +1,4 @@
-@startuml
+@startuml 
 
 abstract class Employee
 {

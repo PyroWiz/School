@@ -1,0 +1,12 @@
+@startuml School
+
+public class School{
+  -Student : student
+}
+public class Student{
+  - address : string
+}
+
+@enduml
+
+School o-- Student
